@@ -1,0 +1,944 @@
+[
+  {
+    "question_id": "q16",
+    "split": "test",
+    "strategy": "A",
+    "question": "In chapter 12, what must a plaintiff show to establish an unfair trade practice without proving intent?",
+    "filter": {
+      "chapter": 12
+    },
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 130,
+      "evidence_quote": "Plaintiffs do not have to prove intent. Showing that the practice itself was unfair or deceptive is sufficient.",
+      "expected_answer": "The practice itself must be shown to be unfair or deceptive; intent need not be proved."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p130-A-0-6738318796da",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 130,
+        "text": "may seek recourse for unfair trade practices by suing for compensatory or punitive damages. Plaintiffs do not\nhave to prove intent. Showing that the practice itself was unfair or deceptive is sufficient.\nFigure 12.2 The Federal Trade Commission (FTC) enforces consumer protection laws. (Credit: U.S. Government/ wikimedia/ License:\nPublic Domain)\nUnfair Trade Practices and Examples\nProduct Guarantees and False Endorsements\nCompanies must be prepared to honor product guarantees. For example, if a p",
+        "metadata": {
+          "chapter": 12,
+          "page_id": "business-law-i-essentials-p130",
+          "end_char": 500,
+          "strategy": "A",
+          "start_char": 0
+        },
+        "score": 0.8005979538320289
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p129-A-900-ae1643f30bfa",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 129,
+        "text": "offers, false or deceptive pricing, and non-compliance with\nmanufacturing standards. Alternative names for unfair trade practices are “deceptive trade practices” or “unfair\nbusiness practices.”\nSection 5(a) (https://www.federalreserve.gov/boarddocs/supmanual/cch/ftca.pdf) of the Federal Trade\nCommission Act prohibits “unfair or deceptive acts or practices in or affecting commerce.” Per the rule, unfair\npractices are those that cause, or are likely to cause, injury to consumers, those that consum",
+        "metadata": {
+          "chapter": 12,
+          "page_id": "business-law-i-essentials-p129",
+          "end_char": 1400,
+          "strategy": "A",
+          "start_char": 900
+        },
+        "score": 0.6825639416315533
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p129-A-0-3120b7bcaff9",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 129,
+        "text": "Figure 12.1 Introduction (Credit: Carol M. Highsmith collection/ wikimedia/ Attribution 2.0 Generic (CC BY 2.0))\nChapter Outline\n12.1 Unfair Trade Practices\n12.2 The Federal Trade Commission\nIntroduction\nLearning Outcomes\n• Analyze laws pertaining to unfair trade practices and the agency that scrutinizes them.\n12.1 Unfair Trade Practices\nThe term “unfair trade practice” describes the use of deceptive, fraudulent, or unethical methods to gain\nbusiness advantage or to cause injury to a consumer. U",
+        "metadata": {
+          "chapter": 12,
+          "page_id": "business-law-i-essentials-p129",
+          "end_char": 500,
+          "strategy": "A",
+          "start_char": 0
+        },
+        "score": 0.6784248756423531
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q17",
+    "split": "test",
+    "strategy": "A",
+    "question": "Which three sources of shared principles does the text identify as relevant to enforcing international law?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 140,
+      "evidence_quote": "the principles set forth by globally shared customs, treaties, and organizations.",
+      "expected_answer": "Customs, treaties, and organizations."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p137-A-1350-654a4d5f3a3d",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 137,
+        "text": "es, and organizations are the primary sources of international law (Clarkson,\nMiller, & Cross, 2018, p. 439).\nFigure 13.3 Three distinct components are sources for how international law is understood, defined, and interpreted around the\nworld. (Modification of art by BNED Credit: CC BY NC SA)\nThese three components work together to guide how nations understand, define, and interpret international\nlaws that govern global business affairs.\nInternational Customs\nCustoms are general practices betwee",
+        "metadata": {
+          "chapter": 13,
+          "page_id": "business-law-i-essentials-p137",
+          "end_char": 1850,
+          "strategy": "A",
+          "start_char": 1350
+        },
+        "score": 0.7799383997917175
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p140-A-0-02a1f0921d63",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 140,
+        "text": "These three components work synergistically to influence how the international community facilitates\nbusiness trade and commerce. More importantly, international law is enforced when a country violates the\nprinciples set forth by globally shared customs, treaties, and organizations.\nOne of the most important governing documents for international law is the United Nations Convention on\nContracts for the International Sale of Goods (CISG), which was established in 1980. This law governs\ncontracts",
+        "metadata": {
+          "chapter": 13,
+          "page_id": "business-law-i-essentials-p140",
+          "end_char": 499,
+          "strategy": "A",
+          "start_char": 0
+        },
+        "score": 0.7511580586433411
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p137-A-2700-5d9cf5833147",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 137,
+        "text": "ries that acknowledge\n13.1 • Introduction to International Law 127",
+        "metadata": {
+          "chapter": 13,
+          "page_id": "business-law-i-essentials-p137",
+          "end_char": 2766,
+          "strategy": "A",
+          "start_char": 2700
+        },
+        "score": 0.6966404084395925
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q18",
+    "split": "test",
+    "strategy": "A",
+    "question": "In chapter 14, what is the purpose of the Securities Exchange Act's reporting requirements for public companies?",
+    "filter": {
+      "chapter": 14
+    },
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 151,
+      "evidence_quote": "The purpose of these requirements was transparency, that is, keeping the public up to date and informed of changes that might impact securities prices.",
+      "expected_answer": "To keep the public informed of changes that could affect securities prices."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p151-A-1351-7cb1456875c5",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 151,
+        "text": "help them make informed investment decisions.\nRegistration Requirements\nThe Securities Act of 1933 required companies initiating securities offers and exchanges to register with the\nSEC, unless they met exemption criteria. Section 5 of the Securities Exchange Act of 1934 built upon this\nfoundation and made it unlawful to transact on unregistered exchanges and specifically extended this\nregulation to the usage of the mail and interstate commerce. 15 U.S. Code § 78f states that exchanges must\nnot",
+        "metadata": {
+          "chapter": 14,
+          "page_id": "business-law-i-essentials-p151",
+          "end_char": 1850,
+          "strategy": "A",
+          "start_char": 1351
+        },
+        "score": 0.7217563556577961
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p151-A-450-264897cfb29b",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 151,
+        "text": "subject to Section 15(d) must file reports with the SEC. Section 12 requires the registration of certain\nsecurities and outlines the procedures necessary to do so. Information required by Section 12 includes the\nnature of the business, its financial structure, the different classes of securities, the names of officers and\ndirectors along with their salaries and bonus arrangements, and financial statements. Section 15 requires\nbrokers and dealers to register with the SEC. Individuals who buy and",
+        "metadata": {
+          "chapter": 14,
+          "page_id": "business-law-i-essentials-p151",
+          "end_char": 949,
+          "strategy": "A",
+          "start_char": 450
+        },
+        "score": 0.6901808771437172
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p147-A-901-8db15e3cf548",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 147,
+        "text": "do not implement and enforce compliance procedures can become liable for the actions of\ntheir employees who fail to follow the law.\nReporting Requirements\nPublicly owned companies that meet certain size requirements are called reporting companies, and per\nSection 13(a) of the Securities Exchange Act of 1934, they must file periodic disclosures. The purpose of these\ndisclosures is to help investors make educated decisions regarding how to invest their money. These reports\ninclude information abo",
+        "metadata": {
+          "chapter": 14,
+          "page_id": "business-law-i-essentials-p147",
+          "end_char": 1400,
+          "strategy": "A",
+          "start_char": 901
+        },
+        "score": 0.6901784333533543
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false
+  },
+  {
+    "question_id": "q19",
+    "split": "test",
+    "strategy": "A",
+    "question": "What are state securities laws intended to combat fraud commonly called?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 152,
+      "evidence_quote": "state-level securities laws aimed to combat fraud are called blue sky laws.",
+      "expected_answer": "Blue sky laws."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p152-A-0-bb1d37e7f17a",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 152,
+        "text": "it, these investments were backed by nothing except the blue skies of Kansas. So, state-level securities laws\naimed to combat fraud are called blue sky laws. The SEC does not have jurisdiction over activities within states\nand does not enforce blue sky laws.\nFigure 14.5 In addition to the Securities Exchange Act of 1934, blue sky laws provide an additional state-level layer of legal protection\nfor the public. (Credit: Elia Clerici/ pexels/ License: CC0)\n142 14 • Securities Regulation\nAccess for",
+        "metadata": {
+          "chapter": 14,
+          "page_id": "business-law-i-essentials-p152",
+          "end_char": 499,
+          "strategy": "A",
+          "start_char": 0
+        },
+        "score": 0.6398144769723895
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p019-A-2250-883291fb655a",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 19,
+        "text": "raised by consumers and businesses,\npre-merger notification filings, congressional inquiries, or reports in the media and may seek voluntary\ncompliance by offending businesses through a consent order, administrative complaints, or federal litigation.\nSecurities Regulation\nSecurities regulation involves both federal and state regulation of securities and stocks by governmental\nregulatory agencies. At times, it may also involve the regulations of exchanges like the New York Stock\nExchange, as well",
+        "metadata": {
+          "chapter": 1,
+          "page_id": "business-law-i-essentials-p019",
+          "end_char": 2750,
+          "strategy": "A",
+          "start_char": 2250
+        },
+        "score": 0.6289033702342723
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p149-A-1350-7f9d5d653d5e",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 149,
+        "text": "in the social and economic paradigms and legal frameworks of the United States.\n14.2 • The Framework of Securities Regulation 139",
+        "metadata": {
+          "chapter": 14,
+          "page_id": "business-law-i-essentials-p149",
+          "end_char": 1479,
+          "strategy": "A",
+          "start_char": 1350
+        },
+        "score": 0.5910906791687054
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q20",
+    "split": "test",
+    "strategy": "A",
+    "question": "Why can group negotiation be more difficult to resolve than a two-person negotiation?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 24,
+      "evidence_quote": "Group negotiation involves more than two individuals or parties, and by its very nature, it is often more complex, time-consuming, and challenging to resolve.",
+      "expected_answer": "It involves more than two parties and is often more complex, time-consuming, and challenging to resolve."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p024-A-451-b18e6a88cfd9",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 24,
+        "text": "Group negotiation involves more than two individuals or parties, and by its very nature, it is often\nmore complex, time-consuming, and challenging to resolve.\nWhile dyadic and group negotiations may involve different dynamics, one of the most important aspects of\nany negotiation, regardless of the quantity of negotiators, is the objective. Negotiation experts recognize two\nmajor goals of negotiation: relational and outcome. Relational goals are focused on building, maintaining, or\nrepairing a p",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p024",
+          "end_char": 950,
+          "strategy": "A",
+          "start_char": 451
+        },
+        "score": 0.8526675359209641
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p023-A-1351-c243838cac59",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 23,
+        "text": "of dispute settlement.\nNegotiation Types and Objectives\nPer the above definition, negotiation becomes necessary when two parties hold “non-identical” preferences.\nThis statement seems fairly obvious, since 100% agreement would indicate that there is not any need for\nnegotiation. From this basic starting point, there are several ways of thinking about negotiation, including how\nDisputes and Dispute Settlement\n2",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p023",
+          "end_char": 1764,
+          "strategy": "A",
+          "start_char": 1351
+        },
+        "score": 0.6898163968215225
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p024-A-0-7c2bcb8f7667",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 24,
+        "text": "many parties are involved. For example, if two small business owners find themselves in a disagreement over\nproperty lines, they will frequently engage in dyadic negotiation. Put simply, dyadic negotiation involves two\nindividuals interacting with one another in an attempt to resolve a dispute. If a third neighbor overhears the\ndispute and believes one or both of them are wrong with regard to the property line, then group negotiation\ncould ensue. Group negotiation involves more than two individu",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p024",
+          "end_char": 500,
+          "strategy": "A",
+          "start_char": 0
+        },
+        "score": 0.6863311733702178
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q16",
+    "split": "test",
+    "strategy": "B",
+    "question": "In chapter 12, what must a plaintiff show to establish an unfair trade practice without proving intent?",
+    "filter": {
+      "chapter": 12
+    },
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 130,
+      "evidence_quote": "Plaintiffs do not have to prove intent. Showing that the practice itself was unfair or deceptive is sufficient.",
+      "expected_answer": "The practice itself must be shown to be unfair or deceptive; intent need not be proved."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p130-B-0-27be033ea87c",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 130,
+        "text": "may seek recourse for unfair trade practices by suing for compensatory or punitive damages. Plaintiffs do not\nhave to prove intent. Showing that the practice itself was unfair or deceptive is sufficient.\nFigure 12.2 The Federal Trade Commission (FTC) enforces consumer protection laws. (Credit: U.S. Government/ wikimedia/ License:\nPublic Domain)\nUnfair Trade Practices and Examples\nProduct Guarantees and False Endorsements\nCompanies must be prepared to honor product guarantees. For example, if a",
+        "metadata": {
+          "chapter": 12,
+          "page_id": "business-law-i-essentials-p130",
+          "end_char": 498,
+          "strategy": "B",
+          "start_char": 0
+        },
+        "score": 0.8019702316504869
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p131-B-4479-1d7842fba1ee",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 131,
+        "text": "Unfair Trade Practices 121",
+        "metadata": {
+          "chapter": 12,
+          "page_id": "business-law-i-essentials-p131",
+          "end_char": 4505,
+          "strategy": "B",
+          "start_char": 4479
+        },
+        "score": 0.7755483388900812
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p129-B-0-a6c4715782bd",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 129,
+        "text": "Figure 12.1 Introduction (Credit: Carol M. Highsmith collection/ wikimedia/ Attribution 2.0 Generic (CC BY 2.0))\nChapter Outline\n12.1 Unfair Trade Practices\n12.2 The Federal Trade Commission\nIntroduction\nLearning Outcomes\n• Analyze laws pertaining to unfair trade practices and the agency that scrutinizes them.\n12.1 Unfair Trade Practices\nThe term “unfair trade practice” describes the use of deceptive, fraudulent, or unethical methods to gain\nbusiness advantage or to cause injury to a consumer.",
+        "metadata": {
+          "chapter": 12,
+          "page_id": "business-law-i-essentials-p129",
+          "end_char": 498,
+          "strategy": "B",
+          "start_char": 0
+        },
+        "score": 0.6829065302498972
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q17",
+    "split": "test",
+    "strategy": "B",
+    "question": "Which three sources of shared principles does the text identify as relevant to enforcing international law?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 140,
+      "evidence_quote": "the principles set forth by globally shared customs, treaties, and organizations.",
+      "expected_answer": "Customs, treaties, and organizations."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p140-B-0-02a1f0921d63",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 140,
+        "text": "These three components work synergistically to influence how the international community facilitates\nbusiness trade and commerce. More importantly, international law is enforced when a country violates the\nprinciples set forth by globally shared customs, treaties, and organizations.\nOne of the most important governing documents for international law is the United Nations Convention on\nContracts for the International Sale of Goods (CISG), which was established in 1980. This law governs\ncontracts",
+        "metadata": {
+          "chapter": 13,
+          "page_id": "business-law-i-essentials-p140",
+          "end_char": 499,
+          "strategy": "B",
+          "start_char": 0
+        },
+        "score": 0.7511580586433411
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p137-B-1498-c311fa591254",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 137,
+        "text": "are sources for how international law is understood, defined, and interpreted around the\nworld. (Modification of art by BNED Credit: CC BY NC SA)\nThese three components work together to guide how nations understand, define, and interpret international\nlaws that govern global business affairs.\nInternational Customs\nCustoms are general practices between nations that guide their business relationships. According to the\nStatute of the International Court of Justice, international customs are",
+        "metadata": {
+          "chapter": 13,
+          "page_id": "business-law-i-essentials-p137",
+          "end_char": 1990,
+          "strategy": "B",
+          "start_char": 1498
+        },
+        "score": 0.6965499520301819
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p136-B-0-1f105c38f80e",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 136,
+        "text": "Figure 13.2 International laws are based on customs, treaties, and organizations that guide partnerships among nations. (Credit:\nGDJ/ pixabay/ License: CC0)\nInternational Law\nInternational law relates to the policies and procedures that govern relationships among nations (Clarkson,\nMiller, & Cross, 2018). These are crucial for businesses for multiple reasons. First, there is not a single\nauthoritative legislative source for global business affairs, nor a single world court responsible for",
+        "metadata": {
+          "chapter": 13,
+          "page_id": "business-law-i-essentials-p136",
+          "end_char": 493,
+          "strategy": "B",
+          "start_char": 0
+        },
+        "score": 0.6726160450348893
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q18",
+    "split": "test",
+    "strategy": "B",
+    "question": "In chapter 14, what is the purpose of the Securities Exchange Act's reporting requirements for public companies?",
+    "filter": {
+      "chapter": 14
+    },
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 151,
+      "evidence_quote": "The purpose of these requirements was transparency, that is, keeping the public up to date and informed of changes that might impact securities prices.",
+      "expected_answer": "To keep the public informed of changes that could affect securities prices."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p151-B-994-4ccc6e0f2e45",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 151,
+        "text": "therefore, are not subject to filing under Section 15. Section 15(d) requires registered companies to file\nperiodic reports, such as the annual Form 10-K and the quarterly Form 10-Q. These reports will be explained in\ndetail in the next section of this chapter. The SEC Commission makes these reports available to all investors\nthrough the EDGAR website to help them make informed investment decisions.\nRegistration Requirements\nThe Securities Act of 1933 required companies initiating securities",
+        "metadata": {
+          "chapter": 14,
+          "page_id": "business-law-i-essentials-p151",
+          "end_char": 1490,
+          "strategy": "B",
+          "start_char": 994
+        },
+        "score": 0.7117088608915305
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p147-B-989-55a51e2f2ff6",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 147,
+        "text": "their employees who fail to follow the law.\nReporting Requirements\nPublicly owned companies that meet certain size requirements are called reporting companies, and per\nSection 13(a) of the Securities Exchange Act of 1934, they must file periodic disclosures. The purpose of these\ndisclosures is to help investors make educated decisions regarding how to invest their money. These reports\ninclude information about a company’s line of business, corporate officers and directors, and financial",
+        "metadata": {
+          "chapter": 14,
+          "page_id": "business-law-i-essentials-p147",
+          "end_char": 1480,
+          "strategy": "B",
+          "start_char": 989
+        },
+        "score": 0.7113138225283108
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p151-B-498-cc9d3da8a2f3",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 151,
+        "text": "the SEC. Section 12 requires the registration of certain\nsecurities and outlines the procedures necessary to do so. Information required by Section 12 includes the\nnature of the business, its financial structure, the different classes of securities, the names of officers and\ndirectors along with their salaries and bonus arrangements, and financial statements. Section 15 requires\nbrokers and dealers to register with the SEC. Individuals who buy and sell securities are considered traders,\nand",
+        "metadata": {
+          "chapter": 14,
+          "page_id": "business-law-i-essentials-p151",
+          "end_char": 993,
+          "strategy": "B",
+          "start_char": 498
+        },
+        "score": 0.6622512743173511
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false
+  },
+  {
+    "question_id": "q19",
+    "split": "test",
+    "strategy": "B",
+    "question": "What are state securities laws intended to combat fraud commonly called?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 152,
+      "evidence_quote": "state-level securities laws aimed to combat fraud are called blue sky laws.",
+      "expected_answer": "Blue sky laws."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p152-B-0-bb1d37e7f17a",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 152,
+        "text": "it, these investments were backed by nothing except the blue skies of Kansas. So, state-level securities laws\naimed to combat fraud are called blue sky laws. The SEC does not have jurisdiction over activities within states\nand does not enforce blue sky laws.\nFigure 14.5 In addition to the Securities Exchange Act of 1934, blue sky laws provide an additional state-level layer of legal protection\nfor the public. (Credit: Elia Clerici/ pexels/ License: CC0)\n142 14 • Securities Regulation\nAccess for",
+        "metadata": {
+          "chapter": 14,
+          "page_id": "business-law-i-essentials-p152",
+          "end_char": 499,
+          "strategy": "B",
+          "start_char": 0
+        },
+        "score": 0.6398144769723895
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p019-B-2466-dc6d35ea0c3a",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 19,
+        "text": "complaints, or federal litigation.\nSecurities Regulation\nSecurities regulation involves both federal and state regulation of securities and stocks by governmental\nregulatory agencies. At times, it may also involve the regulations of exchanges like the New York Stock\nExchange, as well as the rules of self-regulatory organizations like the Financial Industry Regulatory Authority\n(FINRA).\nThe Securities and Exchange Commission (SEC) regulates securities on the federal level. Other instruments",
+        "metadata": {
+          "chapter": 1,
+          "page_id": "business-law-i-essentials-p019",
+          "end_char": 2960,
+          "strategy": "B",
+          "start_char": 2466
+        },
+        "score": 0.624142788401677
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p151-B-2491-dab0ca13aeb8",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 151,
+        "text": "commissioner J.N. Dolley became concerned about what he called “swindles,” in which investors at the time\nlost money by investing in “fake mines” or “a Central American plantation that was nine parts imagination.”\nTherefore, he lobbied for the first “comprehensive” securities law in the United States because, as he phrased\n14.2 • The Framework of Securities Regulation 141",
+        "metadata": {
+          "chapter": 14,
+          "page_id": "business-law-i-essentials-p151",
+          "end_char": 2865,
+          "strategy": "B",
+          "start_char": 2491
+        },
+        "score": 0.6069583892822309
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q20",
+    "split": "test",
+    "strategy": "B",
+    "question": "Why can group negotiation be more difficult to resolve than a two-person negotiation?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 24,
+      "evidence_quote": "Group negotiation involves more than two individuals or parties, and by its very nature, it is often more complex, time-consuming, and challenging to resolve.",
+      "expected_answer": "It involves more than two parties and is often more complex, time-consuming, and challenging to resolve."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p024-B-492-e69566a05f3a",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 24,
+        "text": "individuals or parties, and by its very nature, it is often\nmore complex, time-consuming, and challenging to resolve.\nWhile dyadic and group negotiations may involve different dynamics, one of the most important aspects of\nany negotiation, regardless of the quantity of negotiators, is the objective. Negotiation experts recognize two\nmajor goals of negotiation: relational and outcome. Relational goals are focused on building, maintaining, or\nrepairing a partnership, connection, or rapport with",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p024",
+          "end_char": 989,
+          "strategy": "B",
+          "start_char": 492
+        },
+        "score": 0.8012981892405862
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p024-B-0-6b2996de77c5",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 24,
+        "text": "many parties are involved. For example, if two small business owners find themselves in a disagreement over\nproperty lines, they will frequently engage in dyadic negotiation. Put simply, dyadic negotiation involves two\nindividuals interacting with one another in an attempt to resolve a dispute. If a third neighbor overhears the\ndispute and believes one or both of them are wrong with regard to the property line, then group negotiation\ncould ensue. Group negotiation involves more than two",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p024",
+          "end_char": 491,
+          "strategy": "B",
+          "start_char": 0
+        },
+        "score": 0.6837245837203789
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p023-B-1485-ae42485e269a",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 23,
+        "text": "“non-identical” preferences.\nThis statement seems fairly obvious, since 100% agreement would indicate that there is not any need for\nnegotiation. From this basic starting point, there are several ways of thinking about negotiation, including how\nDisputes and Dispute Settlement\n2",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p023",
+          "end_char": 1764,
+          "strategy": "B",
+          "start_char": 1485
+        },
+        "score": 0.6764289342292829
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false
+  },
+  {
+    "question_id": "q16",
+    "split": "test",
+    "strategy": "C",
+    "question": "In chapter 12, what must a plaintiff show to establish an unfair trade practice without proving intent?",
+    "filter": {
+      "chapter": 12
+    },
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 130,
+      "evidence_quote": "Plaintiffs do not have to prove intent. Showing that the practice itself was unfair or deceptive is sufficient.",
+      "expected_answer": "The practice itself must be shown to be unfair or deceptive; intent need not be proved."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p130-C-0-27be033ea87c",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 130,
+        "text": "may seek recourse for unfair trade practices by suing for compensatory or punitive damages. Plaintiffs do not\nhave to prove intent. Showing that the practice itself was unfair or deceptive is sufficient.\nFigure 12.2 The Federal Trade Commission (FTC) enforces consumer protection laws. (Credit: U.S. Government/ wikimedia/ License:\nPublic Domain)\nUnfair Trade Practices and Examples\nProduct Guarantees and False Endorsements\nCompanies must be prepared to honor product guarantees. For example, if a",
+        "metadata": {
+          "chapter": 12,
+          "page_id": "business-law-i-essentials-p130",
+          "end_char": 498,
+          "strategy": "C",
+          "start_char": 0
+        },
+        "score": 0.8019702316504869
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p131-C-4479-1d7842fba1ee",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 131,
+        "text": "Unfair Trade Practices 121",
+        "metadata": {
+          "chapter": 12,
+          "page_id": "business-law-i-essentials-p131",
+          "end_char": 4505,
+          "strategy": "C",
+          "start_char": 4479
+        },
+        "score": 0.7755483388900812
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p129-C-0-a6c4715782bd",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 129,
+        "text": "Figure 12.1 Introduction (Credit: Carol M. Highsmith collection/ wikimedia/ Attribution 2.0 Generic (CC BY 2.0))\nChapter Outline\n12.1 Unfair Trade Practices\n12.2 The Federal Trade Commission\nIntroduction\nLearning Outcomes\n• Analyze laws pertaining to unfair trade practices and the agency that scrutinizes them.\n12.1 Unfair Trade Practices\nThe term “unfair trade practice” describes the use of deceptive, fraudulent, or unethical methods to gain\nbusiness advantage or to cause injury to a consumer.",
+        "metadata": {
+          "chapter": 12,
+          "page_id": "business-law-i-essentials-p129",
+          "end_char": 498,
+          "strategy": "C",
+          "start_char": 0
+        },
+        "score": 0.6829065302498972
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q17",
+    "split": "test",
+    "strategy": "C",
+    "question": "Which three sources of shared principles does the text identify as relevant to enforcing international law?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 140,
+      "evidence_quote": "the principles set forth by globally shared customs, treaties, and organizations.",
+      "expected_answer": "Customs, treaties, and organizations."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p140-C-0-02a1f0921d63",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 140,
+        "text": "These three components work synergistically to influence how the international community facilitates\nbusiness trade and commerce. More importantly, international law is enforced when a country violates the\nprinciples set forth by globally shared customs, treaties, and organizations.\nOne of the most important governing documents for international law is the United Nations Convention on\nContracts for the International Sale of Goods (CISG), which was established in 1980. This law governs\ncontracts",
+        "metadata": {
+          "chapter": 13,
+          "page_id": "business-law-i-essentials-p140",
+          "end_char": 499,
+          "strategy": "C",
+          "start_char": 0
+        },
+        "score": 0.7511580586433411
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p137-C-1498-c311fa591254",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 137,
+        "text": "are sources for how international law is understood, defined, and interpreted around the\nworld. (Modification of art by BNED Credit: CC BY NC SA)\nThese three components work together to guide how nations understand, define, and interpret international\nlaws that govern global business affairs.\nInternational Customs\nCustoms are general practices between nations that guide their business relationships. According to the\nStatute of the International Court of Justice, international customs are",
+        "metadata": {
+          "chapter": 13,
+          "page_id": "business-law-i-essentials-p137",
+          "end_char": 1990,
+          "strategy": "C",
+          "start_char": 1498
+        },
+        "score": 0.6965499520301819
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p136-C-0-1f105c38f80e",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 136,
+        "text": "Figure 13.2 International laws are based on customs, treaties, and organizations that guide partnerships among nations. (Credit:\nGDJ/ pixabay/ License: CC0)\nInternational Law\nInternational law relates to the policies and procedures that govern relationships among nations (Clarkson,\nMiller, & Cross, 2018). These are crucial for businesses for multiple reasons. First, there is not a single\nauthoritative legislative source for global business affairs, nor a single world court responsible for",
+        "metadata": {
+          "chapter": 13,
+          "page_id": "business-law-i-essentials-p136",
+          "end_char": 493,
+          "strategy": "C",
+          "start_char": 0
+        },
+        "score": 0.6726160450348893
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q18",
+    "split": "test",
+    "strategy": "C",
+    "question": "In chapter 14, what is the purpose of the Securities Exchange Act's reporting requirements for public companies?",
+    "filter": {
+      "chapter": 14
+    },
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 151,
+      "evidence_quote": "The purpose of these requirements was transparency, that is, keeping the public up to date and informed of changes that might impact securities prices.",
+      "expected_answer": "To keep the public informed of changes that could affect securities prices."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p151-C-994-4ccc6e0f2e45",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 151,
+        "text": "therefore, are not subject to filing under Section 15. Section 15(d) requires registered companies to file\nperiodic reports, such as the annual Form 10-K and the quarterly Form 10-Q. These reports will be explained in\ndetail in the next section of this chapter. The SEC Commission makes these reports available to all investors\nthrough the EDGAR website to help them make informed investment decisions.\nRegistration Requirements\nThe Securities Act of 1933 required companies initiating securities",
+        "metadata": {
+          "chapter": 14,
+          "page_id": "business-law-i-essentials-p151",
+          "end_char": 1490,
+          "strategy": "C",
+          "start_char": 994
+        },
+        "score": 0.7117088608915305
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p147-C-989-55a51e2f2ff6",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 147,
+        "text": "their employees who fail to follow the law.\nReporting Requirements\nPublicly owned companies that meet certain size requirements are called reporting companies, and per\nSection 13(a) of the Securities Exchange Act of 1934, they must file periodic disclosures. The purpose of these\ndisclosures is to help investors make educated decisions regarding how to invest their money. These reports\ninclude information about a company’s line of business, corporate officers and directors, and financial",
+        "metadata": {
+          "chapter": 14,
+          "page_id": "business-law-i-essentials-p147",
+          "end_char": 1480,
+          "strategy": "C",
+          "start_char": 989
+        },
+        "score": 0.7113138225283108
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p151-C-498-cc9d3da8a2f3",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 151,
+        "text": "the SEC. Section 12 requires the registration of certain\nsecurities and outlines the procedures necessary to do so. Information required by Section 12 includes the\nnature of the business, its financial structure, the different classes of securities, the names of officers and\ndirectors along with their salaries and bonus arrangements, and financial statements. Section 15 requires\nbrokers and dealers to register with the SEC. Individuals who buy and sell securities are considered traders,\nand",
+        "metadata": {
+          "chapter": 14,
+          "page_id": "business-law-i-essentials-p151",
+          "end_char": 993,
+          "strategy": "C",
+          "start_char": 498
+        },
+        "score": 0.6622512743173511
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false
+  },
+  {
+    "question_id": "q19",
+    "split": "test",
+    "strategy": "C",
+    "question": "What are state securities laws intended to combat fraud commonly called?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 152,
+      "evidence_quote": "state-level securities laws aimed to combat fraud are called blue sky laws.",
+      "expected_answer": "Blue sky laws."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p152-C-0-bb1d37e7f17a",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 152,
+        "text": "it, these investments were backed by nothing except the blue skies of Kansas. So, state-level securities laws\naimed to combat fraud are called blue sky laws. The SEC does not have jurisdiction over activities within states\nand does not enforce blue sky laws.\nFigure 14.5 In addition to the Securities Exchange Act of 1934, blue sky laws provide an additional state-level layer of legal protection\nfor the public. (Credit: Elia Clerici/ pexels/ License: CC0)\n142 14 • Securities Regulation\nAccess for",
+        "metadata": {
+          "chapter": 14,
+          "page_id": "business-law-i-essentials-p152",
+          "end_char": 499,
+          "strategy": "C",
+          "start_char": 0
+        },
+        "score": 0.6398144769723895
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p019-C-2466-dc6d35ea0c3a",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 19,
+        "text": "complaints, or federal litigation.\nSecurities Regulation\nSecurities regulation involves both federal and state regulation of securities and stocks by governmental\nregulatory agencies. At times, it may also involve the regulations of exchanges like the New York Stock\nExchange, as well as the rules of self-regulatory organizations like the Financial Industry Regulatory Authority\n(FINRA).\nThe Securities and Exchange Commission (SEC) regulates securities on the federal level. Other instruments",
+        "metadata": {
+          "chapter": 1,
+          "page_id": "business-law-i-essentials-p019",
+          "end_char": 2960,
+          "strategy": "C",
+          "start_char": 2466
+        },
+        "score": 0.624142788401677
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p151-C-2491-dab0ca13aeb8",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 151,
+        "text": "commissioner J.N. Dolley became concerned about what he called “swindles,” in which investors at the time\nlost money by investing in “fake mines” or “a Central American plantation that was nine parts imagination.”\nTherefore, he lobbied for the first “comprehensive” securities law in the United States because, as he phrased\n14.2 • The Framework of Securities Regulation 141",
+        "metadata": {
+          "chapter": 14,
+          "page_id": "business-law-i-essentials-p151",
+          "end_char": 2865,
+          "strategy": "C",
+          "start_char": 2491
+        },
+        "score": 0.6069583892822309
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q20",
+    "split": "test",
+    "strategy": "C",
+    "question": "Why can group negotiation be more difficult to resolve than a two-person negotiation?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 24,
+      "evidence_quote": "Group negotiation involves more than two individuals or parties, and by its very nature, it is often more complex, time-consuming, and challenging to resolve.",
+      "expected_answer": "It involves more than two parties and is often more complex, time-consuming, and challenging to resolve."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p024-C-492-e69566a05f3a",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 24,
+        "text": "individuals or parties, and by its very nature, it is often\nmore complex, time-consuming, and challenging to resolve.\nWhile dyadic and group negotiations may involve different dynamics, one of the most important aspects of\nany negotiation, regardless of the quantity of negotiators, is the objective. Negotiation experts recognize two\nmajor goals of negotiation: relational and outcome. Relational goals are focused on building, maintaining, or\nrepairing a partnership, connection, or rapport with",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p024",
+          "end_char": 989,
+          "strategy": "C",
+          "start_char": 492
+        },
+        "score": 0.8012981892405862
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p024-C-0-6b2996de77c5",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 24,
+        "text": "many parties are involved. For example, if two small business owners find themselves in a disagreement over\nproperty lines, they will frequently engage in dyadic negotiation. Put simply, dyadic negotiation involves two\nindividuals interacting with one another in an attempt to resolve a dispute. If a third neighbor overhears the\ndispute and believes one or both of them are wrong with regard to the property line, then group negotiation\ncould ensue. Group negotiation involves more than two",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p024",
+          "end_char": 491,
+          "strategy": "C",
+          "start_char": 0
+        },
+        "score": 0.6837245837203789
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p023-C-1485-ae42485e269a",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 23,
+        "text": "“non-identical” preferences.\nThis statement seems fairly obvious, since 100% agreement would indicate that there is not any need for\nnegotiation. From this basic starting point, there are several ways of thinking about negotiation, including how\nDisputes and Dispute Settlement\n2",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p023",
+          "end_char": 1764,
+          "strategy": "C",
+          "start_char": 1485
+        },
+        "score": 0.6764289342292829
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false
+  }
+]

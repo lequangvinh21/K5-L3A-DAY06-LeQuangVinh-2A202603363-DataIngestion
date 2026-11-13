@@ -1,0 +1,2810 @@
+[
+  {
+    "question_id": "q01",
+    "split": "dev",
+    "strategy": "A",
+    "question": "How do judges use precedent when deciding a case under the common-law system?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 16,
+      "evidence_quote": "judges rely on precedent, i.e., previous court rulings on similar cases, when determining the ruling in their own cases.",
+      "expected_answer": "They consult previous rulings in similar cases to inform their decision."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p014-A-450-dd51af5ac2fb",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 14,
+        "text": "past decisions is known as case law. Judges use\ncase law to inform their own rulings. Indeed, judges rely on precedent, i.e., previous court rulings on similar\ncases, for ruling on their own cases.\nAll U.S. states, except Louisiana, have enacted “reception statutes,” stating that the judge-made common law\nof England is the law of the state to the extent that it does not conflict with the state’s current laws.\nHowever, the body of American law is now so robust that American cases rarely cite Engl",
+        "metadata": {
+          "chapter": 1,
+          "page_id": "business-law-i-essentials-p014",
+          "end_char": 950,
+          "strategy": "A",
+          "start_char": 450
+        },
+        "score": 0.7707939147949273
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p016-A-0-15a2c2ff2262",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 16,
+        "text": "American Common Law\nAs discussed in the previous section, the United States follows the common law legal tradition of English law.\nJudges in the Common Law system help shape the law through their rulings and interpretations. This body of\npast decisions is known as case law, which is used by judges to inform their own rulings. In fact, judges rely on\nprecedent, i.e., previous court rulings on similar cases, when determining the ruling in their own cases.\nAn example of how case law works is the ca",
+        "metadata": {
+          "chapter": 1,
+          "page_id": "business-law-i-essentials-p016",
+          "end_char": 500,
+          "strategy": "A",
+          "start_char": 0
+        },
+        "score": 0.745172999655404
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p014-A-900-e6d5a3a052fa",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 14,
+        "text": "now so robust that American cases rarely cite English materials, except\nfor a British classic or a famous old case. Additionally, foreign law is not cited as binding precedent. Therefore,\nthe current American practice of the common law tradition refers more to the process of judges looking to the\nprecedent set jurisdictionally, and substantially similar to, American case law.\nMaintaining Order\nCongruent with the goal of establishing standards and promoting consistency, laws are also used to prom",
+        "metadata": {
+          "chapter": 1,
+          "page_id": "business-law-i-essentials-p014",
+          "end_char": 1400,
+          "strategy": "A",
+          "start_char": 900
+        },
+        "score": 0.6787652564784744
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q02",
+    "split": "dev",
+    "strategy": "A",
+    "question": "In chapter 2, why might disputing parties prefer mediation when they want to keep a sensitive dispute private?",
+    "filter": {
+      "chapter": 2
+    },
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 27,
+      "evidence_quote": "Since court proceedings become a matter of public record, it can be advantageous to use mediation to preserve anonymity.",
+      "expected_answer": "Mediation can preserve anonymity because court proceedings become public record."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p027-A-900-b0d759a4200a",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 27,
+        "text": "ve up a certain degree of control over the outcome. A\njudge may come up with a solution to which neither party is in favor. In contrast, mediation gives the\ndisputing parties opportunities to find common ground on their own terms, before relinquishing control\nto outside forces.\nRole of the Mediator\nSuccessful mediators work to immediately establish personal rapport with the disputing parties. They often\nhave a short period of time to interact with the parties and work to position themselves as a",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p027",
+          "end_char": 1400,
+          "strategy": "A",
+          "start_char": 900
+        },
+        "score": 0.727820932865148
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p027-A-2251-58a1b12511c7",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 27,
+        "text": "opening statement, both parties are afforded the opportunity to describe\nthe nature of the dispute and their desired solution.\n• Joint Discussion: The mediator will try to get the two disagreeing parties to speak to one another and will\nguide the discussion toward a mutually amicable solution. This part of the mediation process usually\nidentifies which issues need to be resolved and explores ways to address the issues.\n• Private Caucus: During this stage, each party has the ability to meet and",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p027",
+          "end_char": 2749,
+          "strategy": "A",
+          "start_char": 2251
+        },
+        "score": 0.6977259696885377
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p026-A-2701-15274fe507d5",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 26,
+        "text": "defendant, or the party that is accused of wrongdoing, attempt mediation before proceeding to trial. This\nrecommendation is especially true for issues that are filed in small claims courts, where judges attempt to\nstreamline dispute resolution. Not all mediators are associated with public court systems. There are many\nagency-connected and private mediation services that disputing parties can hire to help them potentially\nresolve their dispute. The American Bar Association suggests that, in addi",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p026",
+          "end_char": 3200,
+          "strategy": "A",
+          "start_char": 2701
+        },
+        "score": 0.6963150889779629
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false
+  },
+  {
+    "question_id": "q03",
+    "split": "dev",
+    "strategy": "A",
+    "question": "What does the text mean by dyadic negotiation?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 24,
+      "evidence_quote": "Put simply, dyadic negotiation involves two individuals interacting with one another in an attempt to resolve a dispute.",
+      "expected_answer": "Two individuals interact to try to resolve a dispute."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p024-A-451-b18e6a88cfd9",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 24,
+        "text": "Group negotiation involves more than two individuals or parties, and by its very nature, it is often\nmore complex, time-consuming, and challenging to resolve.\nWhile dyadic and group negotiations may involve different dynamics, one of the most important aspects of\nany negotiation, regardless of the quantity of negotiators, is the objective. Negotiation experts recognize two\nmajor goals of negotiation: relational and outcome. Relational goals are focused on building, maintaining, or\nrepairing a p",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p024",
+          "end_char": 950,
+          "strategy": "A",
+          "start_char": 451
+        },
+        "score": 0.6229690684657745
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p024-A-0-7c2bcb8f7667",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 24,
+        "text": "many parties are involved. For example, if two small business owners find themselves in a disagreement over\nproperty lines, they will frequently engage in dyadic negotiation. Put simply, dyadic negotiation involves two\nindividuals interacting with one another in an attempt to resolve a dispute. If a third neighbor overhears the\ndispute and believes one or both of them are wrong with regard to the property line, then group negotiation\ncould ensue. Group negotiation involves more than two individu",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p024",
+          "end_char": 500,
+          "strategy": "A",
+          "start_char": 0
+        },
+        "score": 0.5881572120283383
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p034-A-900-f02a067336f1",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 34,
+        "text": "etrieved from: https://www.pon.harvard.edu/daily/international-negotiation-daily/top-negotiation-case-\nstudies-in-international-negotiations-from-business-and-global-politics/.\nPinkley, R. L., Neale, M. A., & Bennett, R. J. (1994). The impact of alternatives to settlement in dyadic\nnegotiation. Organizational Behavior and Human Decision Processes, 57(1), 97–116.\nPruitt, D. G. (1983). Strategic choice in negotiation. American Behavioral Scientist, 27(2), 167–194.\nPruitt, D. G., & J. Z. Rubin. (19",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p034",
+          "end_char": 1400,
+          "strategy": "A",
+          "start_char": 900
+        },
+        "score": 0.5857434796461597
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q04",
+    "split": "dev",
+    "strategy": "A",
+    "question": "What makes arbitration involuntary rather than voluntary?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 30,
+      "evidence_quote": "this requirement is known as involuntary arbitration because it is forced upon them by an outside party.",
+      "expected_answer": "An outside party requires the disputants to attempt arbitration before litigation."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p030-A-0-b49fe3f6ed94",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 30,
+        "text": "Types of Arbitration Agreements\nParties can enter into either voluntary or involuntary arbitration. In voluntary arbitration, the disputing\nparties have decided, of their own accord, to seek arbitration as a way to potentially settle their dispute.\nDepending on the state’s laws and the nature of the dispute, disagreeing parties may have to attempt\narbitration before resorting to litigation; this requirement is known as involuntary arbitration because it is\nforced upon them by an outside party.\nA",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p030",
+          "end_char": 500,
+          "strategy": "A",
+          "start_char": 0
+        },
+        "score": 0.7329455932443679
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p030-A-450-89226799346f",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 30,
+        "text": "ause it is\nforced upon them by an outside party.\nArbitration can be either binding or non-binding. In binding arbitration, the decision of the arbitrator(s) is\nfinal, and except in rare circumstances, neither party can appeal the decision through the court system. In\nnon-binding arbitration, the arbitrator’s award can be thought of as a recommendation; it is only finalized if\nboth parties agree that it is an acceptable solution. This fact is why non-binding arbitration can be useful for\nwhat the",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p030",
+          "end_char": 950,
+          "strategy": "A",
+          "start_char": 450
+        },
+        "score": 0.6768963126067791
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p030-A-3600-3c7bcb94edaa",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 30,
+        "text": "aused is not physical, but rather monetary.\nEthics of Commercial Arbitration Clauses\nAs previously discussed, going to court to solve a dispute is a costly endeavor, and for large companies, it is\npossible to incur millions of dollars in legal expenses. While arbitration is meant to be a form of dispute\nresolution that helps disagreeing parties find a low-cost, time-efficient solution, it has become increasingly\nimportant to question whose expenses are being lowered, and to what effect. Many con",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p030",
+          "end_char": 4100,
+          "strategy": "A",
+          "start_char": 3600
+        },
+        "score": 0.6501847326535352
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q05",
+    "split": "dev",
+    "strategy": "A",
+    "question": "In chapter 4, when can a state's use of police power affecting interstate commerce be unconstitutional?",
+    "filter": {
+      "chapter": 4
+    },
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 50,
+      "evidence_quote": "If the exercise of the power interferes with, or discriminates against, interstate commerce, then the action is generally deemed to be unconstitutional.",
+      "expected_answer": "When it interferes with or discriminates against interstate commerce."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p049-A-3600-172be1b3675b",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 49,
+        "text": "interstate commerce.\nPolice Power and the Dormant Commerce Clause\nThe authority of the federal government to regulate interstate commerce has, at times, come into conflict with\nstate authority over the same area of regulation. The courts have tried to resolve these conflicts with reference\nto the police power of the states.\nPolice power refers to the residual powers granted to each state to safeguard the welfare of their inhabitants.\n4.1 • Commerce Clause 39",
+        "metadata": {
+          "chapter": 4,
+          "page_id": "business-law-i-essentials-p049",
+          "end_char": 4062,
+          "strategy": "A",
+          "start_char": 3600
+        },
+        "score": 0.7635751821741584
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p050-A-0-0f6fff255ef0",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 50,
+        "text": "Examples of areas in which states tend to exercise their police power are zoning regulations, building codes,\nand sanitation standards for eating places. However, there are times when the states’ use of police power\nimpacts interstate commerce. If the exercise of the power interferes with, or discriminates against, interstate\ncommerce, then the action is generally deemed to be unconstitutional. The limitation on the authority of\nstates to regulate in areas that impact interstate commerce is know",
+        "metadata": {
+          "chapter": 4,
+          "page_id": "business-law-i-essentials-p050",
+          "end_char": 500,
+          "strategy": "A",
+          "start_char": 0
+        },
+        "score": 0.7306330639501265
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p016-A-3600-c5b25d402479",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 16,
+        "text": "ng it is unconstitutional, and that party is successful in\nproving it, then the regulation is not enforced and the agency will need to revise it or remove it.\nState Law\nAmerica, as diverse as its fifty states, is also governed by fifty different state constitutions, state governments,\nand state courts. Each has its own legislative, executive, and judicial branches. States are empowered to create\n6 1 • American Law, Legal Reasoning, and the Legal System\nAccess for free at openstax.org",
+        "metadata": {
+          "chapter": 1,
+          "page_id": "business-law-i-essentials-p016",
+          "end_char": 4088,
+          "strategy": "A",
+          "start_char": 3600
+        },
+        "score": 0.6035236659816208
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q06",
+    "split": "dev",
+    "strategy": "A",
+    "question": "How does the arbitrator decide a baseball arbitration award?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 32,
+      "evidence_quote": "the arbitrator chooses one offer or the other, without modification.",
+      "expected_answer": "The arbitrator selects one party's offer without modifying it."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p031-A-2700-c979c469c9f4",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 31,
+        "text": "building owner could write a lease agreement that stipulates that the\nparties use binding baseball arbitration and use subject matter experts as arbitrators. In this case, that might\n2.3 • Arbitration 21",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p031",
+          "end_char": 2903,
+          "strategy": "A",
+          "start_char": 2700
+        },
+        "score": 0.7305279534740489
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p032-A-0-2d51c33d39ab",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 32,
+        "text": "include real estate attorneys or commercial real estate investors. In baseball arbitration, each party would\nsubmit a lease renewal figure to an arbitrator. For example, imagine that the renewing tenant submits an offer\nof $10/per square foot, which is very much under market value, while the building owner submits an offer of\n$35/square foot. In this scenario, the arbitrator chooses one offer or the other, without modification. This type\nof arbitration incentivizes both parties to be fair in the",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p032",
+          "end_char": 500,
+          "strategy": "A",
+          "start_char": 0
+        },
+        "score": 0.7150777321961246
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p030-A-450-89226799346f",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 30,
+        "text": "ause it is\nforced upon them by an outside party.\nArbitration can be either binding or non-binding. In binding arbitration, the decision of the arbitrator(s) is\nfinal, and except in rare circumstances, neither party can appeal the decision through the court system. In\nnon-binding arbitration, the arbitrator’s award can be thought of as a recommendation; it is only finalized if\nboth parties agree that it is an acceptable solution. This fact is why non-binding arbitration can be useful for\nwhat the",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p030",
+          "end_char": 950,
+          "strategy": "A",
+          "start_char": 450
+        },
+        "score": 0.6894527262775477
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q07",
+    "split": "dev",
+    "strategy": "A",
+    "question": "Name two organizational benefits the text associates with ethical business practices.",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 39,
+      "evidence_quote": "Ethical business practices, guided by a corporate set of standards, can have many positive outcomes, including recruitment and retention improvement, better relationships with customers, and positive PR.",
+      "expected_answer": "Examples include improved recruitment and retention, better customer relationships, and positive public relations."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p038-A-0-7bfcc365e7f5",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 38,
+        "text": "Figure 3.2 A group of employees who uphold strong corporate values can be an asset to the company they work for. (Credit:\nrawpixel/ pexels/ License: CC0)\nBusiness ethics are considered to be the blueprint for building a successful organization. If an organization is\nbuilt on socially responsible values, it will be stronger than an organization that is built on profit alone. More\nthan just a positive reputation, the core ethics of a business dictate how every decision, process, and\nprocedure will",
+        "metadata": {
+          "chapter": 3,
+          "page_id": "business-law-i-essentials-p038",
+          "end_char": 500,
+          "strategy": "A",
+          "start_char": 0
+        },
+        "score": 0.6706562638282776
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p038-A-1350-51589e481d5f",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 38,
+        "text": "e bar high for ethical compliance in every organization.\nWhy Is Corporate Ethics So Important in Business?\nThe idea of business ethics may seem subjective, but it comes down to acceptable levels of behavior for each\nindividual who makes up the organization. This behavior must start at the top with responsible actions\ndemonstrated by leadership. By doing so, leaders create a set of rules that are to be followed by others in the\ncompany. These rules can be based on the deep values that the company",
+        "metadata": {
+          "chapter": 3,
+          "page_id": "business-law-i-essentials-p038",
+          "end_char": 1850,
+          "strategy": "A",
+          "start_char": 1350
+        },
+        "score": 0.6448875665664673
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p038-A-1800-b1a5ce4bf47f",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 38,
+        "text": "s can be based on the deep values that the company has concerning the quality of\nproducts and services, the commitment to customers, or how the organization gives something back to the\ncommunity. The more a company lives by its set of ethics, the more likely it is to be successful.\nAnna Spooner, who writes for LovetoKnow, shares tips on how to evaluate whether or not an organization is\ncreating ethical practices by determining the impact of each practice. Some examples include:\nExecutive compens",
+        "metadata": {
+          "chapter": 3,
+          "page_id": "business-law-i-essentials-p038",
+          "end_char": 2300,
+          "strategy": "A",
+          "start_char": 1800
+        },
+        "score": 0.6300668716430664
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false
+  },
+  {
+    "question_id": "q08",
+    "split": "dev",
+    "strategy": "A",
+    "question": "How does money laundering make proceeds from crime appear legitimate?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 61,
+      "evidence_quote": "passing it through otherwise legitimate businesses so that it appears",
+      "expected_answer": "It passes the proceeds through otherwise legitimate businesses so they appear clean and cannot be tied back to the illegal acts."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p061-A-0-402caf2ee2a2",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 61,
+        "text": "example of bribery would be a situation in which a pharmaceutical company offers special benefits to\nindividuals who agree to prescribe their medications.\nMoney Laundering\nMoney laundering refers to taking “dirty”money, or money obtained through criminal activities, and passing it\nthrough otherwise legitimate businesses so that it appears “clean.” The money cannot be tied back to the\nillegal acts. Clean money is money that was obtained through legitimate business functions.\nSpamming\nSending unso",
+        "metadata": {
+          "chapter": 5,
+          "page_id": "business-law-i-essentials-p061",
+          "end_char": 500,
+          "strategy": "A",
+          "start_char": 0
+        },
+        "score": 0.676054835319519
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p058-A-0-807eab3cfccb",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 58,
+        "text": "economic transaction is involved. The federal government does not usually exceed its regulatory powers.\nWhite Collar Crime\nWhite collar crimes are characterized by deceit, concealment, or violation of trust. They are committed by\nbusiness professionals. They generally involve fraud, and the employees committing the crimes are motivated\nby the desire for financial gains or fear of losing business standing, money, or property. Fraud is the\nintentional misrepresentation of material facts for moneta",
+        "metadata": {
+          "chapter": 5,
+          "page_id": "business-law-i-essentials-p058",
+          "end_char": 500,
+          "strategy": "A",
+          "start_char": 0
+        },
+        "score": 0.6528412699699402
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p058-A-450-90090e88147b",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 58,
+        "text": "nal misrepresentation of material facts for monetary gain. This type of crime is not dependent on\nthreats or violence.\nFigure 5.2 White collar crimes are committed by business professionals within businesses with the intent of gaining or maintaining\nstatus. (Credit: Rawpixel/ pexels/ License: CC0)\nWhite collar crimes tend to violate state laws, and sometimes federal laws. The violation depends on what is\ninvolved in the crime. For instance, criminal acts involving the United States postal system",
+        "metadata": {
+          "chapter": 5,
+          "page_id": "business-law-i-essentials-p058",
+          "end_char": 950,
+          "strategy": "A",
+          "start_char": 450
+        },
+        "score": 0.638991117477417
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q09",
+    "split": "dev",
+    "strategy": "A",
+    "question": "What action does the text identify as larceny in a business setting?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 59,
+      "evidence_quote": "Larceny occurs when a person unlawfully takes the personal property of another person or a business.",
+      "expected_answer": "Unlawfully taking another person's or a business's personal property."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p059-A-450-4a28024f77e2",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 59,
+        "text": "f another person or a business. For example, if an employee\ntakes another employee’s computer with the intent of stealing it, he or she may be guilty of larceny. In\ncontrast, embezzlement occurs when a person has been entrusted with an item of value and then refuses to\nreturn it or does not return the item. For example, if an employee is entrusted with the petty cash at his or her\noffice and that person purposefully takes some of the money for himself or herself, this would be\nembezzlement.\nOne",
+        "metadata": {
+          "chapter": 5,
+          "page_id": "business-law-i-essentials-p059",
+          "end_char": 949,
+          "strategy": "A",
+          "start_char": 450
+        },
+        "score": 0.6056734865015906
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p060-A-901-707e736e085d",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 60,
+        "text": "anti-competitive business conduct is prohibited by law, and some of those\nlaws, such as the Sherman Antitrust Act, do include provisions about criminal punishment.\nRacketeering\nRacketeering activities include loan-sharking, money laundering, and blackmailing. In the past, the term has\nbeen used to describe organized crime. The term is now applied to other entities, as well. RICO, or the\nRacketeer Influenced and Corrupt Organizations Act, is a federal law aimed at preventing and prosecuting by\nb",
+        "metadata": {
+          "chapter": 5,
+          "page_id": "business-law-i-essentials-p060",
+          "end_char": 1400,
+          "strategy": "A",
+          "start_char": 901
+        },
+        "score": 0.6012900592434488
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p057-A-450-447ed07ce6fc",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 57,
+        "text": "this fact is the reality. Organizations are fined, and executives are\nsentenced to jail, when business laws are broken. Many of the workplace violations are nonviolent crimes,\nsuch as fraud, property crimes, or drug- or alcohol-related infractions. Regardless of the level of violence or the\nemployee’s motivation for committing the crime, breaking the law can lead to negative consequences for the\nbusiness, its employees, and its customers.\nConstitutional Authority to Regulate Business\nCongress is",
+        "metadata": {
+          "chapter": 5,
+          "page_id": "business-law-i-essentials-p057",
+          "end_char": 950,
+          "strategy": "A",
+          "start_char": 450
+        },
+        "score": 0.5890107085416378
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false
+  },
+  {
+    "question_id": "q10",
+    "split": "dev",
+    "strategy": "A",
+    "question": "In chapter 7, what are offer and acceptance in forming a contract?",
+    "filter": {
+      "chapter": 7
+    },
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 80,
+      "evidence_quote": "An offer is a proposal made to demonstrate an intent to enter a contract. Acceptance is the agreement to be bound by the terms of the offer.",
+      "expected_answer": "An offer proposes entering a contract; acceptance agrees to be bound by its terms."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p080-A-0-e298b3d3151a",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 80,
+        "text": "Figure 7.2 Before a contract can become legal and enforceable, several elements must first be in place. (Credit: rawpixel/ pixabay/\nLicense: CC0)\nThe key to a contract is that there must be an offer, and acceptance of the terms of that offer. An offer is a\nproposal made to demonstrate an intent to enter a contract. Acceptance is the agreement to be bound by the\nterms of the offer. Offers must be made with intent, must be definite and certain (i.e., the offer must be clearly\nexpressed for it to b",
+        "metadata": {
+          "chapter": 7,
+          "page_id": "business-law-i-essentials-p080",
+          "end_char": 500,
+          "strategy": "A",
+          "start_char": 0
+        },
+        "score": 0.7523519621000282
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p079-A-0-b33e4769ad15",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 79,
+        "text": "Figure 7.1 Introduction (Credit: edar/ pixabay/ Attribution 2.0 Generic (CC BY 2.0))\nChapter Outline\n7.1 Agreement, Consideration, and Promissory Estoppel\n7.2 Capacity and Legality\n7.3 Breach of Contract and Remedies\nIntroduction\nLearning Outcome\n• Analyze the principles of contract law and how they apply to businesses.\n7.1 Agreement, Consideration, and Promissory Estoppel\nA contract is defined as an agreement between two or more parties that is enforceable by law.\nTo be considered enforceable b",
+        "metadata": {
+          "chapter": 7,
+          "page_id": "business-law-i-essentials-p079",
+          "end_char": 500,
+          "strategy": "A",
+          "start_char": 0
+        },
+        "score": 0.6865841559519873
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p089-A-450-b470f829fd61",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 89,
+        "text": "contracts. First, the UCC includes a new category of\noffer. Basic contract law states that for an offer to be valid, it has to have “definiteness of terms.” In the UCC,\nmost of that particular rule is modified for greater flexibility. If the parties have “open” (in other words, “not\ndefinite”) terms, the UCC addresses the situation with an overlay of “reasonableness”—for example, if no time\nfor performance is designated, the performance must occur within a “reasonable” time. As a result, the\nfol",
+        "metadata": {
+          "chapter": 8,
+          "page_id": "business-law-i-essentials-p089",
+          "end_char": 950,
+          "strategy": "A",
+          "start_char": 450
+        },
+        "score": 0.6333830138077159
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q11",
+    "split": "dev",
+    "strategy": "A",
+    "question": "Can a minor void a contract for necessities such as food or clothing?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 82,
+      "evidence_quote": "In most states, a contract for necessities (i.e. food and clothing) may not be voided.",
+      "expected_answer": "In most states, a contract for necessities may not be voided by the minor."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p082-A-0-7a76a7c2d56f",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 82,
+        "text": "Minors Have No Capacity to Contract\nIn most states, minors under the age of 18 lack the capacity to make a contract and may therefore either\nhonor an agreement or void the contract. However, there are a few exceptions to this rule. In most states, a\ncontract for necessities (i.e. food and clothing) may not be voided. Also, in most states, the contract can no\nlonger be voided when the minor turns 18.\nMary, 16, an athlete, signs a long-term endorsement deal with a well-known brand and is compensat",
+        "metadata": {
+          "chapter": 7,
+          "page_id": "business-law-i-essentials-p082",
+          "end_char": 500,
+          "strategy": "A",
+          "start_char": 0
+        },
+        "score": 0.6456987454205381
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p081-A-3150-82bb8cd9f256",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 81,
+        "text": "and enforced in the United States.\n7.2 Capacity and Legality\nFor a contract to be legally binding, the parties entering into the contract must have the capacity to do so. As\na legal matter, there are certain classes of people who are presumed to have no capacity to contract. These\ninclude legal minors, the mentally ill, and those who are intoxicated. If people meeting these criteria enter into\na contract, the agreement is considered voidable. If a contract is voidable, then the person who lacked",
+        "metadata": {
+          "chapter": 7,
+          "page_id": "business-law-i-essentials-p081",
+          "end_char": 3650,
+          "strategy": "A",
+          "start_char": 3150
+        },
+        "score": 0.6380357336412592
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p081-A-3600-e20312cb9c6b",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 81,
+        "text": "a contract is voidable, then the person who lacked\ncapacity has the choice to either end the contract or continue with it as agreed upon. This design is meant to\nprotect the party lacking capacity.\nFollowing are some examples of the application of these rules.\n7.2 • Capacity and Legality 71",
+        "metadata": {
+          "chapter": 7,
+          "page_id": "business-law-i-essentials-p081",
+          "end_char": 3891,
+          "strategy": "A",
+          "start_char": 3600
+        },
+        "score": 0.5922818183898926
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q12",
+    "split": "dev",
+    "strategy": "A",
+    "question": "Under the UCC, when does a merchant supplier retain the risk of loss for goods?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 91,
+      "evidence_quote": "as long as the supplier is considered a merchant, the risk of loss remains with the merchant until the buyer takes possession of the good.",
+      "expected_answer": "Until the buyer takes possession of the goods."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p091-A-0-2f4b7fcad62d",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 91,
+        "text": "since he or she paid for the coffee machine prior to taking possession of it. Under the UCC, however, as long as\nthe supplier is considered a merchant, the risk of loss remains with the merchant until the buyer takes\npossession of the good.\nGiven problems like the one described above, the UCC separately considers four specific issues relating to\ntitles:\n• Ownership. Under consideration is the question of when the title transfers from vendor to vendee, and\nhence when ownership is said to occur.\n•",
+        "metadata": {
+          "chapter": 8,
+          "page_id": "business-law-i-essentials-p091",
+          "end_char": 500,
+          "strategy": "A",
+          "start_char": 0
+        },
+        "score": 0.7948005917787213
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p091-A-1350-d3ab8201fe87",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 91,
+        "text": "act is executed, insurable interest\npasses at the same time, and risk of loss transfers when the buyer takes possession, unless the seller is not a\nmerchant. In the latter case, under the rule of tender of delivery, risk remains with the buyer.\nA common-carrier delivery contract occurs when a common carrier, who is an independent contractor rather\nthan an agent of the seller (e.g., a trucking line), delivers the goods. The UCC further categorizes these types of\ncontracts into shipment contracts",
+        "metadata": {
+          "chapter": 8,
+          "page_id": "business-law-i-essentials-p091",
+          "end_char": 1849,
+          "strategy": "A",
+          "start_char": 1350
+        },
+        "score": 0.6911040912742555
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p091-A-450-3935ece599c1",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 91,
+        "text": "ndee, and\nhence when ownership is said to occur.\n• The concept of encumbrance considers when the vendee is granted an interest in the good such that the\ngood can be used as collateral for a debt.\n• The UCC considers when the risk of loss attaches and what the responsibilities of the buyer and seller are\nto each other, should a loss occur.\n• Insurable interest is the right to insure the goods against exposure to risk of loss or damage\nThe UCC allows four scenarios for sales contracts: simple deli",
+        "metadata": {
+          "chapter": 8,
+          "page_id": "business-law-i-essentials-p091",
+          "end_char": 950,
+          "strategy": "A",
+          "start_char": 450
+        },
+        "score": 0.6221080647642585
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q13",
+    "split": "dev",
+    "strategy": "A",
+    "question": "What happens after a workers' compensation agency determines that an injury claim is legitimate?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 99,
+      "evidence_quote": "If the injury is determined to be legitimate, compensation benefits are paid accordingly.",
+      "expected_answer": "Compensation benefits are paid."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p099-A-450-c24bc5557d53",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 99,
+        "text": "into place:\n1. The worker files a claim with the agency.\n2. The agency establishes the legitimacy of the claim.\n3. If the injury is determined to be legitimate, compensation benefits are paid accordingly.\nIt is important to note that workers’ compensation is understood to be an exclusive remedy. This term means\nthat workers cannot sue the employer in court for further damages beyond that which is paid out under the\ncompensation claim. An exception is made when the employer intentionally injures",
+        "metadata": {
+          "chapter": 9,
+          "page_id": "business-law-i-essentials-p099",
+          "end_char": 949,
+          "strategy": "A",
+          "start_char": 450
+        },
+        "score": 0.867573618888855
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p099-A-0-a726c7b4fef4",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 99,
+        "text": "against compensation claims. Workers’ compensation insurance covers a range of different injuries, including\nphysical injuries, mental illnesses that can be shown to be employment-related, and stress.\nUnder the terms of the Acts, a Workers’ Compensation Agency is established at the state level to provide\njudicial and administrative services to help in the resolution of claims for compensation. In the event of a\nclaim, a three-step process is put into place:\n1. The worker files a claim with the a",
+        "metadata": {
+          "chapter": 9,
+          "page_id": "business-law-i-essentials-p099",
+          "end_char": 500,
+          "strategy": "A",
+          "start_char": 0
+        },
+        "score": 0.689897021350176
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p099-A-900-ecf6b9a02aa3",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 99,
+        "text": "n is made when the employer intentionally injures the worker, however.\nFurthermore, workers have the right to sue any third party involved in the cause of the injury to recover\nadditional damages.\nCase Insight\nIn the case Chad A. Kelley v. Marsha P. Ryan, Administrator, Ohio Bureau of Workers’ Compensation, and Coca-\nCola Enterprises, Chad A. Kelley attended a team-building event held by his employer, Coca-Cola, to celebrate\nthe launch of a new product. All employees attending the event were req",
+        "metadata": {
+          "chapter": 9,
+          "page_id": "business-law-i-essentials-p099",
+          "end_char": 1400,
+          "strategy": "A",
+          "start_char": 900
+        },
+        "score": 0.670790930343216
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q14",
+    "split": "dev",
+    "strategy": "A",
+    "question": "How does the text define administrative law?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 113,
+      "evidence_quote": "Administrative law is basically the delegated power granted to administrative agencies to carry out specific functions.",
+      "expected_answer": "It is delegated power granted to administrative agencies to carry out specific functions."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p111-A-0-34472090b903",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 111,
+        "text": "Figure 10.1 Introduction (Credit: JamesDeMers/ pixabay/ Attribution 2.0 Generic (CC BY 2.0))\nChapter Outline\n10.1 Administrative Law\n10.2 Regulatory Agencies\nIntroduction\nLearning Outcome\n• Define the role of administrative bodies and regulation in the governmental rulemaking process.\n10.1 Administrative Law\nAdministrative law is also referred to as regulatory and public law. It is the law that is related to\nadministrative agencies. Administrative agencies are established by statutes and governe",
+        "metadata": {
+          "chapter": 10,
+          "page_id": "business-law-i-essentials-p111",
+          "end_char": 500,
+          "strategy": "A",
+          "start_char": 0
+        },
+        "score": 0.7792722451253097
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p111-A-900-ffd1e16686ce",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 111,
+        "text": "bed by\nCongress. Organic statutes are utilized to create administrative agencies, as well as to define their\nresponsibilities and authority.\nGovernment Regulation\n10",
+        "metadata": {
+          "chapter": 10,
+          "page_id": "business-law-i-essentials-p111",
+          "end_char": 1065,
+          "strategy": "A",
+          "start_char": 900
+        },
+        "score": 0.6681875784285332
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p117-A-0-ce2dc5179d3b",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 117,
+        "text": "Assessment Questions\n1 . What is administrative law?\n2 . Administrative agencies are created by:\na. The president.\nb. The judicial branch.\nc. The Constitution.\nd. Congress.\n3 . The FDA stands for:\na. The First Drug Administration.\nb. The Federal Drug Administration.\nc. The Food and Drug Administration.\nd. The Food and Diet Administration.\n4 . Explain the goal of the Federal Trade Commission.\n5 . How does the FDA fulfill its role?\n6 . Who appoints leaders to run administrative agencies?\na. The Pr",
+        "metadata": {
+          "chapter": 10,
+          "page_id": "business-law-i-essentials-p117",
+          "end_char": 500,
+          "strategy": "A",
+          "start_char": 0
+        },
+        "score": 0.646086573600769
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false
+  },
+  {
+    "question_id": "q15",
+    "split": "dev",
+    "strategy": "A",
+    "question": "What market concern led lawmakers to address large-company mergers and similar practices in the late 1800s?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 120,
+      "evidence_quote": "attempts by large companies to create monopolies or to control the market, led state and federal lawmakers to take steps to reduce the risks associated with this type of practice.",
+      "expected_answer": "The risk that large companies would create monopolies or control markets."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p132-A-900-f8fc0b5f76cb",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 132,
+        "text": "petition and raising consumer prices. A substantial number of mergers gave control\nover key industries to small groups of businesses. Where companies did not merge, other arrangements were\nmade to have a similar effect. Conglomerates controlled most of the relevant industries that produced\nhousehold necessities. Goods used in production were also the product of highly concentrated trusts, such as\nthe United States Steel Corporation and the International Paper Company. Concerns about industrializ",
+        "metadata": {
+          "chapter": 12,
+          "page_id": "business-law-i-essentials-p132",
+          "end_char": 1400,
+          "strategy": "A",
+          "start_char": 900
+        },
+        "score": 0.7031820239533213
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p132-A-450-d34a18f6c7b5",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 132,
+        "text": "ose the full\nprice of their products or services before accepting payment for them.\n12.2 The Federal Trade Commission\nThe FTC was created in 1914 to address the problem of monopolies and trusts. Following the Civil War, a wave\nof consolidation and growth among companies triggered increased public debate. Through handshake\nagreements, issuance of stock, and pooling arrangements, companies could fix prices and outputs, thus\neffectively stopping competition and raising consumer prices. A substantia",
+        "metadata": {
+          "chapter": 12,
+          "page_id": "business-law-i-essentials-p132",
+          "end_char": 950,
+          "strategy": "A",
+          "start_char": 450
+        },
+        "score": 0.6273882389068604
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p120-A-450-765dd3b456c8",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 120,
+        "text": "s\nDuring the late 1800s, the United States became concerned about the development of corporate monopolies\ndominating the manufacturing and mining industries (Jurist, n.d.). The end of the Civil War marked the\nbeginning of large advances in industrialization. Many large companies formed, especially in the oil and steel\nindustries, which were two industries that the country was beginning to heavily rely on. Manufacturing and\ndistributing companies grew at a fast pace in a wide variety of industrie",
+        "metadata": {
+          "chapter": 11,
+          "page_id": "business-law-i-essentials-p120",
+          "end_char": 950,
+          "strategy": "A",
+          "start_char": 450
+        },
+        "score": 0.6145535707473755
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false
+  },
+  {
+    "question_id": "q01",
+    "split": "dev",
+    "strategy": "B",
+    "question": "How do judges use precedent when deciding a case under the common-law system?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 16,
+      "evidence_quote": "judges rely on precedent, i.e., previous court rulings on similar cases, when determining the ruling in their own cases.",
+      "expected_answer": "They consult previous rulings in similar cases to inform their decision."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p016-B-0-5d935ea8e411",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 16,
+        "text": "American Common Law\nAs discussed in the previous section, the United States follows the common law legal tradition of English law.\nJudges in the Common Law system help shape the law through their rulings and interpretations. This body of\npast decisions is known as case law, which is used by judges to inform their own rulings. In fact, judges rely on\nprecedent, i.e., previous court rulings on similar cases, when determining the ruling in their own cases.\nAn example of how case law works is the",
+        "metadata": {
+          "chapter": 1,
+          "page_id": "business-law-i-essentials-p016",
+          "end_char": 497,
+          "strategy": "B",
+          "start_char": 0
+        },
+        "score": 0.7583932424549329
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p014-B-999-245ad9f854c3",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 14,
+        "text": "famous old case. Additionally, foreign law is not cited as binding precedent. Therefore,\nthe current American practice of the common law tradition refers more to the process of judges looking to the\nprecedent set jurisdictionally, and substantially similar to, American case law.\nMaintaining Order\nCongruent with the goal of establishing standards and promoting consistency, laws are also used to promote,\nprovide, and maintain order.\nResolving Disputes\nConflicts are to be expected given people’s",
+        "metadata": {
+          "chapter": 1,
+          "page_id": "business-law-i-essentials-p014",
+          "end_char": 1496,
+          "strategy": "B",
+          "start_char": 999
+        },
+        "score": 0.7565146910105638
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p014-B-498-56e7c45c46a4",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 14,
+        "text": "case law to inform their own rulings. Indeed, judges rely on precedent, i.e., previous court rulings on similar\ncases, for ruling on their own cases.\nAll U.S. states, except Louisiana, have enacted “reception statutes,” stating that the judge-made common law\nof England is the law of the state to the extent that it does not conflict with the state’s current laws.\nHowever, the body of American law is now so robust that American cases rarely cite English materials, except\nfor a British classic or a",
+        "metadata": {
+          "chapter": 1,
+          "page_id": "business-law-i-essentials-p014",
+          "end_char": 998,
+          "strategy": "B",
+          "start_char": 498
+        },
+        "score": 0.7307684203753375
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q02",
+    "split": "dev",
+    "strategy": "B",
+    "question": "In chapter 2, why might disputing parties prefer mediation when they want to keep a sensitive dispute private?",
+    "filter": {
+      "chapter": 2
+    },
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 27,
+      "evidence_quote": "Since court proceedings become a matter of public record, it can be advantageous to use mediation to preserve anonymity.",
+      "expected_answer": "Mediation can preserve anonymity because court proceedings become public record."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p027-B-991-42352f60f774",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 27,
+        "text": "which neither party is in favor. In contrast, mediation gives the\ndisputing parties opportunities to find common ground on their own terms, before relinquishing control\nto outside forces.\nRole of the Mediator\nSuccessful mediators work to immediately establish personal rapport with the disputing parties. They often\nhave a short period of time to interact with the parties and work to position themselves as a trustworthy\nadvisor. The Harvard Law School Program on Negotiation reports a study by",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p027",
+          "end_char": 1486,
+          "strategy": "B",
+          "start_char": 991
+        },
+        "score": 0.7771291865629456
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p027-B-2479-218149d3d663",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 27,
+        "text": "and will\nguide the discussion toward a mutually amicable solution. This part of the mediation process usually\nidentifies which issues need to be resolved and explores ways to address the issues.\n• Private Caucus: During this stage, each party has the ability to meet and speak privately with the\nmediator. Typically, the mediator will use this time to learn more about what is most important to each\nparty and to brainstorm ways to find a resolution. The mediator may ask the parties to try to put",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p027",
+          "end_char": 2976,
+          "strategy": "B",
+          "start_char": 2479
+        },
+        "score": 0.7110732966021731
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p026-B-2968-0e51bc2047fb",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 26,
+        "text": "associated with public court systems. There are many\nagency-connected and private mediation services that disputing parties can hire to help them potentially\nresolve their dispute. The American Bar Association suggests that, in addition to training courses, one of the\nbest ways to start a private mediation business is to volunteer as a mediator. Research has shown that\nexperience is an important factor for mediators who are seeking to cultivate sensitivity and hone their conflict\nresolution",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p026",
+          "end_char": 3463,
+          "strategy": "B",
+          "start_char": 2968
+        },
+        "score": 0.6819085072333523
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false
+  },
+  {
+    "question_id": "q03",
+    "split": "dev",
+    "strategy": "B",
+    "question": "What does the text mean by dyadic negotiation?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 24,
+      "evidence_quote": "Put simply, dyadic negotiation involves two individuals interacting with one another in an attempt to resolve a dispute.",
+      "expected_answer": "Two individuals interact to try to resolve a dispute."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p024-B-492-e69566a05f3a",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 24,
+        "text": "individuals or parties, and by its very nature, it is often\nmore complex, time-consuming, and challenging to resolve.\nWhile dyadic and group negotiations may involve different dynamics, one of the most important aspects of\nany negotiation, regardless of the quantity of negotiators, is the objective. Negotiation experts recognize two\nmajor goals of negotiation: relational and outcome. Relational goals are focused on building, maintaining, or\nrepairing a partnership, connection, or rapport with",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p024",
+          "end_char": 989,
+          "strategy": "B",
+          "start_char": 492
+        },
+        "score": 0.6271373594228056
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p023-B-998-d97b7cb0c055",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 23,
+        "text": "Organization Behavior and Human\nDecision Processes defined negotiation as the “process by which parties with nonidentical preferences\nallocate resources through interpersonal activity and joint decision making.” Analyzing the various\ncomponents of this definition is helpful in understanding the theories and practices involved in negotiation as\na form of dispute settlement.\nNegotiation Types and Objectives\nPer the above definition, negotiation becomes necessary when two parties hold",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p023",
+          "end_char": 1484,
+          "strategy": "B",
+          "start_char": 998
+        },
+        "score": 0.5886798851895274
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p024-B-1986-4b9bf10926db",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 24,
+        "text": "sometimes referred to as integrative, while\nwin-lose approaches are called distributive.\nFigure 2.2 Certain negotiation styles adopt a mindset in which the extent of one’s win is proportional to the other’s loss. (Credit:\nSebastian Voortman/ pexels/ License: CC0)\nNegotiation Style\nEveryone has a different way of approaching negotiation, depending on the circumstance and the person’s\npersonality. However, the Thomas-Kilmann Conflict Mode Instrument (TKI) is a questionnaire that provides\na",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p024",
+          "end_char": 2478,
+          "strategy": "B",
+          "start_char": 1986
+        },
+        "score": 0.5849230986741899
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false
+  },
+  {
+    "question_id": "q04",
+    "split": "dev",
+    "strategy": "B",
+    "question": "What makes arbitration involuntary rather than voluntary?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 30,
+      "evidence_quote": "this requirement is known as involuntary arbitration because it is forced upon them by an outside party.",
+      "expected_answer": "An outside party requires the disputants to attempt arbitration before litigation."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p030-B-0-24b45d4694a7",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 30,
+        "text": "Types of Arbitration Agreements\nParties can enter into either voluntary or involuntary arbitration. In voluntary arbitration, the disputing\nparties have decided, of their own accord, to seek arbitration as a way to potentially settle their dispute.\nDepending on the state’s laws and the nature of the dispute, disagreeing parties may have to attempt\narbitration before resorting to litigation; this requirement is known as involuntary arbitration because it is\nforced upon them by an outside party.",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p030",
+          "end_char": 498,
+          "strategy": "B",
+          "start_char": 0
+        },
+        "score": 0.7321805081152363
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p029-B-1496-e4712d19d1f6",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 29,
+        "text": "about the dispute after receiving evidence and hearing\narguments.” Arbitration is overseen by a neutral arbitrator, or an individual who is responsible for making a\ndecision on how to resolve a dispute and who has the ability to decide on an award, or a course of action that\nthe arbiter believes is fair, given the situation. An award can be a monetary payment that one party must pay\nto the other; however, awards need not always be financial in nature. An award may require that one business\nstop",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p029",
+          "end_char": 1995,
+          "strategy": "B",
+          "start_char": 1496
+        },
+        "score": 0.6637220583127809
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p030-B-499-50cea9e14f8e",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 30,
+        "text": "Arbitration can be either binding or non-binding. In binding arbitration, the decision of the arbitrator(s) is\nfinal, and except in rare circumstances, neither party can appeal the decision through the court system. In\nnon-binding arbitration, the arbitrator’s award can be thought of as a recommendation; it is only finalized if\nboth parties agree that it is an acceptable solution. This fact is why non-binding arbitration can be useful for\nwhat the American Arbitration Association describes as",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p030",
+          "end_char": 996,
+          "strategy": "B",
+          "start_char": 499
+        },
+        "score": 0.6543321425518867
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q05",
+    "split": "dev",
+    "strategy": "B",
+    "question": "In chapter 4, when can a state's use of police power affecting interstate commerce be unconstitutional?",
+    "filter": {
+      "chapter": 4
+    },
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 50,
+      "evidence_quote": "If the exercise of the power interferes with, or discriminates against, interstate commerce, then the action is generally deemed to be unconstitutional.",
+      "expected_answer": "When it interferes with or discriminates against interstate commerce."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p050-B-0-4aea06fc86e2",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 50,
+        "text": "Examples of areas in which states tend to exercise their police power are zoning regulations, building codes,\nand sanitation standards for eating places. However, there are times when the states’ use of police power\nimpacts interstate commerce. If the exercise of the power interferes with, or discriminates against, interstate\ncommerce, then the action is generally deemed to be unconstitutional. The limitation on the authority of\nstates to regulate in areas that impact interstate commerce is",
+        "metadata": {
+          "chapter": 4,
+          "page_id": "business-law-i-essentials-p050",
+          "end_char": 495,
+          "strategy": "B",
+          "start_char": 0
+        },
+        "score": 0.7330477674631947
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p049-B-3494-92e1a6eab6da",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 49,
+        "text": "of the Supreme\nCourt, Justice Roberts, ruled that actions that create new business activity do not affect interstate commerce.\nPolice Power and the Dormant Commerce Clause\nThe authority of the federal government to regulate interstate commerce has, at times, come into conflict with\nstate authority over the same area of regulation. The courts have tried to resolve these conflicts with reference\nto the police power of the states.\nPolice power refers to the residual powers granted to each state to",
+        "metadata": {
+          "chapter": 4,
+          "page_id": "business-law-i-essentials-p049",
+          "end_char": 3993,
+          "strategy": "B",
+          "start_char": 3494
+        },
+        "score": 0.702859345334114
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p051-B-501-d10634ed0aae",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 51,
+        "text": "in\nthe Department of Motor\nVehicles’ (DMV’s) records.\nRegulation of\nactivities that are\ndeemed to have a\nsubstantial\nimpact on\ninterstate\ncommerce\nFederal regulation of economic commercial activity\nexpected to have a significant (as opposed to\nminor) effect on interstate commerce is\nconstitutional, according to the commerce clause.\nNoneconomic commercial activity is not covered.\nThe courts in the United States\nvs. Lopez case described\nearlier deemed the Act to be\nunconstitutional because its",
+        "metadata": {
+          "chapter": 4,
+          "page_id": "business-law-i-essentials-p051",
+          "end_char": 997,
+          "strategy": "B",
+          "start_char": 501
+        },
+        "score": 0.6855232715606738
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q06",
+    "split": "dev",
+    "strategy": "B",
+    "question": "How does the arbitrator decide a baseball arbitration award?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 32,
+      "evidence_quote": "the arbitrator chooses one offer or the other, without modification.",
+      "expected_answer": "The arbitrator selects one party's offer without modifying it."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p029-B-1496-e4712d19d1f6",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 29,
+        "text": "about the dispute after receiving evidence and hearing\narguments.” Arbitration is overseen by a neutral arbitrator, or an individual who is responsible for making a\ndecision on how to resolve a dispute and who has the ability to decide on an award, or a course of action that\nthe arbiter believes is fair, given the situation. An award can be a monetary payment that one party must pay\nto the other; however, awards need not always be financial in nature. An award may require that one business\nstop",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p029",
+          "end_char": 1995,
+          "strategy": "B",
+          "start_char": 1496
+        },
+        "score": 0.7303201556205802
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p032-B-0-b5287b51d780",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 32,
+        "text": "include real estate attorneys or commercial real estate investors. In baseball arbitration, each party would\nsubmit a lease renewal figure to an arbitrator. For example, imagine that the renewing tenant submits an offer\nof $10/per square foot, which is very much under market value, while the building owner submits an offer of\n$35/square foot. In this scenario, the arbitrator chooses one offer or the other, without modification. This type\nof arbitration incentivizes both parties to be fair in",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p032",
+          "end_char": 496,
+          "strategy": "B",
+          "start_char": 0
+        },
+        "score": 0.7173361564476473
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p031-B-1496-4ad1bf468bc7",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 31,
+        "text": "arbitrator will make a decision and usually makes one or more awards.\nNot all arbitration agreements have the same procedures. It depends on the types of agreements made in\nadvance by the disputing parties. Consider the following scenario: the owner of a large commercial office\nbuilding uses a lease agreement, which stipulates that arbitration will be used to settle the renewal terms of a\nlease. For example, the lease may state that, at the end of year one, the second year’s lease payment will",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p031",
+          "end_char": 1994,
+          "strategy": "B",
+          "start_char": 1496
+        },
+        "score": 0.697078544075577
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q07",
+    "split": "dev",
+    "strategy": "B",
+    "question": "Name two organizational benefits the text associates with ethical business practices.",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 39,
+      "evidence_quote": "Ethical business practices, guided by a corporate set of standards, can have many positive outcomes, including recruitment and retention improvement, better relationships with customers, and positive PR.",
+      "expected_answer": "Examples include improved recruitment and retention, better customer relationships, and positive public relations."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p038-B-0-7bfcc365e7f5",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 38,
+        "text": "Figure 3.2 A group of employees who uphold strong corporate values can be an asset to the company they work for. (Credit:\nrawpixel/ pexels/ License: CC0)\nBusiness ethics are considered to be the blueprint for building a successful organization. If an organization is\nbuilt on socially responsible values, it will be stronger than an organization that is built on profit alone. More\nthan just a positive reputation, the core ethics of a business dictate how every decision, process, and\nprocedure will",
+        "metadata": {
+          "chapter": 3,
+          "page_id": "business-law-i-essentials-p038",
+          "end_char": 500,
+          "strategy": "B",
+          "start_char": 0
+        },
+        "score": 0.6706562638282776
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p040-B-2482-42eaf621eb97",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 40,
+        "text": "specific codes of conduct can be added as they come up.\nValue-based ethics. These are specific ethics that dig under the surface of a corporate culture. A business\nshould think about how it wants to be viewed by the community. Examples could be a commitment to green\noffice practices, reduction of a company’s carbon footprint, giving a certain percentage of a company’s profits\nto the local food pantry to support the community, etc.\nRegulatory ethics. These are designed to maintain certain",
+        "metadata": {
+          "chapter": 3,
+          "page_id": "business-law-i-essentials-p040",
+          "end_char": 2974,
+          "strategy": "B",
+          "start_char": 2482
+        },
+        "score": 0.6636059679750197
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p037-B-0-ea3c135ae6ce",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 37,
+        "text": "Figure 3.1 Introduction (Credit: rawpixel/ pixabay/ Attribution 2.0 Generic (CC BY 2.0))\nChapter Outline\n3.1 Business Ethics\n3.2 Social Responsibility\nIntroduction\nLearning Outcome\n• Analyze the role of ethics and social responsibility in business.\n3.1 Business Ethics\nBusinesses must establish a clear set of values that promote ethical practices and social responsibility. In\ntoday’s business climate, companies are increasingly under scrutiny by private citizens. A company that builds\nits",
+        "metadata": {
+          "chapter": 3,
+          "page_id": "business-law-i-essentials-p037",
+          "end_char": 492,
+          "strategy": "B",
+          "start_char": 0
+        },
+        "score": 0.5915348882397953
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false
+  },
+  {
+    "question_id": "q08",
+    "split": "dev",
+    "strategy": "B",
+    "question": "How does money laundering make proceeds from crime appear legitimate?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 61,
+      "evidence_quote": "passing it through otherwise legitimate businesses so that it appears",
+      "expected_answer": "It passes the proceeds through otherwise legitimate businesses so they appear clean and cannot be tied back to the illegal acts."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p061-B-0-c0ec4351b513",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 61,
+        "text": "example of bribery would be a situation in which a pharmaceutical company offers special benefits to\nindividuals who agree to prescribe their medications.\nMoney Laundering\nMoney laundering refers to taking “dirty”money, or money obtained through criminal activities, and passing it\nthrough otherwise legitimate businesses so that it appears “clean.” The money cannot be tied back to the\nillegal acts. Clean money is money that was obtained through legitimate business functions.\nSpamming\nSending",
+        "metadata": {
+          "chapter": 5,
+          "page_id": "business-law-i-essentials-p061",
+          "end_char": 495,
+          "strategy": "B",
+          "start_char": 0
+        },
+        "score": 0.6723892889138847
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p058-B-0-3ab7a0ff55d8",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 58,
+        "text": "economic transaction is involved. The federal government does not usually exceed its regulatory powers.\nWhite Collar Crime\nWhite collar crimes are characterized by deceit, concealment, or violation of trust. They are committed by\nbusiness professionals. They generally involve fraud, and the employees committing the crimes are motivated\nby the desire for financial gains or fear of losing business standing, money, or property. Fraud is the\nintentional misrepresentation of material facts for",
+        "metadata": {
+          "chapter": 5,
+          "page_id": "business-law-i-essentials-p058",
+          "end_char": 493,
+          "strategy": "B",
+          "start_char": 0
+        },
+        "score": 0.6370385885238647
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p030-B-3485-72f5a116702a",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 30,
+        "text": "the word crime often invokes the idea of violence, there are\nmany crimes, such as embezzlement, in which the harm caused is not physical, but rather monetary.\nEthics of Commercial Arbitration Clauses\nAs previously discussed, going to court to solve a dispute is a costly endeavor, and for large companies, it is\npossible to incur millions of dollars in legal expenses. While arbitration is meant to be a form of dispute\nresolution that helps disagreeing parties find a low-cost, time-efficient",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p030",
+          "end_char": 3978,
+          "strategy": "B",
+          "start_char": 3485
+        },
+        "score": 0.5914393663406372
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q09",
+    "split": "dev",
+    "strategy": "B",
+    "question": "What action does the text identify as larceny in a business setting?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 59,
+      "evidence_quote": "Larceny occurs when a person unlawfully takes the personal property of another person or a business.",
+      "expected_answer": "Unlawfully taking another person's or a business's personal property."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p059-B-501-16c6a8c8e287",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 59,
+        "text": "employee\ntakes another employee’s computer with the intent of stealing it, he or she may be guilty of larceny. In\ncontrast, embezzlement occurs when a person has been entrusted with an item of value and then refuses to\nreturn it or does not return the item. For example, if an employee is entrusted with the petty cash at his or her\noffice and that person purposefully takes some of the money for himself or herself, this would be\nembezzlement.\nOne high-profile example of embezzlement occurred at",
+        "metadata": {
+          "chapter": 5,
+          "page_id": "business-law-i-essentials-p059",
+          "end_char": 998,
+          "strategy": "B",
+          "start_char": 501
+        },
+        "score": 0.6023400009375878
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p057-B-501-ff966eda1d41",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 57,
+        "text": "and executives are\nsentenced to jail, when business laws are broken. Many of the workplace violations are nonviolent crimes,\nsuch as fraud, property crimes, or drug- or alcohol-related infractions. Regardless of the level of violence or the\nemployee’s motivation for committing the crime, breaking the law can lead to negative consequences for the\nbusiness, its employees, and its customers.\nConstitutional Authority to Regulate Business\nCongress is given the power to “regulate Commerce with foreign",
+        "metadata": {
+          "chapter": 5,
+          "page_id": "business-law-i-essentials-p057",
+          "end_char": 1001,
+          "strategy": "B",
+          "start_char": 501
+        },
+        "score": 0.59968401189852
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p018-B-1985-f3a37e738ddc",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 18,
+        "text": "liability is one method used to regulate companies. The extent of corporate liability\nfound in an offensive act determines whether a company will be held liable for the acts and omissions of its\nemployees. Criminal consequences may include penalties, such as prison, fines and/or community service. In\naddition to criminal liability, civil law remedies are usually available, e.g., the award of damages and\ninjunctions, which may include penalties. Most jurisdictions apply both criminal and civil",
+        "metadata": {
+          "chapter": 1,
+          "page_id": "business-law-i-essentials-p018",
+          "end_char": 2482,
+          "strategy": "B",
+          "start_char": 1985
+        },
+        "score": 0.5772785636518684
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false
+  },
+  {
+    "question_id": "q10",
+    "split": "dev",
+    "strategy": "B",
+    "question": "In chapter 7, what are offer and acceptance in forming a contract?",
+    "filter": {
+      "chapter": 7
+    },
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 80,
+      "evidence_quote": "An offer is a proposal made to demonstrate an intent to enter a contract. Acceptance is the agreement to be bound by the terms of the offer.",
+      "expected_answer": "An offer proposes entering a contract; acceptance agrees to be bound by its terms."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p079-B-499-8796c32d41b0",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 79,
+        "text": "by law, a contract must contain several elements, including offer and\nacceptance, genuine agreement, consideration, capacity, and legality.\nContract Law\n7",
+        "metadata": {
+          "chapter": 7,
+          "page_id": "business-law-i-essentials-p079",
+          "end_char": 653,
+          "strategy": "B",
+          "start_char": 499
+        },
+        "score": 0.7572952734617974
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p080-B-0-e0bed6268488",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 80,
+        "text": "Figure 7.2 Before a contract can become legal and enforceable, several elements must first be in place. (Credit: rawpixel/ pixabay/\nLicense: CC0)\nThe key to a contract is that there must be an offer, and acceptance of the terms of that offer. An offer is a\nproposal made to demonstrate an intent to enter a contract. Acceptance is the agreement to be bound by the\nterms of the offer. Offers must be made with intent, must be definite and certain (i.e., the offer must be clearly\nexpressed for it to",
+        "metadata": {
+          "chapter": 7,
+          "page_id": "business-law-i-essentials-p080",
+          "end_char": 498,
+          "strategy": "B",
+          "start_char": 0
+        },
+        "score": 0.7562199831008911
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p079-B-0-9110ee58bc9e",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 79,
+        "text": "Figure 7.1 Introduction (Credit: edar/ pixabay/ Attribution 2.0 Generic (CC BY 2.0))\nChapter Outline\n7.1 Agreement, Consideration, and Promissory Estoppel\n7.2 Capacity and Legality\n7.3 Breach of Contract and Remedies\nIntroduction\nLearning Outcome\n• Analyze the principles of contract law and how they apply to businesses.\n7.1 Agreement, Consideration, and Promissory Estoppel\nA contract is defined as an agreement between two or more parties that is enforceable by law.\nTo be considered enforceable",
+        "metadata": {
+          "chapter": 7,
+          "page_id": "business-law-i-essentials-p079",
+          "end_char": 498,
+          "strategy": "B",
+          "start_char": 0
+        },
+        "score": 0.6924769878387451
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q11",
+    "split": "dev",
+    "strategy": "B",
+    "question": "Can a minor void a contract for necessities such as food or clothing?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 82,
+      "evidence_quote": "In most states, a contract for necessities (i.e. food and clothing) may not be voided.",
+      "expected_answer": "In most states, a contract for necessities may not be voided by the minor."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p082-B-0-54c1e2bb8249",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 82,
+        "text": "Minors Have No Capacity to Contract\nIn most states, minors under the age of 18 lack the capacity to make a contract and may therefore either\nhonor an agreement or void the contract. However, there are a few exceptions to this rule. In most states, a\ncontract for necessities (i.e. food and clothing) may not be voided. Also, in most states, the contract can no\nlonger be voided when the minor turns 18.\nMary, 16, an athlete, signs a long-term endorsement deal with a well-known brand and is",
+        "metadata": {
+          "chapter": 7,
+          "page_id": "business-law-i-essentials-p082",
+          "end_char": 490,
+          "strategy": "B",
+          "start_char": 0
+        },
+        "score": 0.6394470930099487
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p080-B-998-a902db89dad0",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 80,
+        "text": "to contract is the next element required for a valid agreement. The law presumes that anyone\nentering a contract has the legal capacity to do so. Minors are generally excused from contractual\nresponsibility, as are mentally incompetent and drugged or drunk individuals.\nFinally, legality is the last element considered. Parties entering into contracts that involve illegal conduct may\nnot expect judicial relief to have that contract enforced. This theory has also been applied to conduct that\nwould",
+        "metadata": {
+          "chapter": 7,
+          "page_id": "business-law-i-essentials-p080",
+          "end_char": 1497,
+          "strategy": "B",
+          "start_char": 998
+        },
+        "score": 0.6207570803616702
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p081-B-3482-03d71996d5fe",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 81,
+        "text": "who are intoxicated. If people meeting these criteria enter into\na contract, the agreement is considered voidable. If a contract is voidable, then the person who lacked\ncapacity has the choice to either end the contract or continue with it as agreed upon. This design is meant to\nprotect the party lacking capacity.\nFollowing are some examples of the application of these rules.\n7.2 • Capacity and Legality 71",
+        "metadata": {
+          "chapter": 7,
+          "page_id": "business-law-i-essentials-p081",
+          "end_char": 3891,
+          "strategy": "B",
+          "start_char": 3482
+        },
+        "score": 0.5991142153211971
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q12",
+    "split": "dev",
+    "strategy": "B",
+    "question": "Under the UCC, when does a merchant supplier retain the risk of loss for goods?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 91,
+      "evidence_quote": "as long as the supplier is considered a merchant, the risk of loss remains with the merchant until the buyer takes possession of the good.",
+      "expected_answer": "Until the buyer takes possession of the goods."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p091-B-0-2f4b7fcad62d",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 91,
+        "text": "since he or she paid for the coffee machine prior to taking possession of it. Under the UCC, however, as long as\nthe supplier is considered a merchant, the risk of loss remains with the merchant until the buyer takes\npossession of the good.\nGiven problems like the one described above, the UCC separately considers four specific issues relating to\ntitles:\n• Ownership. Under consideration is the question of when the title transfers from vendor to vendee, and\nhence when ownership is said to occur.\n•",
+        "metadata": {
+          "chapter": 8,
+          "page_id": "business-law-i-essentials-p091",
+          "end_char": 500,
+          "strategy": "B",
+          "start_char": 0
+        },
+        "score": 0.7948005917787213
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p091-B-1498-4558955d26fa",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 91,
+        "text": "merchant. In the latter case, under the rule of tender of delivery, risk remains with the buyer.\nA common-carrier delivery contract occurs when a common carrier, who is an independent contractor rather\nthan an agent of the seller (e.g., a trucking line), delivers the goods. The UCC further categorizes these types of\ncontracts into shipment contracts and destination contracts:\n1. A shipment contract occurs when it is the responsibility of the seller to make the shipping arrangements\nand to",
+        "metadata": {
+          "chapter": 8,
+          "page_id": "business-law-i-essentials-p091",
+          "end_char": 1991,
+          "strategy": "B",
+          "start_char": 1498
+        },
+        "score": 0.6478531746776816
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p088-B-2496-c5f62199898a",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 88,
+        "text": "they are technically immovable while growing.\nArticle 2 of the UCC specifically pertains to sales contracts of goods. It defines a sale as a transaction that\ninvolves “the passing of title from the seller to the buyer for a price.” However, merchants are classified as a\nseparate entity under the terms of the UCC. This distinction is important because the Code contains provisions\nthat specifically apply to merchants and place greater duties on merchants to protect private citizens. There\nare four",
+        "metadata": {
+          "chapter": 8,
+          "page_id": "business-law-i-essentials-p088",
+          "end_char": 2996,
+          "strategy": "B",
+          "start_char": 2496
+        },
+        "score": 0.6230310573000357
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q13",
+    "split": "dev",
+    "strategy": "B",
+    "question": "What happens after a workers' compensation agency determines that an injury claim is legitimate?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 99,
+      "evidence_quote": "If the injury is determined to be legitimate, compensation benefits are paid accordingly.",
+      "expected_answer": "Compensation benefits are paid."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p099-B-499-20d6d049f1ab",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 99,
+        "text": "agency.\n2. The agency establishes the legitimacy of the claim.\n3. If the injury is determined to be legitimate, compensation benefits are paid accordingly.\nIt is important to note that workers’ compensation is understood to be an exclusive remedy. This term means\nthat workers cannot sue the employer in court for further damages beyond that which is paid out under the\ncompensation claim. An exception is made when the employer intentionally injures the worker, however.\nFurthermore, workers have",
+        "metadata": {
+          "chapter": 9,
+          "page_id": "business-law-i-essentials-p099",
+          "end_char": 996,
+          "strategy": "B",
+          "start_char": 499
+        },
+        "score": 0.8624880313873291
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p099-B-0-1dda2af10018",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 99,
+        "text": "against compensation claims. Workers’ compensation insurance covers a range of different injuries, including\nphysical injuries, mental illnesses that can be shown to be employment-related, and stress.\nUnder the terms of the Acts, a Workers’ Compensation Agency is established at the state level to provide\njudicial and administrative services to help in the resolution of claims for compensation. In the event of a\nclaim, a three-step process is put into place:\n1. The worker files a claim with the",
+        "metadata": {
+          "chapter": 9,
+          "page_id": "business-law-i-essentials-p099",
+          "end_char": 498,
+          "strategy": "B",
+          "start_char": 0
+        },
+        "score": 0.690065223570752
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p105-B-0-601f248388a6",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 105,
+        "text": "3. The employee must demonstrate that the reason given by the employer is a mere pretext.\nA trier of fact, usually a jury, will use the evidence presented to determine whether discrimination did in fact\noccur. If the jury finds for the employee-plaintiff, damages can be awarded, such as what occurred in the\nlandmark Ann Hopkins case, described in the opening box. If the jury finds for the employer-defendant, no\ndamages are assessed.\nDamages Permissible Under Title VII of the CRA\nUp to two years",
+        "metadata": {
+          "chapter": 9,
+          "page_id": "business-law-i-essentials-p105",
+          "end_char": 499,
+          "strategy": "B",
+          "start_char": 0
+        },
+        "score": 0.627263605594635
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q14",
+    "split": "dev",
+    "strategy": "B",
+    "question": "How does the text define administrative law?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 113,
+      "evidence_quote": "Administrative law is basically the delegated power granted to administrative agencies to carry out specific functions.",
+      "expected_answer": "It is delegated power granted to administrative agencies to carry out specific functions."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p111-B-0-619e121de8d2",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 111,
+        "text": "Figure 10.1 Introduction (Credit: JamesDeMers/ pixabay/ Attribution 2.0 Generic (CC BY 2.0))\nChapter Outline\n10.1 Administrative Law\n10.2 Regulatory Agencies\nIntroduction\nLearning Outcome\n• Define the role of administrative bodies and regulation in the governmental rulemaking process.\n10.1 Administrative Law\nAdministrative law is also referred to as regulatory and public law. It is the law that is related to\nadministrative agencies. Administrative agencies are established by statutes and",
+        "metadata": {
+          "chapter": 10,
+          "page_id": "business-law-i-essentials-p111",
+          "end_char": 492,
+          "strategy": "B",
+          "start_char": 0
+        },
+        "score": 0.7789467108877487
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p117-B-498-50840bff6c94",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 117,
+        "text": "President.\nb. Congress.\nc. The judges.\nd. None of these are correct.\n7 . The process of assigning authority to administrative agencies is called:\na. An assignment.\nb. A directive.\nc. A passing.\nd. A delegation.\n8 . What’s the role of an Administrative Law Judge (ALJ)?\n9 . The Bureau of Economics concentrates on all but the following:\na. Consumer protection investigation.\nb. Rulemaking.\nc. Lower prices for consumers.\nd. Economic impact of government regulation.\n10 . Explain the purpose of the",
+        "metadata": {
+          "chapter": 10,
+          "page_id": "business-law-i-essentials-p117",
+          "end_char": 994,
+          "strategy": "B",
+          "start_char": 498
+        },
+        "score": 0.6852635349411829
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p016-B-2982-14e52ea20904",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 16,
+        "text": "authority to enforce these regulations when a business violates them, and such\nenforcement is usually done by fining the company or by using other means.\nThe Administrative Procedure Act (APA) enables the adoption of regulations, which are codified and\nincorporated into the Code of Federal Regulations (CFR). Federal agencies frequently draft and distribute\nforms, manuals, policy statements, letters, and rulings. Though these may be considered as persuasive\nauthority by the courts, they do not",
+        "metadata": {
+          "chapter": 1,
+          "page_id": "business-law-i-essentials-p016",
+          "end_char": 3479,
+          "strategy": "B",
+          "start_char": 2982
+        },
+        "score": 0.6525908903059632
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false
+  },
+  {
+    "question_id": "q15",
+    "split": "dev",
+    "strategy": "B",
+    "question": "What market concern led lawmakers to address large-company mergers and similar practices in the late 1800s?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 120,
+      "evidence_quote": "attempts by large companies to create monopolies or to control the market, led state and federal lawmakers to take steps to reduce the risks associated with this type of practice.",
+      "expected_answer": "The risk that large companies would create monopolies or control markets."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p132-B-499-b9bd96d133e9",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 132,
+        "text": "before accepting payment for them.\n12.2 The Federal Trade Commission\nThe FTC was created in 1914 to address the problem of monopolies and trusts. Following the Civil War, a wave\nof consolidation and growth among companies triggered increased public debate. Through handshake\nagreements, issuance of stock, and pooling arrangements, companies could fix prices and outputs, thus\neffectively stopping competition and raising consumer prices. A substantial number of mergers gave control\nover key",
+        "metadata": {
+          "chapter": 12,
+          "page_id": "business-law-i-essentials-p132",
+          "end_char": 991,
+          "strategy": "B",
+          "start_char": 499
+        },
+        "score": 0.6656073728565808
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p132-B-992-b71c274c92d3",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 132,
+        "text": "industries to small groups of businesses. Where companies did not merge, other arrangements were\nmade to have a similar effect. Conglomerates controlled most of the relevant industries that produced\nhousehold necessities. Goods used in production were also the product of highly concentrated trusts, such as\nthe United States Steel Corporation and the International Paper Company. Concerns about industrialization\nand a changing economy, with shifting norms for personal lives, triggered antitrust",
+        "metadata": {
+          "chapter": 12,
+          "page_id": "business-law-i-essentials-p132",
+          "end_char": 1489,
+          "strategy": "B",
+          "start_char": 992
+        },
+        "score": 0.6612256962426217
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p121-B-997-9a3cd7240596",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 121,
+        "text": "the market. This effort resulted in mergers and consolidation practices that placed the largest\nshare of the industries under the control of just a few, thereby increasing their power. Since the trusts were\nable to fix prices and could afford to take some losses, they would drive prices down until competitors were\nforced out of business because they could not afford to operate at the lower rates (West. n.d.).\nThe markets began to consolidate under just a few companies because the smaller",
+        "metadata": {
+          "chapter": 11,
+          "page_id": "business-law-i-essentials-p121",
+          "end_char": 1489,
+          "strategy": "B",
+          "start_char": 997
+        },
+        "score": 0.6434560397377075
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false
+  },
+  {
+    "question_id": "q01",
+    "split": "dev",
+    "strategy": "C",
+    "question": "How do judges use precedent when deciding a case under the common-law system?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 16,
+      "evidence_quote": "judges rely on precedent, i.e., previous court rulings on similar cases, when determining the ruling in their own cases.",
+      "expected_answer": "They consult previous rulings in similar cases to inform their decision."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p016-C-0-5d935ea8e411",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 16,
+        "text": "American Common Law\nAs discussed in the previous section, the United States follows the common law legal tradition of English law.\nJudges in the Common Law system help shape the law through their rulings and interpretations. This body of\npast decisions is known as case law, which is used by judges to inform their own rulings. In fact, judges rely on\nprecedent, i.e., previous court rulings on similar cases, when determining the ruling in their own cases.\nAn example of how case law works is the",
+        "metadata": {
+          "chapter": 1,
+          "page_id": "business-law-i-essentials-p016",
+          "end_char": 497,
+          "strategy": "C",
+          "start_char": 0
+        },
+        "score": 0.7583932424549329
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p014-C-999-245ad9f854c3",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 14,
+        "text": "famous old case. Additionally, foreign law is not cited as binding precedent. Therefore,\nthe current American practice of the common law tradition refers more to the process of judges looking to the\nprecedent set jurisdictionally, and substantially similar to, American case law.\nMaintaining Order\nCongruent with the goal of establishing standards and promoting consistency, laws are also used to promote,\nprovide, and maintain order.\nResolving Disputes\nConflicts are to be expected given people’s",
+        "metadata": {
+          "chapter": 1,
+          "page_id": "business-law-i-essentials-p014",
+          "end_char": 1496,
+          "strategy": "C",
+          "start_char": 999
+        },
+        "score": 0.7565146910105638
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p014-C-498-56e7c45c46a4",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 14,
+        "text": "case law to inform their own rulings. Indeed, judges rely on precedent, i.e., previous court rulings on similar\ncases, for ruling on their own cases.\nAll U.S. states, except Louisiana, have enacted “reception statutes,” stating that the judge-made common law\nof England is the law of the state to the extent that it does not conflict with the state’s current laws.\nHowever, the body of American law is now so robust that American cases rarely cite English materials, except\nfor a British classic or a",
+        "metadata": {
+          "chapter": 1,
+          "page_id": "business-law-i-essentials-p014",
+          "end_char": 998,
+          "strategy": "C",
+          "start_char": 498
+        },
+        "score": 0.7307684203753375
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q02",
+    "split": "dev",
+    "strategy": "C",
+    "question": "In chapter 2, why might disputing parties prefer mediation when they want to keep a sensitive dispute private?",
+    "filter": {
+      "chapter": 2
+    },
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 27,
+      "evidence_quote": "Since court proceedings become a matter of public record, it can be advantageous to use mediation to preserve anonymity.",
+      "expected_answer": "Mediation can preserve anonymity because court proceedings become public record."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p027-C-991-42352f60f774",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 27,
+        "text": "which neither party is in favor. In contrast, mediation gives the\ndisputing parties opportunities to find common ground on their own terms, before relinquishing control\nto outside forces.\nRole of the Mediator\nSuccessful mediators work to immediately establish personal rapport with the disputing parties. They often\nhave a short period of time to interact with the parties and work to position themselves as a trustworthy\nadvisor. The Harvard Law School Program on Negotiation reports a study by",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p027",
+          "end_char": 1486,
+          "strategy": "C",
+          "start_char": 991
+        },
+        "score": 0.7771291865629456
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p027-C-2479-218149d3d663",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 27,
+        "text": "and will\nguide the discussion toward a mutually amicable solution. This part of the mediation process usually\nidentifies which issues need to be resolved and explores ways to address the issues.\n• Private Caucus: During this stage, each party has the ability to meet and speak privately with the\nmediator. Typically, the mediator will use this time to learn more about what is most important to each\nparty and to brainstorm ways to find a resolution. The mediator may ask the parties to try to put",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p027",
+          "end_char": 2976,
+          "strategy": "C",
+          "start_char": 2479
+        },
+        "score": 0.7110732966021731
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p026-C-2968-0e51bc2047fb",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 26,
+        "text": "associated with public court systems. There are many\nagency-connected and private mediation services that disputing parties can hire to help them potentially\nresolve their dispute. The American Bar Association suggests that, in addition to training courses, one of the\nbest ways to start a private mediation business is to volunteer as a mediator. Research has shown that\nexperience is an important factor for mediators who are seeking to cultivate sensitivity and hone their conflict\nresolution",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p026",
+          "end_char": 3463,
+          "strategy": "C",
+          "start_char": 2968
+        },
+        "score": 0.6819085072333523
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false
+  },
+  {
+    "question_id": "q03",
+    "split": "dev",
+    "strategy": "C",
+    "question": "What does the text mean by dyadic negotiation?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 24,
+      "evidence_quote": "Put simply, dyadic negotiation involves two individuals interacting with one another in an attempt to resolve a dispute.",
+      "expected_answer": "Two individuals interact to try to resolve a dispute."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p024-C-492-e69566a05f3a",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 24,
+        "text": "individuals or parties, and by its very nature, it is often\nmore complex, time-consuming, and challenging to resolve.\nWhile dyadic and group negotiations may involve different dynamics, one of the most important aspects of\nany negotiation, regardless of the quantity of negotiators, is the objective. Negotiation experts recognize two\nmajor goals of negotiation: relational and outcome. Relational goals are focused on building, maintaining, or\nrepairing a partnership, connection, or rapport with",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p024",
+          "end_char": 989,
+          "strategy": "C",
+          "start_char": 492
+        },
+        "score": 0.6271373594228056
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p023-C-998-d97b7cb0c055",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 23,
+        "text": "Organization Behavior and Human\nDecision Processes defined negotiation as the “process by which parties with nonidentical preferences\nallocate resources through interpersonal activity and joint decision making.” Analyzing the various\ncomponents of this definition is helpful in understanding the theories and practices involved in negotiation as\na form of dispute settlement.\nNegotiation Types and Objectives\nPer the above definition, negotiation becomes necessary when two parties hold",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p023",
+          "end_char": 1484,
+          "strategy": "C",
+          "start_char": 998
+        },
+        "score": 0.5886798851895274
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p024-C-1986-4b9bf10926db",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 24,
+        "text": "sometimes referred to as integrative, while\nwin-lose approaches are called distributive.\nFigure 2.2 Certain negotiation styles adopt a mindset in which the extent of one’s win is proportional to the other’s loss. (Credit:\nSebastian Voortman/ pexels/ License: CC0)\nNegotiation Style\nEveryone has a different way of approaching negotiation, depending on the circumstance and the person’s\npersonality. However, the Thomas-Kilmann Conflict Mode Instrument (TKI) is a questionnaire that provides\na",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p024",
+          "end_char": 2478,
+          "strategy": "C",
+          "start_char": 1986
+        },
+        "score": 0.5849230986741899
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false
+  },
+  {
+    "question_id": "q04",
+    "split": "dev",
+    "strategy": "C",
+    "question": "What makes arbitration involuntary rather than voluntary?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 30,
+      "evidence_quote": "this requirement is known as involuntary arbitration because it is forced upon them by an outside party.",
+      "expected_answer": "An outside party requires the disputants to attempt arbitration before litigation."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p030-C-0-24b45d4694a7",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 30,
+        "text": "Types of Arbitration Agreements\nParties can enter into either voluntary or involuntary arbitration. In voluntary arbitration, the disputing\nparties have decided, of their own accord, to seek arbitration as a way to potentially settle their dispute.\nDepending on the state’s laws and the nature of the dispute, disagreeing parties may have to attempt\narbitration before resorting to litigation; this requirement is known as involuntary arbitration because it is\nforced upon them by an outside party.",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p030",
+          "end_char": 498,
+          "strategy": "C",
+          "start_char": 0
+        },
+        "score": 0.7321805081152363
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p029-C-1496-e4712d19d1f6",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 29,
+        "text": "about the dispute after receiving evidence and hearing\narguments.” Arbitration is overseen by a neutral arbitrator, or an individual who is responsible for making a\ndecision on how to resolve a dispute and who has the ability to decide on an award, or a course of action that\nthe arbiter believes is fair, given the situation. An award can be a monetary payment that one party must pay\nto the other; however, awards need not always be financial in nature. An award may require that one business\nstop",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p029",
+          "end_char": 1995,
+          "strategy": "C",
+          "start_char": 1496
+        },
+        "score": 0.6637220583127809
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p030-C-499-50cea9e14f8e",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 30,
+        "text": "Arbitration can be either binding or non-binding. In binding arbitration, the decision of the arbitrator(s) is\nfinal, and except in rare circumstances, neither party can appeal the decision through the court system. In\nnon-binding arbitration, the arbitrator’s award can be thought of as a recommendation; it is only finalized if\nboth parties agree that it is an acceptable solution. This fact is why non-binding arbitration can be useful for\nwhat the American Arbitration Association describes as",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p030",
+          "end_char": 996,
+          "strategy": "C",
+          "start_char": 499
+        },
+        "score": 0.6543321425518867
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q05",
+    "split": "dev",
+    "strategy": "C",
+    "question": "In chapter 4, when can a state's use of police power affecting interstate commerce be unconstitutional?",
+    "filter": {
+      "chapter": 4
+    },
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 50,
+      "evidence_quote": "If the exercise of the power interferes with, or discriminates against, interstate commerce, then the action is generally deemed to be unconstitutional.",
+      "expected_answer": "When it interferes with or discriminates against interstate commerce."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p050-C-0-4aea06fc86e2",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 50,
+        "text": "Examples of areas in which states tend to exercise their police power are zoning regulations, building codes,\nand sanitation standards for eating places. However, there are times when the states’ use of police power\nimpacts interstate commerce. If the exercise of the power interferes with, or discriminates against, interstate\ncommerce, then the action is generally deemed to be unconstitutional. The limitation on the authority of\nstates to regulate in areas that impact interstate commerce is",
+        "metadata": {
+          "chapter": 4,
+          "page_id": "business-law-i-essentials-p050",
+          "end_char": 495,
+          "strategy": "C",
+          "start_char": 0
+        },
+        "score": 0.7330477674631947
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p049-C-3494-92e1a6eab6da",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 49,
+        "text": "of the Supreme\nCourt, Justice Roberts, ruled that actions that create new business activity do not affect interstate commerce.\nPolice Power and the Dormant Commerce Clause\nThe authority of the federal government to regulate interstate commerce has, at times, come into conflict with\nstate authority over the same area of regulation. The courts have tried to resolve these conflicts with reference\nto the police power of the states.\nPolice power refers to the residual powers granted to each state to",
+        "metadata": {
+          "chapter": 4,
+          "page_id": "business-law-i-essentials-p049",
+          "end_char": 3993,
+          "strategy": "C",
+          "start_char": 3494
+        },
+        "score": 0.702859345334114
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p051-C-501-d10634ed0aae",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 51,
+        "text": "in\nthe Department of Motor\nVehicles’ (DMV’s) records.\nRegulation of\nactivities that are\ndeemed to have a\nsubstantial\nimpact on\ninterstate\ncommerce\nFederal regulation of economic commercial activity\nexpected to have a significant (as opposed to\nminor) effect on interstate commerce is\nconstitutional, according to the commerce clause.\nNoneconomic commercial activity is not covered.\nThe courts in the United States\nvs. Lopez case described\nearlier deemed the Act to be\nunconstitutional because its",
+        "metadata": {
+          "chapter": 4,
+          "page_id": "business-law-i-essentials-p051",
+          "end_char": 997,
+          "strategy": "C",
+          "start_char": 501
+        },
+        "score": 0.6855232715606738
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q06",
+    "split": "dev",
+    "strategy": "C",
+    "question": "How does the arbitrator decide a baseball arbitration award?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 32,
+      "evidence_quote": "the arbitrator chooses one offer or the other, without modification.",
+      "expected_answer": "The arbitrator selects one party's offer without modifying it."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p029-C-1496-e4712d19d1f6",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 29,
+        "text": "about the dispute after receiving evidence and hearing\narguments.” Arbitration is overseen by a neutral arbitrator, or an individual who is responsible for making a\ndecision on how to resolve a dispute and who has the ability to decide on an award, or a course of action that\nthe arbiter believes is fair, given the situation. An award can be a monetary payment that one party must pay\nto the other; however, awards need not always be financial in nature. An award may require that one business\nstop",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p029",
+          "end_char": 1995,
+          "strategy": "C",
+          "start_char": 1496
+        },
+        "score": 0.7303201556205802
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p032-C-0-b5287b51d780",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 32,
+        "text": "include real estate attorneys or commercial real estate investors. In baseball arbitration, each party would\nsubmit a lease renewal figure to an arbitrator. For example, imagine that the renewing tenant submits an offer\nof $10/per square foot, which is very much under market value, while the building owner submits an offer of\n$35/square foot. In this scenario, the arbitrator chooses one offer or the other, without modification. This type\nof arbitration incentivizes both parties to be fair in",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p032",
+          "end_char": 496,
+          "strategy": "C",
+          "start_char": 0
+        },
+        "score": 0.7173361564476473
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p031-C-1496-4ad1bf468bc7",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 31,
+        "text": "arbitrator will make a decision and usually makes one or more awards.\nNot all arbitration agreements have the same procedures. It depends on the types of agreements made in\nadvance by the disputing parties. Consider the following scenario: the owner of a large commercial office\nbuilding uses a lease agreement, which stipulates that arbitration will be used to settle the renewal terms of a\nlease. For example, the lease may state that, at the end of year one, the second year’s lease payment will",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p031",
+          "end_char": 1994,
+          "strategy": "C",
+          "start_char": 1496
+        },
+        "score": 0.697078544075577
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q07",
+    "split": "dev",
+    "strategy": "C",
+    "question": "Name two organizational benefits the text associates with ethical business practices.",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 39,
+      "evidence_quote": "Ethical business practices, guided by a corporate set of standards, can have many positive outcomes, including recruitment and retention improvement, better relationships with customers, and positive PR.",
+      "expected_answer": "Examples include improved recruitment and retention, better customer relationships, and positive public relations."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p038-C-0-7bfcc365e7f5",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 38,
+        "text": "Figure 3.2 A group of employees who uphold strong corporate values can be an asset to the company they work for. (Credit:\nrawpixel/ pexels/ License: CC0)\nBusiness ethics are considered to be the blueprint for building a successful organization. If an organization is\nbuilt on socially responsible values, it will be stronger than an organization that is built on profit alone. More\nthan just a positive reputation, the core ethics of a business dictate how every decision, process, and\nprocedure will",
+        "metadata": {
+          "chapter": 3,
+          "page_id": "business-law-i-essentials-p038",
+          "end_char": 500,
+          "strategy": "C",
+          "start_char": 0
+        },
+        "score": 0.6706562638282776
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p040-C-2482-42eaf621eb97",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 40,
+        "text": "specific codes of conduct can be added as they come up.\nValue-based ethics. These are specific ethics that dig under the surface of a corporate culture. A business\nshould think about how it wants to be viewed by the community. Examples could be a commitment to green\noffice practices, reduction of a company’s carbon footprint, giving a certain percentage of a company’s profits\nto the local food pantry to support the community, etc.\nRegulatory ethics. These are designed to maintain certain",
+        "metadata": {
+          "chapter": 3,
+          "page_id": "business-law-i-essentials-p040",
+          "end_char": 2974,
+          "strategy": "C",
+          "start_char": 2482
+        },
+        "score": 0.6636059679750197
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p037-C-0-ea3c135ae6ce",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 37,
+        "text": "Figure 3.1 Introduction (Credit: rawpixel/ pixabay/ Attribution 2.0 Generic (CC BY 2.0))\nChapter Outline\n3.1 Business Ethics\n3.2 Social Responsibility\nIntroduction\nLearning Outcome\n• Analyze the role of ethics and social responsibility in business.\n3.1 Business Ethics\nBusinesses must establish a clear set of values that promote ethical practices and social responsibility. In\ntoday’s business climate, companies are increasingly under scrutiny by private citizens. A company that builds\nits",
+        "metadata": {
+          "chapter": 3,
+          "page_id": "business-law-i-essentials-p037",
+          "end_char": 492,
+          "strategy": "C",
+          "start_char": 0
+        },
+        "score": 0.5915348882397953
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false
+  },
+  {
+    "question_id": "q08",
+    "split": "dev",
+    "strategy": "C",
+    "question": "How does money laundering make proceeds from crime appear legitimate?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 61,
+      "evidence_quote": "passing it through otherwise legitimate businesses so that it appears",
+      "expected_answer": "It passes the proceeds through otherwise legitimate businesses so they appear clean and cannot be tied back to the illegal acts."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p061-C-0-c0ec4351b513",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 61,
+        "text": "example of bribery would be a situation in which a pharmaceutical company offers special benefits to\nindividuals who agree to prescribe their medications.\nMoney Laundering\nMoney laundering refers to taking “dirty”money, or money obtained through criminal activities, and passing it\nthrough otherwise legitimate businesses so that it appears “clean.” The money cannot be tied back to the\nillegal acts. Clean money is money that was obtained through legitimate business functions.\nSpamming\nSending",
+        "metadata": {
+          "chapter": 5,
+          "page_id": "business-law-i-essentials-p061",
+          "end_char": 495,
+          "strategy": "C",
+          "start_char": 0
+        },
+        "score": 0.6723892889138847
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p058-C-0-3ab7a0ff55d8",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 58,
+        "text": "economic transaction is involved. The federal government does not usually exceed its regulatory powers.\nWhite Collar Crime\nWhite collar crimes are characterized by deceit, concealment, or violation of trust. They are committed by\nbusiness professionals. They generally involve fraud, and the employees committing the crimes are motivated\nby the desire for financial gains or fear of losing business standing, money, or property. Fraud is the\nintentional misrepresentation of material facts for",
+        "metadata": {
+          "chapter": 5,
+          "page_id": "business-law-i-essentials-p058",
+          "end_char": 493,
+          "strategy": "C",
+          "start_char": 0
+        },
+        "score": 0.6370385885238647
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p030-C-3485-72f5a116702a",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 30,
+        "text": "the word crime often invokes the idea of violence, there are\nmany crimes, such as embezzlement, in which the harm caused is not physical, but rather monetary.\nEthics of Commercial Arbitration Clauses\nAs previously discussed, going to court to solve a dispute is a costly endeavor, and for large companies, it is\npossible to incur millions of dollars in legal expenses. While arbitration is meant to be a form of dispute\nresolution that helps disagreeing parties find a low-cost, time-efficient",
+        "metadata": {
+          "chapter": 2,
+          "page_id": "business-law-i-essentials-p030",
+          "end_char": 3978,
+          "strategy": "C",
+          "start_char": 3485
+        },
+        "score": 0.5914393663406372
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q09",
+    "split": "dev",
+    "strategy": "C",
+    "question": "What action does the text identify as larceny in a business setting?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 59,
+      "evidence_quote": "Larceny occurs when a person unlawfully takes the personal property of another person or a business.",
+      "expected_answer": "Unlawfully taking another person's or a business's personal property."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p059-C-501-16c6a8c8e287",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 59,
+        "text": "employee\ntakes another employee’s computer with the intent of stealing it, he or she may be guilty of larceny. In\ncontrast, embezzlement occurs when a person has been entrusted with an item of value and then refuses to\nreturn it or does not return the item. For example, if an employee is entrusted with the petty cash at his or her\noffice and that person purposefully takes some of the money for himself or herself, this would be\nembezzlement.\nOne high-profile example of embezzlement occurred at",
+        "metadata": {
+          "chapter": 5,
+          "page_id": "business-law-i-essentials-p059",
+          "end_char": 998,
+          "strategy": "C",
+          "start_char": 501
+        },
+        "score": 0.6023400009375878
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p057-C-501-ff966eda1d41",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 57,
+        "text": "and executives are\nsentenced to jail, when business laws are broken. Many of the workplace violations are nonviolent crimes,\nsuch as fraud, property crimes, or drug- or alcohol-related infractions. Regardless of the level of violence or the\nemployee’s motivation for committing the crime, breaking the law can lead to negative consequences for the\nbusiness, its employees, and its customers.\nConstitutional Authority to Regulate Business\nCongress is given the power to “regulate Commerce with foreign",
+        "metadata": {
+          "chapter": 5,
+          "page_id": "business-law-i-essentials-p057",
+          "end_char": 1001,
+          "strategy": "C",
+          "start_char": 501
+        },
+        "score": 0.59968401189852
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p018-C-1985-f3a37e738ddc",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 18,
+        "text": "liability is one method used to regulate companies. The extent of corporate liability\nfound in an offensive act determines whether a company will be held liable for the acts and omissions of its\nemployees. Criminal consequences may include penalties, such as prison, fines and/or community service. In\naddition to criminal liability, civil law remedies are usually available, e.g., the award of damages and\ninjunctions, which may include penalties. Most jurisdictions apply both criminal and civil",
+        "metadata": {
+          "chapter": 1,
+          "page_id": "business-law-i-essentials-p018",
+          "end_char": 2482,
+          "strategy": "C",
+          "start_char": 1985
+        },
+        "score": 0.5772785636518684
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false
+  },
+  {
+    "question_id": "q10",
+    "split": "dev",
+    "strategy": "C",
+    "question": "In chapter 7, what are offer and acceptance in forming a contract?",
+    "filter": {
+      "chapter": 7
+    },
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 80,
+      "evidence_quote": "An offer is a proposal made to demonstrate an intent to enter a contract. Acceptance is the agreement to be bound by the terms of the offer.",
+      "expected_answer": "An offer proposes entering a contract; acceptance agrees to be bound by its terms."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p079-C-499-8796c32d41b0",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 79,
+        "text": "by law, a contract must contain several elements, including offer and\nacceptance, genuine agreement, consideration, capacity, and legality.\nContract Law\n7",
+        "metadata": {
+          "chapter": 7,
+          "page_id": "business-law-i-essentials-p079",
+          "end_char": 653,
+          "strategy": "C",
+          "start_char": 499
+        },
+        "score": 0.7572952734617974
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p080-C-0-e0bed6268488",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 80,
+        "text": "Figure 7.2 Before a contract can become legal and enforceable, several elements must first be in place. (Credit: rawpixel/ pixabay/\nLicense: CC0)\nThe key to a contract is that there must be an offer, and acceptance of the terms of that offer. An offer is a\nproposal made to demonstrate an intent to enter a contract. Acceptance is the agreement to be bound by the\nterms of the offer. Offers must be made with intent, must be definite and certain (i.e., the offer must be clearly\nexpressed for it to",
+        "metadata": {
+          "chapter": 7,
+          "page_id": "business-law-i-essentials-p080",
+          "end_char": 498,
+          "strategy": "C",
+          "start_char": 0
+        },
+        "score": 0.7562199831008911
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p079-C-0-9110ee58bc9e",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 79,
+        "text": "Figure 7.1 Introduction (Credit: edar/ pixabay/ Attribution 2.0 Generic (CC BY 2.0))\nChapter Outline\n7.1 Agreement, Consideration, and Promissory Estoppel\n7.2 Capacity and Legality\n7.3 Breach of Contract and Remedies\nIntroduction\nLearning Outcome\n• Analyze the principles of contract law and how they apply to businesses.\n7.1 Agreement, Consideration, and Promissory Estoppel\nA contract is defined as an agreement between two or more parties that is enforceable by law.\nTo be considered enforceable",
+        "metadata": {
+          "chapter": 7,
+          "page_id": "business-law-i-essentials-p079",
+          "end_char": 498,
+          "strategy": "C",
+          "start_char": 0
+        },
+        "score": 0.6924769878387451
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q11",
+    "split": "dev",
+    "strategy": "C",
+    "question": "Can a minor void a contract for necessities such as food or clothing?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 82,
+      "evidence_quote": "In most states, a contract for necessities (i.e. food and clothing) may not be voided.",
+      "expected_answer": "In most states, a contract for necessities may not be voided by the minor."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p082-C-0-54c1e2bb8249",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 82,
+        "text": "Minors Have No Capacity to Contract\nIn most states, minors under the age of 18 lack the capacity to make a contract and may therefore either\nhonor an agreement or void the contract. However, there are a few exceptions to this rule. In most states, a\ncontract for necessities (i.e. food and clothing) may not be voided. Also, in most states, the contract can no\nlonger be voided when the minor turns 18.\nMary, 16, an athlete, signs a long-term endorsement deal with a well-known brand and is",
+        "metadata": {
+          "chapter": 7,
+          "page_id": "business-law-i-essentials-p082",
+          "end_char": 490,
+          "strategy": "C",
+          "start_char": 0
+        },
+        "score": 0.6394470930099487
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p080-C-998-a902db89dad0",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 80,
+        "text": "to contract is the next element required for a valid agreement. The law presumes that anyone\nentering a contract has the legal capacity to do so. Minors are generally excused from contractual\nresponsibility, as are mentally incompetent and drugged or drunk individuals.\nFinally, legality is the last element considered. Parties entering into contracts that involve illegal conduct may\nnot expect judicial relief to have that contract enforced. This theory has also been applied to conduct that\nwould",
+        "metadata": {
+          "chapter": 7,
+          "page_id": "business-law-i-essentials-p080",
+          "end_char": 1497,
+          "strategy": "C",
+          "start_char": 998
+        },
+        "score": 0.6207570803616702
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p081-C-3482-03d71996d5fe",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 81,
+        "text": "who are intoxicated. If people meeting these criteria enter into\na contract, the agreement is considered voidable. If a contract is voidable, then the person who lacked\ncapacity has the choice to either end the contract or continue with it as agreed upon. This design is meant to\nprotect the party lacking capacity.\nFollowing are some examples of the application of these rules.\n7.2 • Capacity and Legality 71",
+        "metadata": {
+          "chapter": 7,
+          "page_id": "business-law-i-essentials-p081",
+          "end_char": 3891,
+          "strategy": "C",
+          "start_char": 3482
+        },
+        "score": 0.5991142153211971
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q12",
+    "split": "dev",
+    "strategy": "C",
+    "question": "Under the UCC, when does a merchant supplier retain the risk of loss for goods?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 91,
+      "evidence_quote": "as long as the supplier is considered a merchant, the risk of loss remains with the merchant until the buyer takes possession of the good.",
+      "expected_answer": "Until the buyer takes possession of the goods."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p091-C-0-2f4b7fcad62d",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 91,
+        "text": "since he or she paid for the coffee machine prior to taking possession of it. Under the UCC, however, as long as\nthe supplier is considered a merchant, the risk of loss remains with the merchant until the buyer takes\npossession of the good.\nGiven problems like the one described above, the UCC separately considers four specific issues relating to\ntitles:\n• Ownership. Under consideration is the question of when the title transfers from vendor to vendee, and\nhence when ownership is said to occur.\n•",
+        "metadata": {
+          "chapter": 8,
+          "page_id": "business-law-i-essentials-p091",
+          "end_char": 500,
+          "strategy": "C",
+          "start_char": 0
+        },
+        "score": 0.7948005917787213
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p091-C-1498-4558955d26fa",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 91,
+        "text": "merchant. In the latter case, under the rule of tender of delivery, risk remains with the buyer.\nA common-carrier delivery contract occurs when a common carrier, who is an independent contractor rather\nthan an agent of the seller (e.g., a trucking line), delivers the goods. The UCC further categorizes these types of\ncontracts into shipment contracts and destination contracts:\n1. A shipment contract occurs when it is the responsibility of the seller to make the shipping arrangements\nand to",
+        "metadata": {
+          "chapter": 8,
+          "page_id": "business-law-i-essentials-p091",
+          "end_char": 1991,
+          "strategy": "C",
+          "start_char": 1498
+        },
+        "score": 0.6478531746776816
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p088-C-2496-c5f62199898a",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 88,
+        "text": "they are technically immovable while growing.\nArticle 2 of the UCC specifically pertains to sales contracts of goods. It defines a sale as a transaction that\ninvolves “the passing of title from the seller to the buyer for a price.” However, merchants are classified as a\nseparate entity under the terms of the UCC. This distinction is important because the Code contains provisions\nthat specifically apply to merchants and place greater duties on merchants to protect private citizens. There\nare four",
+        "metadata": {
+          "chapter": 8,
+          "page_id": "business-law-i-essentials-p088",
+          "end_char": 2996,
+          "strategy": "C",
+          "start_char": 2496
+        },
+        "score": 0.6230310573000357
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q13",
+    "split": "dev",
+    "strategy": "C",
+    "question": "What happens after a workers' compensation agency determines that an injury claim is legitimate?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 99,
+      "evidence_quote": "If the injury is determined to be legitimate, compensation benefits are paid accordingly.",
+      "expected_answer": "Compensation benefits are paid."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p099-C-499-20d6d049f1ab",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 99,
+        "text": "agency.\n2. The agency establishes the legitimacy of the claim.\n3. If the injury is determined to be legitimate, compensation benefits are paid accordingly.\nIt is important to note that workers’ compensation is understood to be an exclusive remedy. This term means\nthat workers cannot sue the employer in court for further damages beyond that which is paid out under the\ncompensation claim. An exception is made when the employer intentionally injures the worker, however.\nFurthermore, workers have",
+        "metadata": {
+          "chapter": 9,
+          "page_id": "business-law-i-essentials-p099",
+          "end_char": 996,
+          "strategy": "C",
+          "start_char": 499
+        },
+        "score": 0.8624880313873291
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p099-C-0-1dda2af10018",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 99,
+        "text": "against compensation claims. Workers’ compensation insurance covers a range of different injuries, including\nphysical injuries, mental illnesses that can be shown to be employment-related, and stress.\nUnder the terms of the Acts, a Workers’ Compensation Agency is established at the state level to provide\njudicial and administrative services to help in the resolution of claims for compensation. In the event of a\nclaim, a three-step process is put into place:\n1. The worker files a claim with the",
+        "metadata": {
+          "chapter": 9,
+          "page_id": "business-law-i-essentials-p099",
+          "end_char": 498,
+          "strategy": "C",
+          "start_char": 0
+        },
+        "score": 0.690065223570752
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p105-C-0-601f248388a6",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 105,
+        "text": "3. The employee must demonstrate that the reason given by the employer is a mere pretext.\nA trier of fact, usually a jury, will use the evidence presented to determine whether discrimination did in fact\noccur. If the jury finds for the employee-plaintiff, damages can be awarded, such as what occurred in the\nlandmark Ann Hopkins case, described in the opening box. If the jury finds for the employer-defendant, no\ndamages are assessed.\nDamages Permissible Under Title VII of the CRA\nUp to two years",
+        "metadata": {
+          "chapter": 9,
+          "page_id": "business-law-i-essentials-p105",
+          "end_char": 499,
+          "strategy": "C",
+          "start_char": 0
+        },
+        "score": 0.627263605594635
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true
+  },
+  {
+    "question_id": "q14",
+    "split": "dev",
+    "strategy": "C",
+    "question": "How does the text define administrative law?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 113,
+      "evidence_quote": "Administrative law is basically the delegated power granted to administrative agencies to carry out specific functions.",
+      "expected_answer": "It is delegated power granted to administrative agencies to carry out specific functions."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p111-C-0-619e121de8d2",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 111,
+        "text": "Figure 10.1 Introduction (Credit: JamesDeMers/ pixabay/ Attribution 2.0 Generic (CC BY 2.0))\nChapter Outline\n10.1 Administrative Law\n10.2 Regulatory Agencies\nIntroduction\nLearning Outcome\n• Define the role of administrative bodies and regulation in the governmental rulemaking process.\n10.1 Administrative Law\nAdministrative law is also referred to as regulatory and public law. It is the law that is related to\nadministrative agencies. Administrative agencies are established by statutes and",
+        "metadata": {
+          "chapter": 10,
+          "page_id": "business-law-i-essentials-p111",
+          "end_char": 492,
+          "strategy": "C",
+          "start_char": 0
+        },
+        "score": 0.7789467108877487
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p117-C-498-50840bff6c94",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 117,
+        "text": "President.\nb. Congress.\nc. The judges.\nd. None of these are correct.\n7 . The process of assigning authority to administrative agencies is called:\na. An assignment.\nb. A directive.\nc. A passing.\nd. A delegation.\n8 . What’s the role of an Administrative Law Judge (ALJ)?\n9 . The Bureau of Economics concentrates on all but the following:\na. Consumer protection investigation.\nb. Rulemaking.\nc. Lower prices for consumers.\nd. Economic impact of government regulation.\n10 . Explain the purpose of the",
+        "metadata": {
+          "chapter": 10,
+          "page_id": "business-law-i-essentials-p117",
+          "end_char": 994,
+          "strategy": "C",
+          "start_char": 498
+        },
+        "score": 0.6852635349411829
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p016-C-2982-14e52ea20904",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 16,
+        "text": "authority to enforce these regulations when a business violates them, and such\nenforcement is usually done by fining the company or by using other means.\nThe Administrative Procedure Act (APA) enables the adoption of regulations, which are codified and\nincorporated into the Code of Federal Regulations (CFR). Federal agencies frequently draft and distribute\nforms, manuals, policy statements, letters, and rulings. Though these may be considered as persuasive\nauthority by the courts, they do not",
+        "metadata": {
+          "chapter": 1,
+          "page_id": "business-law-i-essentials-p016",
+          "end_char": 3479,
+          "strategy": "C",
+          "start_char": 2982
+        },
+        "score": 0.6525908903059632
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false
+  },
+  {
+    "question_id": "q15",
+    "split": "dev",
+    "strategy": "C",
+    "question": "What market concern led lawmakers to address large-company mergers and similar practices in the late 1800s?",
+    "filter": null,
+    "gold": {
+      "source_id": "business-law-i-essentials",
+      "page": 120,
+      "evidence_quote": "attempts by large companies to create monopolies or to control the market, led state and federal lawmakers to take steps to reduce the risks associated with this type of practice.",
+      "expected_answer": "The risk that large companies would create monopolies or control markets."
+    },
+    "hits": [
+      {
+        "chunk_id": "business-law-i-essentials-p132-C-499-b9bd96d133e9",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 132,
+        "text": "before accepting payment for them.\n12.2 The Federal Trade Commission\nThe FTC was created in 1914 to address the problem of monopolies and trusts. Following the Civil War, a wave\nof consolidation and growth among companies triggered increased public debate. Through handshake\nagreements, issuance of stock, and pooling arrangements, companies could fix prices and outputs, thus\neffectively stopping competition and raising consumer prices. A substantial number of mergers gave control\nover key",
+        "metadata": {
+          "chapter": 12,
+          "page_id": "business-law-i-essentials-p132",
+          "end_char": 991,
+          "strategy": "C",
+          "start_char": 499
+        },
+        "score": 0.6656073728565808
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p132-C-992-b71c274c92d3",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 132,
+        "text": "industries to small groups of businesses. Where companies did not merge, other arrangements were\nmade to have a similar effect. Conglomerates controlled most of the relevant industries that produced\nhousehold necessities. Goods used in production were also the product of highly concentrated trusts, such as\nthe United States Steel Corporation and the International Paper Company. Concerns about industrialization\nand a changing economy, with shifting norms for personal lives, triggered antitrust",
+        "metadata": {
+          "chapter": 12,
+          "page_id": "business-law-i-essentials-p132",
+          "end_char": 1489,
+          "strategy": "C",
+          "start_char": 992
+        },
+        "score": 0.6612256962426217
+      },
+      {
+        "chunk_id": "business-law-i-essentials-p121-C-997-9a3cd7240596",
+        "document_id": "business-law-i-essentials",
+        "source": "https://openstax.org/details/books/business-law-i-essentials",
+        "page": 121,
+        "text": "the market. This effort resulted in mergers and consolidation practices that placed the largest\nshare of the industries under the control of just a few, thereby increasing their power. Since the trusts were\nable to fix prices and could afford to take some losses, they would drive prices down until competitors were\nforced out of business because they could not afford to operate at the lower rates (West. n.d.).\nThe markets began to consolidate under just a few companies because the smaller",
+        "metadata": {
+          "chapter": 11,
+          "page_id": "business-law-i-essentials-p121",
+          "end_char": 1489,
+          "strategy": "C",
+          "start_char": 997
+        },
+        "score": 0.6434560397377075
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false
+  }
+]

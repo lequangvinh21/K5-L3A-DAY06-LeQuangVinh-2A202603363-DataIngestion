@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,"Fixed-size character windows",500,50,"document_id; source; page; page_id; chapter","None","sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (384d)","Overlap may preserve nearby evidence, but fixed boundaries may split semantic units.","6/15 (0.400)","10/15 (0.667)","3/5 (0.600)","4/5 (0.800)","764 chunks; dev chunk+embed+store 46.1187s; test 45.5546s; cost 0."
+B,"Paragraph-aware, max 500 characters",500,0,"document_id; source; page; page_id; chapter","None","sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (384d)","Paragraph boundaries may preserve context and improve retrieval over fixed windows.","7/15 (0.467)","9/15 (0.600)","3/5 (0.600)","3/5 (0.600)","712 chunks; dev chunk+embed+store 41.9503s; test 42.9141s; cost 0."
+C,"Paragraph-aware, max 500 characters",500,0,"document_id; source; page; page_id; chapter","chapter equality when the question supplies a chapter filter","sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (384d)","The chapter filter may improve precision for filtered questions; chunks remain identical to B.","7/15 (0.467)","9/15 (0.600)","3/5 (0.600)","3/5 (0.600)","712 chunks; dev chunk+embed+store 41.1655s; test 41.2394s; cost 0."

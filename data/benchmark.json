@@ -1,0 +1,226 @@
+{
+  "source_id": "business-law-i-essentials",
+  "source_attribution": "Based on Business Law I Essentials, OpenStax/Rice University, CC BY-NC-SA 4.0. Questions are written for this lab; cited evidence is verified against the local PDF.",
+  "metadata_filter_field": {
+    "name": "chapter",
+    "type": "integer",
+    "value_source": "Chapter number shown in the source PDF headings and page headers."
+  },
+  "questions": [
+    {
+      "id": "q01",
+      "type": "direct",
+      "split": "dev",
+      "question": "How do judges use precedent when deciding a case under the common-law system?",
+      "expected_answer": "They consult previous rulings in similar cases to inform their decision.",
+      "gold_source_id": "business-law-i-essentials",
+      "gold_page": 16,
+      "evidence_quote": "judges rely on precedent, i.e., previous court rulings on similar cases, when determining the ruling in their own cases."
+    },
+    {
+      "id": "q02",
+      "type": "paraphrase",
+      "split": "dev",
+      "question": "In chapter 2, why might disputing parties prefer mediation when they want to keep a sensitive dispute private?",
+      "expected_answer": "Mediation can preserve anonymity because court proceedings become public record.",
+      "gold_source_id": "business-law-i-essentials",
+      "gold_page": 27,
+      "evidence_quote": "Since court proceedings become a matter of public record, it can be advantageous to use mediation to preserve anonymity.",
+      "filter": {
+        "chapter": 2
+      }
+    },
+    {
+      "id": "q03",
+      "type": "direct",
+      "split": "dev",
+      "question": "What does the text mean by dyadic negotiation?",
+      "expected_answer": "Two individuals interact to try to resolve a dispute.",
+      "gold_source_id": "business-law-i-essentials",
+      "gold_page": 24,
+      "evidence_quote": "Put simply, dyadic negotiation involves two individuals interacting with one another in an attempt to resolve a dispute."
+    },
+    {
+      "id": "q04",
+      "type": "contrast",
+      "split": "dev",
+      "question": "What makes arbitration involuntary rather than voluntary?",
+      "expected_answer": "An outside party requires the disputants to attempt arbitration before litigation.",
+      "gold_source_id": "business-law-i-essentials",
+      "gold_page": 30,
+      "evidence_quote": "this requirement is known as involuntary arbitration because it is forced upon them by an outside party."
+    },
+    {
+      "id": "q05",
+      "type": "condition",
+      "split": "dev",
+      "question": "In chapter 4, when can a state's use of police power affecting interstate commerce be unconstitutional?",
+      "expected_answer": "When it interferes with or discriminates against interstate commerce.",
+      "gold_source_id": "business-law-i-essentials",
+      "gold_page": 50,
+      "evidence_quote": "If the exercise of the power interferes with, or discriminates against, interstate commerce, then the action is generally deemed to be unconstitutional.",
+      "filter": {
+        "chapter": 4
+      }
+    },
+    {
+      "id": "q06",
+      "type": "direct",
+      "split": "dev",
+      "question": "How does the arbitrator decide a baseball arbitration award?",
+      "expected_answer": "The arbitrator selects one party's offer without modifying it.",
+      "gold_source_id": "business-law-i-essentials",
+      "gold_page": 32,
+      "evidence_quote": "the arbitrator chooses one offer or the other, without modification."
+    },
+    {
+      "id": "q07",
+      "type": "direct",
+      "split": "dev",
+      "question": "Name two organizational benefits the text associates with ethical business practices.",
+      "expected_answer": "Examples include improved recruitment and retention, better customer relationships, and positive public relations.",
+      "gold_source_id": "business-law-i-essentials",
+      "gold_page": 39,
+      "evidence_quote": "Ethical business practices, guided by a corporate set of standards, can have many positive outcomes, including recruitment and retention improvement, better relationships with customers, and positive PR."
+    },
+    {
+      "id": "q08",
+      "type": "paraphrase",
+      "split": "dev",
+      "question": "How does money laundering make proceeds from crime appear legitimate?",
+      "expected_answer": "It passes the proceeds through otherwise legitimate businesses so they appear clean and cannot be tied back to the illegal acts.",
+      "gold_source_id": "business-law-i-essentials",
+      "gold_page": 61,
+      "evidence_quote": "passing it through otherwise legitimate businesses so that it appears"
+    },
+    {
+      "id": "q09",
+      "type": "direct",
+      "split": "dev",
+      "question": "What action does the text identify as larceny in a business setting?",
+      "expected_answer": "Unlawfully taking another person's or a business's personal property.",
+      "gold_source_id": "business-law-i-essentials",
+      "gold_page": 59,
+      "evidence_quote": "Larceny occurs when a person unlawfully takes the personal property of another person or a business."
+    },
+    {
+      "id": "q10",
+      "type": "direct",
+      "split": "dev",
+      "question": "In chapter 7, what are offer and acceptance in forming a contract?",
+      "expected_answer": "An offer proposes entering a contract; acceptance agrees to be bound by its terms.",
+      "gold_source_id": "business-law-i-essentials",
+      "gold_page": 80,
+      "evidence_quote": "An offer is a proposal made to demonstrate an intent to enter a contract. Acceptance is the agreement to be bound by the terms of the offer.",
+      "filter": {
+        "chapter": 7
+      }
+    },
+    {
+      "id": "q11",
+      "type": "condition",
+      "split": "dev",
+      "question": "Can a minor void a contract for necessities such as food or clothing?",
+      "expected_answer": "In most states, a contract for necessities may not be voided by the minor.",
+      "gold_source_id": "business-law-i-essentials",
+      "gold_page": 82,
+      "evidence_quote": "In most states, a contract for necessities (i.e. food and clothing) may not be voided."
+    },
+    {
+      "id": "q12",
+      "type": "condition",
+      "split": "dev",
+      "question": "Under the UCC, when does a merchant supplier retain the risk of loss for goods?",
+      "expected_answer": "Until the buyer takes possession of the goods.",
+      "gold_source_id": "business-law-i-essentials",
+      "gold_page": 91,
+      "evidence_quote": "as long as the supplier is considered a merchant, the risk of loss remains with the merchant until the buyer takes possession of the good."
+    },
+    {
+      "id": "q13",
+      "type": "process",
+      "split": "dev",
+      "question": "What happens after a workers' compensation agency determines that an injury claim is legitimate?",
+      "expected_answer": "Compensation benefits are paid.",
+      "gold_source_id": "business-law-i-essentials",
+      "gold_page": 99,
+      "evidence_quote": "If the injury is determined to be legitimate, compensation benefits are paid accordingly."
+    },
+    {
+      "id": "q14",
+      "type": "direct",
+      "split": "dev",
+      "question": "How does the text define administrative law?",
+      "expected_answer": "It is delegated power granted to administrative agencies to carry out specific functions.",
+      "gold_source_id": "business-law-i-essentials",
+      "gold_page": 113,
+      "evidence_quote": "Administrative law is basically the delegated power granted to administrative agencies to carry out specific functions."
+    },
+    {
+      "id": "q15",
+      "type": "paraphrase",
+      "split": "dev",
+      "question": "What market concern led lawmakers to address large-company mergers and similar practices in the late 1800s?",
+      "expected_answer": "The risk that large companies would create monopolies or control markets.",
+      "gold_source_id": "business-law-i-essentials",
+      "gold_page": 120,
+      "evidence_quote": "attempts by large companies to create monopolies or to control the market, led state and federal lawmakers to take steps to reduce the risks associated with this type of practice."
+    },
+    {
+      "id": "q16",
+      "type": "condition",
+      "split": "test",
+      "question": "In chapter 12, what must a plaintiff show to establish an unfair trade practice without proving intent?",
+      "expected_answer": "The practice itself must be shown to be unfair or deceptive; intent need not be proved.",
+      "gold_source_id": "business-law-i-essentials",
+      "gold_page": 130,
+      "evidence_quote": "Plaintiffs do not have to prove intent. Showing that the practice itself was unfair or deceptive is sufficient.",
+      "filter": {
+        "chapter": 12
+      }
+    },
+    {
+      "id": "q17",
+      "type": "direct",
+      "split": "test",
+      "question": "Which three sources of shared principles does the text identify as relevant to enforcing international law?",
+      "expected_answer": "Customs, treaties, and organizations.",
+      "gold_source_id": "business-law-i-essentials",
+      "gold_page": 140,
+      "evidence_quote": "the principles set forth by globally shared customs, treaties, and organizations."
+    },
+    {
+      "id": "q18",
+      "type": "direct",
+      "split": "test",
+      "question": "In chapter 14, what is the purpose of the Securities Exchange Act's reporting requirements for public companies?",
+      "expected_answer": "To keep the public informed of changes that could affect securities prices.",
+      "gold_source_id": "business-law-i-essentials",
+      "gold_page": 151,
+      "evidence_quote": "The purpose of these requirements was transparency, that is, keeping the public up to date and informed of changes that might impact securities prices.",
+      "filter": {
+        "chapter": 14
+      }
+    },
+    {
+      "id": "q19",
+      "type": "direct",
+      "split": "test",
+      "question": "What are state securities laws intended to combat fraud commonly called?",
+      "expected_answer": "Blue sky laws.",
+      "gold_source_id": "business-law-i-essentials",
+      "gold_page": 152,
+      "evidence_quote": "state-level securities laws aimed to combat fraud are called blue sky laws."
+    },
+    {
+      "id": "q20",
+      "type": "comparison",
+      "split": "test",
+      "question": "Why can group negotiation be more difficult to resolve than a two-person negotiation?",
+      "expected_answer": "It involves more than two parties and is often more complex, time-consuming, and challenging to resolve.",
+      "gold_source_id": "business-law-i-essentials",
+      "gold_page": 24,
+      "evidence_quote": "Group negotiation involves more than two individuals or parties, and by its very nature, it is often more complex, time-consuming, and challenging to resolve."
+    }
+  ]
+}

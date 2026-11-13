@@ -1,0 +1,1304 @@
+{
+  "instructions": "Scoring is complete for the 5 test queries and the fixed 10-page coherence sample across A/B/C. The labels are AI-assisted, not an independent human review; disclose this method and correct any label you disagree with.",
+  "review_method": "Completed AI-assisted review by Copilot: inspected retrieved text against each test question and expected answer, and checked source, page, page_id, chapter, strategy, offsets, and applicable filters against saved traces and the manifest. Grounding was judged from evidence sufficiency, not similarity scores. This is not an independent human review.",
+  "scales": {
+    "grounding_score_0_to_2": {
+      "0": "No evidence.",
+      "1": "Evidence is present but misses a needed condition or context.",
+      "2": "Evidence is sufficient to answer and trace to the source."
+    },
+    "coherence_score_0_to_2": {
+      "0": "Cut mid-idea or missing a subject so the chunk is not understandable.",
+      "1": "Partly understandable but missing context.",
+      "2": "Self-contained and preserves a complete idea."
+    },
+    "metadata_correct_and_complete": "True only when source, page, and required fields are correct."
+  },
+  "grounding_review": [
+    {
+      "strategy": "A",
+      "question_id": "q16",
+      "score_0_to_2": 2,
+      "reason": "Top-3 contains the page 130 statement that intent need not be proved and that showing unfairness or deception is sufficient."
+    },
+    {
+      "strategy": "A",
+      "question_id": "q17",
+      "score_0_to_2": 2,
+      "reason": "Top-3 contains the text identifying globally shared customs, treaties, and organizations."
+    },
+    {
+      "strategy": "A",
+      "question_id": "q18",
+      "score_0_to_2": 1,
+      "reason": "Related disclosure-purpose evidence appears on page 147, but top-3 does not state the more specific transparency purpose of keeping the public informed of price-impacting changes."
+    },
+    {
+      "strategy": "A",
+      "question_id": "q19",
+      "score_0_to_2": 2,
+      "reason": "Top-3 contains the page 152 definition naming state anti-fraud securities laws as blue sky laws."
+    },
+    {
+      "strategy": "A",
+      "question_id": "q20",
+      "score_0_to_2": 2,
+      "reason": "Top-3 contains the page 24 description that group negotiation involves more parties and is more complex, time-consuming, and difficult to resolve."
+    },
+    {
+      "strategy": "B",
+      "question_id": "q16",
+      "score_0_to_2": 2,
+      "reason": "Top-3 contains the page 130 statement that intent need not be proved and that showing unfairness or deception is sufficient."
+    },
+    {
+      "strategy": "B",
+      "question_id": "q17",
+      "score_0_to_2": 2,
+      "reason": "Top-3 contains the text identifying globally shared customs, treaties, and organizations."
+    },
+    {
+      "strategy": "B",
+      "question_id": "q18",
+      "score_0_to_2": 1,
+      "reason": "Related disclosure-purpose evidence appears on page 147, but top-3 does not state the more specific transparency purpose of keeping the public informed of price-impacting changes."
+    },
+    {
+      "strategy": "B",
+      "question_id": "q19",
+      "score_0_to_2": 2,
+      "reason": "Top-3 contains the page 152 definition naming state anti-fraud securities laws as blue sky laws."
+    },
+    {
+      "strategy": "B",
+      "question_id": "q20",
+      "score_0_to_2": 2,
+      "reason": "Top-3 contains the page 24 description that group negotiation involves more parties and is more complex, time-consuming, and difficult to resolve."
+    },
+    {
+      "strategy": "C",
+      "question_id": "q16",
+      "score_0_to_2": 2,
+      "reason": "Top-3 contains the page 130 statement that intent need not be proved and that showing unfairness or deception is sufficient."
+    },
+    {
+      "strategy": "C",
+      "question_id": "q17",
+      "score_0_to_2": 2,
+      "reason": "Top-3 contains the text identifying globally shared customs, treaties, and organizations."
+    },
+    {
+      "strategy": "C",
+      "question_id": "q18",
+      "score_0_to_2": 1,
+      "reason": "Related disclosure-purpose evidence appears on page 147, but top-3 does not state the more specific transparency purpose of keeping the public informed of price-impacting changes."
+    },
+    {
+      "strategy": "C",
+      "question_id": "q19",
+      "score_0_to_2": 2,
+      "reason": "Top-3 contains the page 152 definition naming state anti-fraud securities laws as blue sky laws."
+    },
+    {
+      "strategy": "C",
+      "question_id": "q20",
+      "score_0_to_2": 2,
+      "reason": "Top-3 contains the page 24 description that group negotiation involves more parties and is more complex, time-consuming, and difficult to resolve."
+    }
+  ],
+  "metadata_review": [
+    {
+      "strategy": "A",
+      "question_id": "q16",
+      "rank": 1,
+      "chunk_id": "business-law-i-essentials-p130-A-0-6738318796da",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 130,
+      "metadata": {
+        "chapter": 12,
+        "page_id": "business-law-i-essentials-p130",
+        "end_char": 500,
+        "strategy": "A",
+        "start_char": 0
+      },
+      "required_filter": {
+        "chapter": 12
+      },
+      "metadata_correct_and_complete": true,
+      "filter_compliant": true,
+      "notes": ""
+    },
+    {
+      "strategy": "A",
+      "question_id": "q16",
+      "rank": 2,
+      "chunk_id": "business-law-i-essentials-p129-A-900-ae1643f30bfa",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 129,
+      "metadata": {
+        "chapter": 12,
+        "page_id": "business-law-i-essentials-p129",
+        "end_char": 1400,
+        "strategy": "A",
+        "start_char": 900
+      },
+      "required_filter": {
+        "chapter": 12
+      },
+      "metadata_correct_and_complete": true,
+      "filter_compliant": true,
+      "notes": ""
+    },
+    {
+      "strategy": "A",
+      "question_id": "q16",
+      "rank": 3,
+      "chunk_id": "business-law-i-essentials-p129-A-0-3120b7bcaff9",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 129,
+      "metadata": {
+        "chapter": 12,
+        "page_id": "business-law-i-essentials-p129",
+        "end_char": 500,
+        "strategy": "A",
+        "start_char": 0
+      },
+      "required_filter": {
+        "chapter": 12
+      },
+      "metadata_correct_and_complete": true,
+      "filter_compliant": true,
+      "notes": ""
+    },
+    {
+      "strategy": "A",
+      "question_id": "q17",
+      "rank": 1,
+      "chunk_id": "business-law-i-essentials-p137-A-1350-654a4d5f3a3d",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 137,
+      "metadata": {
+        "chapter": 13,
+        "page_id": "business-law-i-essentials-p137",
+        "end_char": 1850,
+        "strategy": "A",
+        "start_char": 1350
+      },
+      "required_filter": null,
+      "metadata_correct_and_complete": true,
+      "filter_compliant": null,
+      "notes": ""
+    },
+    {
+      "strategy": "A",
+      "question_id": "q17",
+      "rank": 2,
+      "chunk_id": "business-law-i-essentials-p140-A-0-02a1f0921d63",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 140,
+      "metadata": {
+        "chapter": 13,
+        "page_id": "business-law-i-essentials-p140",
+        "end_char": 499,
+        "strategy": "A",
+        "start_char": 0
+      },
+      "required_filter": null,
+      "metadata_correct_and_complete": true,
+      "filter_compliant": null,
+      "notes": ""
+    },
+    {
+      "strategy": "A",
+      "question_id": "q17",
+      "rank": 3,
+      "chunk_id": "business-law-i-essentials-p137-A-2700-5d9cf5833147",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 137,
+      "metadata": {
+        "chapter": 13,
+        "page_id": "business-law-i-essentials-p137",
+        "end_char": 2766,
+        "strategy": "A",
+        "start_char": 2700
+      },
+      "required_filter": null,
+      "metadata_correct_and_complete": true,
+      "filter_compliant": null,
+      "notes": ""
+    },
+    {
+      "strategy": "A",
+      "question_id": "q18",
+      "rank": 1,
+      "chunk_id": "business-law-i-essentials-p151-A-1351-7cb1456875c5",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 151,
+      "metadata": {
+        "chapter": 14,
+        "page_id": "business-law-i-essentials-p151",
+        "end_char": 1850,
+        "strategy": "A",
+        "start_char": 1351
+      },
+      "required_filter": {
+        "chapter": 14
+      },
+      "metadata_correct_and_complete": true,
+      "filter_compliant": true,
+      "notes": ""
+    },
+    {
+      "strategy": "A",
+      "question_id": "q18",
+      "rank": 2,
+      "chunk_id": "business-law-i-essentials-p151-A-450-264897cfb29b",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 151,
+      "metadata": {
+        "chapter": 14,
+        "page_id": "business-law-i-essentials-p151",
+        "end_char": 949,
+        "strategy": "A",
+        "start_char": 450
+      },
+      "required_filter": {
+        "chapter": 14
+      },
+      "metadata_correct_and_complete": true,
+      "filter_compliant": true,
+      "notes": ""
+    },
+    {
+      "strategy": "A",
+      "question_id": "q18",
+      "rank": 3,
+      "chunk_id": "business-law-i-essentials-p147-A-901-8db15e3cf548",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 147,
+      "metadata": {
+        "chapter": 14,
+        "page_id": "business-law-i-essentials-p147",
+        "end_char": 1400,
+        "strategy": "A",
+        "start_char": 901
+      },
+      "required_filter": {
+        "chapter": 14
+      },
+      "metadata_correct_and_complete": true,
+      "filter_compliant": true,
+      "notes": ""
+    },
+    {
+      "strategy": "A",
+      "question_id": "q19",
+      "rank": 1,
+      "chunk_id": "business-law-i-essentials-p152-A-0-bb1d37e7f17a",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 152,
+      "metadata": {
+        "chapter": 14,
+        "page_id": "business-law-i-essentials-p152",
+        "end_char": 499,
+        "strategy": "A",
+        "start_char": 0
+      },
+      "required_filter": null,
+      "metadata_correct_and_complete": true,
+      "filter_compliant": null,
+      "notes": ""
+    },
+    {
+      "strategy": "A",
+      "question_id": "q19",
+      "rank": 2,
+      "chunk_id": "business-law-i-essentials-p019-A-2250-883291fb655a",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 19,
+      "metadata": {
+        "chapter": 1,
+        "page_id": "business-law-i-essentials-p019",
+        "end_char": 2750,
+        "strategy": "A",
+        "start_char": 2250
+      },
+      "required_filter": null,
+      "metadata_correct_and_complete": true,
+      "filter_compliant": null,
+      "notes": ""
+    },
+    {
+      "strategy": "A",
+      "question_id": "q19",
+      "rank": 3,
+      "chunk_id": "business-law-i-essentials-p149-A-1350-7f9d5d653d5e",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 149,
+      "metadata": {
+        "chapter": 14,
+        "page_id": "business-law-i-essentials-p149",
+        "end_char": 1479,
+        "strategy": "A",
+        "start_char": 1350
+      },
+      "required_filter": null,
+      "metadata_correct_and_complete": true,
+      "filter_compliant": null,
+      "notes": ""
+    },
+    {
+      "strategy": "A",
+      "question_id": "q20",
+      "rank": 1,
+      "chunk_id": "business-law-i-essentials-p024-A-451-b18e6a88cfd9",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 24,
+      "metadata": {
+        "chapter": 2,
+        "page_id": "business-law-i-essentials-p024",
+        "end_char": 950,
+        "strategy": "A",
+        "start_char": 451
+      },
+      "required_filter": null,
+      "metadata_correct_and_complete": true,
+      "filter_compliant": null,
+      "notes": ""
+    },
+    {
+      "strategy": "A",
+      "question_id": "q20",
+      "rank": 2,
+      "chunk_id": "business-law-i-essentials-p023-A-1351-c243838cac59",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 23,
+      "metadata": {
+        "chapter": 2,
+        "page_id": "business-law-i-essentials-p023",
+        "end_char": 1764,
+        "strategy": "A",
+        "start_char": 1351
+      },
+      "required_filter": null,
+      "metadata_correct_and_complete": true,
+      "filter_compliant": null,
+      "notes": ""
+    },
+    {
+      "strategy": "A",
+      "question_id": "q20",
+      "rank": 3,
+      "chunk_id": "business-law-i-essentials-p024-A-0-7c2bcb8f7667",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 24,
+      "metadata": {
+        "chapter": 2,
+        "page_id": "business-law-i-essentials-p024",
+        "end_char": 500,
+        "strategy": "A",
+        "start_char": 0
+      },
+      "required_filter": null,
+      "metadata_correct_and_complete": true,
+      "filter_compliant": null,
+      "notes": ""
+    },
+    {
+      "strategy": "B",
+      "question_id": "q16",
+      "rank": 1,
+      "chunk_id": "business-law-i-essentials-p130-B-0-27be033ea87c",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 130,
+      "metadata": {
+        "chapter": 12,
+        "page_id": "business-law-i-essentials-p130",
+        "end_char": 498,
+        "strategy": "B",
+        "start_char": 0
+      },
+      "required_filter": {
+        "chapter": 12
+      },
+      "metadata_correct_and_complete": true,
+      "filter_compliant": true,
+      "notes": ""
+    },
+    {
+      "strategy": "B",
+      "question_id": "q16",
+      "rank": 2,
+      "chunk_id": "business-law-i-essentials-p131-B-4479-1d7842fba1ee",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 131,
+      "metadata": {
+        "chapter": 12,
+        "page_id": "business-law-i-essentials-p131",
+        "end_char": 4505,
+        "strategy": "B",
+        "start_char": 4479
+      },
+      "required_filter": {
+        "chapter": 12
+      },
+      "metadata_correct_and_complete": true,
+      "filter_compliant": true,
+      "notes": ""
+    },
+    {
+      "strategy": "B",
+      "question_id": "q16",
+      "rank": 3,
+      "chunk_id": "business-law-i-essentials-p129-B-0-a6c4715782bd",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 129,
+      "metadata": {
+        "chapter": 12,
+        "page_id": "business-law-i-essentials-p129",
+        "end_char": 498,
+        "strategy": "B",
+        "start_char": 0
+      },
+      "required_filter": {
+        "chapter": 12
+      },
+      "metadata_correct_and_complete": true,
+      "filter_compliant": true,
+      "notes": ""
+    },
+    {
+      "strategy": "B",
+      "question_id": "q17",
+      "rank": 1,
+      "chunk_id": "business-law-i-essentials-p140-B-0-02a1f0921d63",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 140,
+      "metadata": {
+        "chapter": 13,
+        "page_id": "business-law-i-essentials-p140",
+        "end_char": 499,
+        "strategy": "B",
+        "start_char": 0
+      },
+      "required_filter": null,
+      "metadata_correct_and_complete": true,
+      "filter_compliant": null,
+      "notes": ""
+    },
+    {
+      "strategy": "B",
+      "question_id": "q17",
+      "rank": 2,
+      "chunk_id": "business-law-i-essentials-p137-B-1498-c311fa591254",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 137,
+      "metadata": {
+        "chapter": 13,
+        "page_id": "business-law-i-essentials-p137",
+        "end_char": 1990,
+        "strategy": "B",
+        "start_char": 1498
+      },
+      "required_filter": null,
+      "metadata_correct_and_complete": true,
+      "filter_compliant": null,
+      "notes": ""
+    },
+    {
+      "strategy": "B",
+      "question_id": "q17",
+      "rank": 3,
+      "chunk_id": "business-law-i-essentials-p136-B-0-1f105c38f80e",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 136,
+      "metadata": {
+        "chapter": 13,
+        "page_id": "business-law-i-essentials-p136",
+        "end_char": 493,
+        "strategy": "B",
+        "start_char": 0
+      },
+      "required_filter": null,
+      "metadata_correct_and_complete": true,
+      "filter_compliant": null,
+      "notes": ""
+    },
+    {
+      "strategy": "B",
+      "question_id": "q18",
+      "rank": 1,
+      "chunk_id": "business-law-i-essentials-p151-B-994-4ccc6e0f2e45",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 151,
+      "metadata": {
+        "chapter": 14,
+        "page_id": "business-law-i-essentials-p151",
+        "end_char": 1490,
+        "strategy": "B",
+        "start_char": 994
+      },
+      "required_filter": {
+        "chapter": 14
+      },
+      "metadata_correct_and_complete": true,
+      "filter_compliant": true,
+      "notes": ""
+    },
+    {
+      "strategy": "B",
+      "question_id": "q18",
+      "rank": 2,
+      "chunk_id": "business-law-i-essentials-p147-B-989-55a51e2f2ff6",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 147,
+      "metadata": {
+        "chapter": 14,
+        "page_id": "business-law-i-essentials-p147",
+        "end_char": 1480,
+        "strategy": "B",
+        "start_char": 989
+      },
+      "required_filter": {
+        "chapter": 14
+      },
+      "metadata_correct_and_complete": true,
+      "filter_compliant": true,
+      "notes": ""
+    },
+    {
+      "strategy": "B",
+      "question_id": "q18",
+      "rank": 3,
+      "chunk_id": "business-law-i-essentials-p151-B-498-cc9d3da8a2f3",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 151,
+      "metadata": {
+        "chapter": 14,
+        "page_id": "business-law-i-essentials-p151",
+        "end_char": 993,
+        "strategy": "B",
+        "start_char": 498
+      },
+      "required_filter": {
+        "chapter": 14
+      },
+      "metadata_correct_and_complete": true,
+      "filter_compliant": true,
+      "notes": ""
+    },
+    {
+      "strategy": "B",
+      "question_id": "q19",
+      "rank": 1,
+      "chunk_id": "business-law-i-essentials-p152-B-0-bb1d37e7f17a",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 152,
+      "metadata": {
+        "chapter": 14,
+        "page_id": "business-law-i-essentials-p152",
+        "end_char": 499,
+        "strategy": "B",
+        "start_char": 0
+      },
+      "required_filter": null,
+      "metadata_correct_and_complete": true,
+      "filter_compliant": null,
+      "notes": ""
+    },
+    {
+      "strategy": "B",
+      "question_id": "q19",
+      "rank": 2,
+      "chunk_id": "business-law-i-essentials-p019-B-2466-dc6d35ea0c3a",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 19,
+      "metadata": {
+        "chapter": 1,
+        "page_id": "business-law-i-essentials-p019",
+        "end_char": 2960,
+        "strategy": "B",
+        "start_char": 2466
+      },
+      "required_filter": null,
+      "metadata_correct_and_complete": true,
+      "filter_compliant": null,
+      "notes": ""
+    },
+    {
+      "strategy": "B",
+      "question_id": "q19",
+      "rank": 3,
+      "chunk_id": "business-law-i-essentials-p151-B-2491-dab0ca13aeb8",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 151,
+      "metadata": {
+        "chapter": 14,
+        "page_id": "business-law-i-essentials-p151",
+        "end_char": 2865,
+        "strategy": "B",
+        "start_char": 2491
+      },
+      "required_filter": null,
+      "metadata_correct_and_complete": true,
+      "filter_compliant": null,
+      "notes": ""
+    },
+    {
+      "strategy": "B",
+      "question_id": "q20",
+      "rank": 1,
+      "chunk_id": "business-law-i-essentials-p024-B-492-e69566a05f3a",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 24,
+      "metadata": {
+        "chapter": 2,
+        "page_id": "business-law-i-essentials-p024",
+        "end_char": 989,
+        "strategy": "B",
+        "start_char": 492
+      },
+      "required_filter": null,
+      "metadata_correct_and_complete": true,
+      "filter_compliant": null,
+      "notes": ""
+    },
+    {
+      "strategy": "B",
+      "question_id": "q20",
+      "rank": 2,
+      "chunk_id": "business-law-i-essentials-p024-B-0-6b2996de77c5",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 24,
+      "metadata": {
+        "chapter": 2,
+        "page_id": "business-law-i-essentials-p024",
+        "end_char": 491,
+        "strategy": "B",
+        "start_char": 0
+      },
+      "required_filter": null,
+      "metadata_correct_and_complete": true,
+      "filter_compliant": null,
+      "notes": ""
+    },
+    {
+      "strategy": "B",
+      "question_id": "q20",
+      "rank": 3,
+      "chunk_id": "business-law-i-essentials-p023-B-1485-ae42485e269a",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 23,
+      "metadata": {
+        "chapter": 2,
+        "page_id": "business-law-i-essentials-p023",
+        "end_char": 1764,
+        "strategy": "B",
+        "start_char": 1485
+      },
+      "required_filter": null,
+      "metadata_correct_and_complete": true,
+      "filter_compliant": null,
+      "notes": ""
+    },
+    {
+      "strategy": "C",
+      "question_id": "q16",
+      "rank": 1,
+      "chunk_id": "business-law-i-essentials-p130-C-0-27be033ea87c",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 130,
+      "metadata": {
+        "chapter": 12,
+        "page_id": "business-law-i-essentials-p130",
+        "end_char": 498,
+        "strategy": "C",
+        "start_char": 0
+      },
+      "required_filter": {
+        "chapter": 12
+      },
+      "metadata_correct_and_complete": true,
+      "filter_compliant": true,
+      "notes": ""
+    },
+    {
+      "strategy": "C",
+      "question_id": "q16",
+      "rank": 2,
+      "chunk_id": "business-law-i-essentials-p131-C-4479-1d7842fba1ee",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 131,
+      "metadata": {
+        "chapter": 12,
+        "page_id": "business-law-i-essentials-p131",
+        "end_char": 4505,
+        "strategy": "C",
+        "start_char": 4479
+      },
+      "required_filter": {
+        "chapter": 12
+      },
+      "metadata_correct_and_complete": true,
+      "filter_compliant": true,
+      "notes": ""
+    },
+    {
+      "strategy": "C",
+      "question_id": "q16",
+      "rank": 3,
+      "chunk_id": "business-law-i-essentials-p129-C-0-a6c4715782bd",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 129,
+      "metadata": {
+        "chapter": 12,
+        "page_id": "business-law-i-essentials-p129",
+        "end_char": 498,
+        "strategy": "C",
+        "start_char": 0
+      },
+      "required_filter": {
+        "chapter": 12
+      },
+      "metadata_correct_and_complete": true,
+      "filter_compliant": true,
+      "notes": ""
+    },
+    {
+      "strategy": "C",
+      "question_id": "q17",
+      "rank": 1,
+      "chunk_id": "business-law-i-essentials-p140-C-0-02a1f0921d63",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 140,
+      "metadata": {
+        "chapter": 13,
+        "page_id": "business-law-i-essentials-p140",
+        "end_char": 499,
+        "strategy": "C",
+        "start_char": 0
+      },
+      "required_filter": null,
+      "metadata_correct_and_complete": true,
+      "filter_compliant": null,
+      "notes": ""
+    },
+    {
+      "strategy": "C",
+      "question_id": "q17",
+      "rank": 2,
+      "chunk_id": "business-law-i-essentials-p137-C-1498-c311fa591254",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 137,
+      "metadata": {
+        "chapter": 13,
+        "page_id": "business-law-i-essentials-p137",
+        "end_char": 1990,
+        "strategy": "C",
+        "start_char": 1498
+      },
+      "required_filter": null,
+      "metadata_correct_and_complete": true,
+      "filter_compliant": null,
+      "notes": ""
+    },
+    {
+      "strategy": "C",
+      "question_id": "q17",
+      "rank": 3,
+      "chunk_id": "business-law-i-essentials-p136-C-0-1f105c38f80e",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 136,
+      "metadata": {
+        "chapter": 13,
+        "page_id": "business-law-i-essentials-p136",
+        "end_char": 493,
+        "strategy": "C",
+        "start_char": 0
+      },
+      "required_filter": null,
+      "metadata_correct_and_complete": true,
+      "filter_compliant": null,
+      "notes": ""
+    },
+    {
+      "strategy": "C",
+      "question_id": "q18",
+      "rank": 1,
+      "chunk_id": "business-law-i-essentials-p151-C-994-4ccc6e0f2e45",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 151,
+      "metadata": {
+        "chapter": 14,
+        "page_id": "business-law-i-essentials-p151",
+        "end_char": 1490,
+        "strategy": "C",
+        "start_char": 994
+      },
+      "required_filter": {
+        "chapter": 14
+      },
+      "metadata_correct_and_complete": true,
+      "filter_compliant": true,
+      "notes": ""
+    },
+    {
+      "strategy": "C",
+      "question_id": "q18",
+      "rank": 2,
+      "chunk_id": "business-law-i-essentials-p147-C-989-55a51e2f2ff6",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 147,
+      "metadata": {
+        "chapter": 14,
+        "page_id": "business-law-i-essentials-p147",
+        "end_char": 1480,
+        "strategy": "C",
+        "start_char": 989
+      },
+      "required_filter": {
+        "chapter": 14
+      },
+      "metadata_correct_and_complete": true,
+      "filter_compliant": true,
+      "notes": ""
+    },
+    {
+      "strategy": "C",
+      "question_id": "q18",
+      "rank": 3,
+      "chunk_id": "business-law-i-essentials-p151-C-498-cc9d3da8a2f3",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 151,
+      "metadata": {
+        "chapter": 14,
+        "page_id": "business-law-i-essentials-p151",
+        "end_char": 993,
+        "strategy": "C",
+        "start_char": 498
+      },
+      "required_filter": {
+        "chapter": 14
+      },
+      "metadata_correct_and_complete": true,
+      "filter_compliant": true,
+      "notes": ""
+    },
+    {
+      "strategy": "C",
+      "question_id": "q19",
+      "rank": 1,
+      "chunk_id": "business-law-i-essentials-p152-C-0-bb1d37e7f17a",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 152,
+      "metadata": {
+        "chapter": 14,
+        "page_id": "business-law-i-essentials-p152",
+        "end_char": 499,
+        "strategy": "C",
+        "start_char": 0
+      },
+      "required_filter": null,
+      "metadata_correct_and_complete": true,
+      "filter_compliant": null,
+      "notes": ""
+    },
+    {
+      "strategy": "C",
+      "question_id": "q19",
+      "rank": 2,
+      "chunk_id": "business-law-i-essentials-p019-C-2466-dc6d35ea0c3a",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 19,
+      "metadata": {
+        "chapter": 1,
+        "page_id": "business-law-i-essentials-p019",
+        "end_char": 2960,
+        "strategy": "C",
+        "start_char": 2466
+      },
+      "required_filter": null,
+      "metadata_correct_and_complete": true,
+      "filter_compliant": null,
+      "notes": ""
+    },
+    {
+      "strategy": "C",
+      "question_id": "q19",
+      "rank": 3,
+      "chunk_id": "business-law-i-essentials-p151-C-2491-dab0ca13aeb8",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 151,
+      "metadata": {
+        "chapter": 14,
+        "page_id": "business-law-i-essentials-p151",
+        "end_char": 2865,
+        "strategy": "C",
+        "start_char": 2491
+      },
+      "required_filter": null,
+      "metadata_correct_and_complete": true,
+      "filter_compliant": null,
+      "notes": ""
+    },
+    {
+      "strategy": "C",
+      "question_id": "q20",
+      "rank": 1,
+      "chunk_id": "business-law-i-essentials-p024-C-492-e69566a05f3a",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 24,
+      "metadata": {
+        "chapter": 2,
+        "page_id": "business-law-i-essentials-p024",
+        "end_char": 989,
+        "strategy": "C",
+        "start_char": 492
+      },
+      "required_filter": null,
+      "metadata_correct_and_complete": true,
+      "filter_compliant": null,
+      "notes": ""
+    },
+    {
+      "strategy": "C",
+      "question_id": "q20",
+      "rank": 2,
+      "chunk_id": "business-law-i-essentials-p024-C-0-6b2996de77c5",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 24,
+      "metadata": {
+        "chapter": 2,
+        "page_id": "business-law-i-essentials-p024",
+        "end_char": 491,
+        "strategy": "C",
+        "start_char": 0
+      },
+      "required_filter": null,
+      "metadata_correct_and_complete": true,
+      "filter_compliant": null,
+      "notes": ""
+    },
+    {
+      "strategy": "C",
+      "question_id": "q20",
+      "rank": 3,
+      "chunk_id": "business-law-i-essentials-p023-C-1485-ae42485e269a",
+      "source": "https://openstax.org/details/books/business-law-i-essentials",
+      "page": 23,
+      "metadata": {
+        "chapter": 2,
+        "page_id": "business-law-i-essentials-p023",
+        "end_char": 1764,
+        "strategy": "C",
+        "start_char": 1485
+      },
+      "required_filter": null,
+      "metadata_correct_and_complete": true,
+      "filter_compliant": null,
+      "notes": ""
+    }
+  ],
+  "coherence_review": [
+    {
+      "strategy": "A",
+      "page_id": "business-law-i-essentials-p013",
+      "page": 13,
+      "target_offset": 582,
+      "chunk_id": "business-law-i-essentials-p013-A-450-ecb2cd281750",
+      "chunk_text": "e of\nestablishing standards for acceptable conduct, prescribing punishment for violations as a deterrent,\nestablishing systems for enforcement, and peacefully resolving disputes. The ultimate goal of the American\nlegal system is promotion of the common good.\nEstablishing Standards\nThe American legal system was developed with the goal of establishing a set of standards that outline what is\nto be considered minimally acceptable behavior. Broadly speaking, federal laws are those that all United Sta",
+      "score_0_to_2": 1,
+      "reason": "Readable, but starts mid-word/sentence and ends at ?United Sta?, cutting the next phrase."
+    },
+    {
+      "strategy": "B",
+      "page_id": "business-law-i-essentials-p013",
+      "page": 13,
+      "target_offset": 582,
+      "chunk_id": "business-law-i-essentials-p013-B-493-c7833c614bcd",
+      "chunk_text": "conduct, prescribing punishment for violations as a deterrent,\nestablishing systems for enforcement, and peacefully resolving disputes. The ultimate goal of the American\nlegal system is promotion of the common good.\nEstablishing Standards\nThe American legal system was developed with the goal of establishing a set of standards that outline what is\nto be considered minimally acceptable behavior. Broadly speaking, federal laws are those that all United States\ncitizens are expected to follow. State",
+      "score_0_to_2": 1,
+      "reason": "The main passage is understandable, but the excerpt starts mid-sentence and ends at ?State?."
+    },
+    {
+      "strategy": "C",
+      "page_id": "business-law-i-essentials-p013",
+      "page": 13,
+      "target_offset": 582,
+      "chunk_id": "business-law-i-essentials-p013-C-493-c7833c614bcd",
+      "chunk_text": "conduct, prescribing punishment for violations as a deterrent,\nestablishing systems for enforcement, and peacefully resolving disputes. The ultimate goal of the American\nlegal system is promotion of the common good.\nEstablishing Standards\nThe American legal system was developed with the goal of establishing a set of standards that outline what is\nto be considered minimally acceptable behavior. Broadly speaking, federal laws are those that all United States\ncitizens are expected to follow. State",
+      "score_0_to_2": 1,
+      "reason": "The main passage is understandable, but the excerpt starts mid-sentence and ends at ?State?."
+    },
+    {
+      "strategy": "A",
+      "page_id": "business-law-i-essentials-p014",
+      "page": 14,
+      "target_offset": 1003,
+      "chunk_id": "business-law-i-essentials-p014-A-900-e6d5a3a052fa",
+      "chunk_text": "now so robust that American cases rarely cite English materials, except\nfor a British classic or a famous old case. Additionally, foreign law is not cited as binding precedent. Therefore,\nthe current American practice of the common law tradition refers more to the process of judges looking to the\nprecedent set jurisdictionally, and substantially similar to, American case law.\nMaintaining Order\nCongruent with the goal of establishing standards and promoting consistency, laws are also used to prom",
+      "score_0_to_2": 1,
+      "reason": "The passage is mostly clear, but starts mid-sentence and is cut off at ?prom?."
+    },
+    {
+      "strategy": "B",
+      "page_id": "business-law-i-essentials-p014",
+      "page": 14,
+      "target_offset": 1003,
+      "chunk_id": "business-law-i-essentials-p014-B-999-245ad9f854c3",
+      "chunk_text": "famous old case. Additionally, foreign law is not cited as binding precedent. Therefore,\nthe current American practice of the common law tradition refers more to the process of judges looking to the\nprecedent set jurisdictionally, and substantially similar to, American case law.\nMaintaining Order\nCongruent with the goal of establishing standards and promoting consistency, laws are also used to promote,\nprovide, and maintain order.\nResolving Disputes\nConflicts are to be expected given people’s",
+      "score_0_to_2": 1,
+      "reason": "The passage is mostly clear, but starts mid-sentence and ends with an unfinished sentence about conflicts."
+    },
+    {
+      "strategy": "C",
+      "page_id": "business-law-i-essentials-p014",
+      "page": 14,
+      "target_offset": 1003,
+      "chunk_id": "business-law-i-essentials-p014-C-999-245ad9f854c3",
+      "chunk_text": "famous old case. Additionally, foreign law is not cited as binding precedent. Therefore,\nthe current American practice of the common law tradition refers more to the process of judges looking to the\nprecedent set jurisdictionally, and substantially similar to, American case law.\nMaintaining Order\nCongruent with the goal of establishing standards and promoting consistency, laws are also used to promote,\nprovide, and maintain order.\nResolving Disputes\nConflicts are to be expected given people’s",
+      "score_0_to_2": 1,
+      "reason": "The passage is mostly clear, but starts mid-sentence and ends with an unfinished sentence about conflicts."
+    },
+    {
+      "strategy": "A",
+      "page_id": "business-law-i-essentials-p015",
+      "page": 15,
+      "target_offset": 1027,
+      "chunk_id": "business-law-i-essentials-p015-A-900-1517adacf79f",
+      "chunk_text": "l citizens, organizations, and entities. It includes Congressional acts,\nSenate-ratified treaties, executive regulations, and federal case law. The United States Code (“USC”) compiles\nthese laws.\nAmerican law mainly originates from constitutional law, common law also known as judicial law which is\nderived from cases heard by courts, legislative law which is derived from state and federal statutes, and\nadministrative law which comes from governmental agencies.\nThe Constitution\nThe United States C",
+      "score_0_to_2": 1,
+      "reason": "The passage is readable, but starts mid-word and ends at ?United States C?, truncating the next sentence."
+    },
+    {
+      "strategy": "B",
+      "page_id": "business-law-i-essentials-p015",
+      "page": 15,
+      "target_offset": 1027,
+      "chunk_id": "business-law-i-essentials-p015-B-999-290180476561",
+      "chunk_text": "executive regulations, and federal case law. The United States Code (“USC”) compiles\nthese laws.\nAmerican law mainly originates from constitutional law, common law also known as judicial law which is\nderived from cases heard by courts, legislative law which is derived from state and federal statutes, and\nadministrative law which comes from governmental agencies.\nThe Constitution\nThe United States Constitution is the foremost law of the land. The Constitution’s first ten amendments are\nreferred",
+      "score_0_to_2": 1,
+      "reason": "The main paragraph is understandable, but starts mid-sentence and ends at ?referred?."
+    },
+    {
+      "strategy": "C",
+      "page_id": "business-law-i-essentials-p015",
+      "page": 15,
+      "target_offset": 1027,
+      "chunk_id": "business-law-i-essentials-p015-C-999-290180476561",
+      "chunk_text": "executive regulations, and federal case law. The United States Code (“USC”) compiles\nthese laws.\nAmerican law mainly originates from constitutional law, common law also known as judicial law which is\nderived from cases heard by courts, legislative law which is derived from state and federal statutes, and\nadministrative law which comes from governmental agencies.\nThe Constitution\nThe United States Constitution is the foremost law of the land. The Constitution’s first ten amendments are\nreferred",
+      "score_0_to_2": 1,
+      "reason": "The main paragraph is understandable, but starts mid-sentence and ends at ?referred?."
+    },
+    {
+      "strategy": "A",
+      "page_id": "business-law-i-essentials-p016",
+      "page": 16,
+      "target_offset": 2056,
+      "chunk_id": "business-law-i-essentials-p016-A-1801-eb358590a581",
+      "chunk_text": "lawmaking continues to be left to the\nstates. Finally, a number of powerful federal and state laws coexist in areas such as antitrust, trademark,\nemployment law, and others.\nStatutes\nWhen a bill becomes a federal law, it is assigned a law number and prepared for publication by the Office of\nthe Federal Register (OFR) of the National Archives and Records Administration (NARA). Public laws are also\ngiven legal statutory citation by the OFR and are incorporated into the United States Code (USC).\nR",
+      "score_0_to_2": 1,
+      "reason": "The text is understandable, but begins mid-sentence and ends with an isolated ?R?."
+    },
+    {
+      "strategy": "B",
+      "page_id": "business-law-i-essentials-p016",
+      "page": 16,
+      "target_offset": 2056,
+      "chunk_id": "business-law-i-essentials-p016-B-1991-748bb73180d3",
+      "chunk_text": "bill becomes a federal law, it is assigned a law number and prepared for publication by the Office of\nthe Federal Register (OFR) of the National Archives and Records Administration (NARA). Public laws are also\ngiven legal statutory citation by the OFR and are incorporated into the United States Code (USC).\nRegulations\nLaws differ from regulations in that laws are passed by either the U.S. Congress or state congresses.\nRegulations, by contrast, are standards and rules adopted by administrative",
+      "score_0_to_2": 1,
+      "reason": "The passage explains statutes and regulations but starts mid-sentence and cuts off before completing the final definition."
+    },
+    {
+      "strategy": "C",
+      "page_id": "business-law-i-essentials-p016",
+      "page": 16,
+      "target_offset": 2056,
+      "chunk_id": "business-law-i-essentials-p016-C-1991-748bb73180d3",
+      "chunk_text": "bill becomes a federal law, it is assigned a law number and prepared for publication by the Office of\nthe Federal Register (OFR) of the National Archives and Records Administration (NARA). Public laws are also\ngiven legal statutory citation by the OFR and are incorporated into the United States Code (USC).\nRegulations\nLaws differ from regulations in that laws are passed by either the U.S. Congress or state congresses.\nRegulations, by contrast, are standards and rules adopted by administrative",
+      "score_0_to_2": 1,
+      "reason": "The passage explains statutes and regulations but starts mid-sentence and cuts off before completing the final definition."
+    },
+    {
+      "strategy": "A",
+      "page_id": "business-law-i-essentials-p017",
+      "page": 17,
+      "target_offset": 1052,
+      "chunk_id": "business-law-i-essentials-p017-A-900-885297413a1c",
+      "chunk_text": "ure 1.4 Contract law is just one type of law that businesses need to be concerned about. (Credit: edar/ pixabay/ License: CC0)\nAs noted, business law touches upon a number of other legal areas, practices, and concerns. Some of the most\nimportant of these, which are discussed in this section, are disputes and dispute settlement, business ethics\nand social responsibility, business and the United States Constitution, criminal liability, torts, contracts, labor\nand employment law, Unfair Trade Pract",
+      "score_0_to_2": 1,
+      "reason": "The excerpt is readable, but begins with a caption fragment and cuts off the topic list at ?Unfair Trade Pract?."
+    },
+    {
+      "strategy": "B",
+      "page_id": "business-law-i-essentials-p017",
+      "page": 17,
+      "target_offset": 1052,
+      "chunk_id": "business-law-i-essentials-p017-B-998-28baa1931488",
+      "chunk_text": "edar/ pixabay/ License: CC0)\nAs noted, business law touches upon a number of other legal areas, practices, and concerns. Some of the most\nimportant of these, which are discussed in this section, are disputes and dispute settlement, business ethics\nand social responsibility, business and the United States Constitution, criminal liability, torts, contracts, labor\nand employment law, Unfair Trade Practices and the Federal Trade Commission, international law, and\nsecurities regulation. Though they",
+      "score_0_to_2": 1,
+      "reason": "The list is understandable, but starts with a caption fragment and ends with the incomplete phrase ?Though they?."
+    },
+    {
+      "strategy": "C",
+      "page_id": "business-law-i-essentials-p017",
+      "page": 17,
+      "target_offset": 1052,
+      "chunk_id": "business-law-i-essentials-p017-C-998-28baa1931488",
+      "chunk_text": "edar/ pixabay/ License: CC0)\nAs noted, business law touches upon a number of other legal areas, practices, and concerns. Some of the most\nimportant of these, which are discussed in this section, are disputes and dispute settlement, business ethics\nand social responsibility, business and the United States Constitution, criminal liability, torts, contracts, labor\nand employment law, Unfair Trade Practices and the Federal Trade Commission, international law, and\nsecurities regulation. Though they",
+      "score_0_to_2": 1,
+      "reason": "The list is understandable, but starts with a caption fragment and ends with the incomplete phrase ?Though they?."
+    },
+    {
+      "strategy": "A",
+      "page_id": "business-law-i-essentials-p018",
+      "page": 18,
+      "target_offset": 2018,
+      "chunk_id": "business-law-i-essentials-p018-A-1800-0990a695510a",
+      "chunk_text": "led that corporations have the same Constitutional right to free speech as\nindividuals, and thus lifted the restrictions on contributions.\nCriminal Liability\nThe imposition of criminal liability is one method used to regulate companies. The extent of corporate liability\nfound in an offensive act determines whether a company will be held liable for the acts and omissions of its\nemployees. Criminal consequences may include penalties, such as prison, fines and/or community service. In\naddition to c",
+      "score_0_to_2": 1,
+      "reason": "The criminal-liability section is understandable, but starts with a fragment from the preceding topic and ends mid-sentence."
+    },
+    {
+      "strategy": "B",
+      "page_id": "business-law-i-essentials-p018",
+      "page": 18,
+      "target_offset": 2018,
+      "chunk_id": "business-law-i-essentials-p018-B-1985-f3a37e738ddc",
+      "chunk_text": "liability is one method used to regulate companies. The extent of corporate liability\nfound in an offensive act determines whether a company will be held liable for the acts and omissions of its\nemployees. Criminal consequences may include penalties, such as prison, fines and/or community service. In\naddition to criminal liability, civil law remedies are usually available, e.g., the award of damages and\ninjunctions, which may include penalties. Most jurisdictions apply both criminal and civil",
+      "score_0_to_2": 1,
+      "reason": "The main explanation is clear, but begins mid-sentence and ends before completing the final point."
+    },
+    {
+      "strategy": "C",
+      "page_id": "business-law-i-essentials-p018",
+      "page": 18,
+      "target_offset": 2018,
+      "chunk_id": "business-law-i-essentials-p018-C-1985-f3a37e738ddc",
+      "chunk_text": "liability is one method used to regulate companies. The extent of corporate liability\nfound in an offensive act determines whether a company will be held liable for the acts and omissions of its\nemployees. Criminal consequences may include penalties, such as prison, fines and/or community service. In\naddition to criminal liability, civil law remedies are usually available, e.g., the award of damages and\ninjunctions, which may include penalties. Most jurisdictions apply both criminal and civil",
+      "score_0_to_2": 1,
+      "reason": "The main explanation is clear, but begins mid-sentence and ends before completing the final point."
+    },
+    {
+      "strategy": "A",
+      "page_id": "business-law-i-essentials-p019",
+      "page": 19,
+      "target_offset": 1576,
+      "chunk_id": "business-law-i-essentials-p019-A-1350-2b7bf68d45d5",
+      "chunk_text": "urage the restraint of trade by prohibiting the creation of\ncartels and other collusive practices. Additionally, they encourage competition by restricting the mergers and\nacquisitions of certain organizations. Finally, they prohibit the creation and abuse of monopoly power.\nActions may be brought in courts to enforce antitrust laws by the Federal Trade Commission (“FTC”), the U.S.\nDepartment of Justice, state governments, and private parties.\nUnfair Trade Practices and the Federal Trade Commissi",
+      "score_0_to_2": 1,
+      "reason": "The text is understandable, but begins mid-sentence and cuts off the next heading at ?Commissi?."
+    },
+    {
+      "strategy": "B",
+      "page_id": "business-law-i-essentials-p019",
+      "page": 19,
+      "target_offset": 1576,
+      "chunk_id": "business-law-i-essentials-p019-B-1478-7456efb584e4",
+      "chunk_text": "competition by restricting the mergers and\nacquisitions of certain organizations. Finally, they prohibit the creation and abuse of monopoly power.\nActions may be brought in courts to enforce antitrust laws by the Federal Trade Commission (“FTC”), the U.S.\nDepartment of Justice, state governments, and private parties.\nUnfair Trade Practices and the Federal Trade Commission\nThe term “unfair trade practices” is broadly used and refers to any deceptive or fraudulent business practice or\nact that",
+      "score_0_to_2": 1,
+      "reason": "The definition is mostly clear, but starts mid-sentence and ends with the unfinished phrase ?act that?."
+    },
+    {
+      "strategy": "C",
+      "page_id": "business-law-i-essentials-p019",
+      "page": 19,
+      "target_offset": 1576,
+      "chunk_id": "business-law-i-essentials-p019-C-1478-7456efb584e4",
+      "chunk_text": "competition by restricting the mergers and\nacquisitions of certain organizations. Finally, they prohibit the creation and abuse of monopoly power.\nActions may be brought in courts to enforce antitrust laws by the Federal Trade Commission (“FTC”), the U.S.\nDepartment of Justice, state governments, and private parties.\nUnfair Trade Practices and the Federal Trade Commission\nThe term “unfair trade practices” is broadly used and refers to any deceptive or fraudulent business practice or\nact that",
+      "score_0_to_2": 1,
+      "reason": "The definition is mostly clear, but starts mid-sentence and ends with the unfinished phrase ?act that?."
+    },
+    {
+      "strategy": "A",
+      "page_id": "business-law-i-essentials-p020",
+      "page": 20,
+      "target_offset": 892,
+      "chunk_id": "business-law-i-essentials-p020-A-450-7c9ce7d1dbca",
+      "chunk_text": "lations issued by administrative agencies.\nc. statutes enacted by Congress and the state legislatures.\nd. uniform laws drafted by legal scholars.\n4 . What is the difference between state and federal law?\n5 . The legislature of the state of Wyoming enacts a new statute that sets standards for the liability of\nbusinesses selling defective products. This statute applies in:\na. Wyoming only.\nb. only Wyoming and its bordering states.\nc. all states.\nd. all states but only to matters not covered by oth",
+      "score_0_to_2": 1,
+      "reason": "The questions/options are readable as quiz material, but the excerpt starts and ends mid-item."
+    },
+    {
+      "strategy": "B",
+      "page_id": "business-law-i-essentials-p020",
+      "page": 20,
+      "target_offset": 892,
+      "chunk_id": "business-law-i-essentials-p020-B-496-2674c8e1638e",
+      "chunk_text": "statutes enacted by Congress and the state legislatures.\nd. uniform laws drafted by legal scholars.\n4 . What is the difference between state and federal law?\n5 . The legislature of the state of Wyoming enacts a new statute that sets standards for the liability of\nbusinesses selling defective products. This statute applies in:\na. Wyoming only.\nb. only Wyoming and its bordering states.\nc. all states.\nd. all states but only to matters not covered by other states’ laws.\n6 . Alex has been sued by",
+      "score_0_to_2": 1,
+      "reason": "The questions/options are readable as quiz material, but the excerpt starts and ends mid-item."
+    },
+    {
+      "strategy": "C",
+      "page_id": "business-law-i-essentials-p020",
+      "page": 20,
+      "target_offset": 892,
+      "chunk_id": "business-law-i-essentials-p020-C-496-2674c8e1638e",
+      "chunk_text": "statutes enacted by Congress and the state legislatures.\nd. uniform laws drafted by legal scholars.\n4 . What is the difference between state and federal law?\n5 . The legislature of the state of Wyoming enacts a new statute that sets standards for the liability of\nbusinesses selling defective products. This statute applies in:\na. Wyoming only.\nb. only Wyoming and its bordering states.\nc. all states.\nd. all states but only to matters not covered by other states’ laws.\n6 . Alex has been sued by",
+      "score_0_to_2": 1,
+      "reason": "The questions/options are readable as quiz material, but the excerpt starts and ends mid-item."
+    },
+    {
+      "strategy": "A",
+      "page_id": "business-law-i-essentials-p021",
+      "page": 21,
+      "target_offset": 1042,
+      "chunk_id": "business-law-i-essentials-p021-A-900-dfe03b0ef50b",
+      "chunk_text": "usiness Law. UpCounsel. Retrieved from: https://www.upcounsel.com/purposes-\nand-functions-of-business-law.\nWilliams, L. and Lumen Learning. The Meaning and Purposes of Law. Lumen Learning – Introduction to\nBusiness. Retrieved from: https://courses.lumenlearning.com/wmopen-introbusiness/chapter/meaning-and-\npurposes-of-the-law/.\nFeltes, G. A Guide to the U.S. Federal Legal System - Web-based Public Accessible Sources. 2005. Hauser Global\nLaw School Program. Retrieved from: http://www.nyulawglobal",
+      "score_0_to_2": 1,
+      "reason": "The reference list is legible, but this excerpt ends mid-URL and is not a complete citation."
+    },
+    {
+      "strategy": "B",
+      "page_id": "business-law-i-essentials-p021",
+      "page": 21,
+      "target_offset": 1042,
+      "chunk_id": "business-law-i-essentials-p021-B-976-598f5714f5bf",
+      "chunk_text": "and-functions-of-business-law.\nWilliams, L. and Lumen Learning. The Meaning and Purposes of Law. Lumen Learning – Introduction to\nBusiness. Retrieved from: https://courses.lumenlearning.com/wmopen-introbusiness/chapter/meaning-and-\npurposes-of-the-law/.\nFeltes, G. A Guide to the U.S. Federal Legal System - Web-based Public Accessible Sources. 2005. Hauser Global\nLaw School Program. Retrieved from: http://www.nyulawglobal.org/globalex/United_States.html.\nHow Laws Are Made. GovTrack. Retrieved",
+      "score_0_to_2": 1,
+      "reason": "The reference list is legible, but the excerpt starts and ends mid-citation."
+    },
+    {
+      "strategy": "C",
+      "page_id": "business-law-i-essentials-p021",
+      "page": 21,
+      "target_offset": 1042,
+      "chunk_id": "business-law-i-essentials-p021-C-976-598f5714f5bf",
+      "chunk_text": "and-functions-of-business-law.\nWilliams, L. and Lumen Learning. The Meaning and Purposes of Law. Lumen Learning – Introduction to\nBusiness. Retrieved from: https://courses.lumenlearning.com/wmopen-introbusiness/chapter/meaning-and-\npurposes-of-the-law/.\nFeltes, G. A Guide to the U.S. Federal Legal System - Web-based Public Accessible Sources. 2005. Hauser Global\nLaw School Program. Retrieved from: http://www.nyulawglobal.org/globalex/United_States.html.\nHow Laws Are Made. GovTrack. Retrieved",
+      "score_0_to_2": 1,
+      "reason": "The reference list is legible, but the excerpt starts and ends mid-citation."
+    },
+    {
+      "strategy": "A",
+      "page_id": "business-law-i-essentials-p023",
+      "page": 23,
+      "target_offset": 888,
+      "chunk_id": "business-law-i-essentials-p023-A-450-e10165f8eea2",
+      "chunk_text": "ng on a place to eat dinner, or\ncomplex, e.g., governments of several nations trying to establish import and export quotas across multiple\nindustries. When a formal proceeding is started in the court system, alternative dispute resolution (ADR), or\nways of solving an issue with the intent to avoid litigation, may be employed. Negotiation is often the first\nstep used in ADR. While there are other forms of alternative dispute resolution, negotiation is considered to be\nthe simplest because it does",
+      "score_0_to_2": 1,
+      "reason": "The excerpt is understandable, but starts mid-sentence and is cut off at ?does?."
+    },
+    {
+      "strategy": "B",
+      "page_id": "business-law-i-essentials-p023",
+      "page": 23,
+      "target_offset": 888,
+      "chunk_id": "business-law-i-essentials-p023-B-497-d7a073daaf56",
+      "chunk_text": "governments of several nations trying to establish import and export quotas across multiple\nindustries. When a formal proceeding is started in the court system, alternative dispute resolution (ADR), or\nways of solving an issue with the intent to avoid litigation, may be employed. Negotiation is often the first\nstep used in ADR. While there are other forms of alternative dispute resolution, negotiation is considered to be\nthe simplest because it does not require outside parties. An article in the",
+      "score_0_to_2": 1,
+      "reason": "The paragraph is mostly understandable, but starts mid-sentence and ends with the incomplete phrase ?article in the?."
+    },
+    {
+      "strategy": "C",
+      "page_id": "business-law-i-essentials-p023",
+      "page": 23,
+      "target_offset": 888,
+      "chunk_id": "business-law-i-essentials-p023-C-497-d7a073daaf56",
+      "chunk_text": "governments of several nations trying to establish import and export quotas across multiple\nindustries. When a formal proceeding is started in the court system, alternative dispute resolution (ADR), or\nways of solving an issue with the intent to avoid litigation, may be employed. Negotiation is often the first\nstep used in ADR. While there are other forms of alternative dispute resolution, negotiation is considered to be\nthe simplest because it does not require outside parties. An article in the",
+      "score_0_to_2": 1,
+      "reason": "The paragraph is mostly understandable, but starts mid-sentence and ends with the incomplete phrase ?article in the?."
+    }
+  ]
+}
