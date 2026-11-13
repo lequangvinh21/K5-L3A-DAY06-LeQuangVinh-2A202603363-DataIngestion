@@ -1,0 +1,123 @@
+{
+  "run_id": "20261113T112333.795893Z",
+  "split": "test",
+  "selected_strategy": "A",
+  "selection_source": "chosen on dev before test",
+  "source_id": "business-law-i-essentials",
+  "physical_page_count": 165,
+  "counted_page_count": 131,
+  "source_text_characters": 321761,
+  "pdf_ingestion_seconds": 2.6372,
+  "ocr_used": false,
+  "embedding_provider": "Sentence Transformers (local CPU)",
+  "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "embedding_dimensions": 384,
+  "query_and_document_encoding": "Same model encode method; L2-normalized embeddings.",
+  "model_max_sequence_length": 128,
+  "vector_store": "PostgreSQL + pgvector",
+  "database": {
+    "postgresql_version": "16.16 (Debian 16.16-1.pgdg12+1)",
+    "pgvector_version": "0.8.7"
+  },
+  "vector_table": "day6_chunks_384",
+  "distance_metric": "cosine",
+  "search_mode": "exact",
+  "cost": 0,
+  "software_versions": {
+    "python": "3.12.10",
+    "sentence-transformers": "5.7.0",
+    "pypdf": "6.21.4",
+    "psycopg": "3.3.8"
+  },
+  "configurations": {
+    "A": {
+      "chunking": "fixed characters",
+      "size": 500,
+      "overlap": 50,
+      "filter": false
+    },
+    "B": {
+      "chunking": "paragraph-aware",
+      "max_size": 500,
+      "filter": false
+    },
+    "C": {
+      "chunking": "paragraph-aware",
+      "max_size": 500,
+      "filter": "metadata chapter when present in question"
+    }
+  },
+  "selection_rule": "Choose on dev by highest Evidence Hit@3, then Hit@1, then lower total chunk characters and processing time. Do not select or tune using test results.",
+  "resources": {
+    "A": {
+      "chunk_count": 764,
+      "total_chunk_characters": 353222,
+      "min_chunk_characters": 57,
+      "mean_chunk_characters": 462.33,
+      "max_chunk_characters": 500,
+      "chunking_seconds": 0.0304,
+      "embedding_seconds": 44.795,
+      "storage_seconds": 0.7292
+    },
+    "B": {
+      "chunk_count": 712,
+      "total_chunk_characters": 321180,
+      "min_chunk_characters": 17,
+      "mean_chunk_characters": 451.1,
+      "max_chunk_characters": 500,
+      "chunking_seconds": 0.114,
+      "embedding_seconds": 42.0882,
+      "storage_seconds": 0.7119
+    },
+    "C": {
+      "chunk_count": 712,
+      "total_chunk_characters": 321180,
+      "min_chunk_characters": 17,
+      "mean_chunk_characters": 451.1,
+      "max_chunk_characters": 500,
+      "chunking_seconds": 0.0844,
+      "embedding_seconds": 40.4833,
+      "storage_seconds": 0.6718
+    }
+  },
+  "retrieval_metrics": {
+    "A": {
+      "test": {
+        "question_count": 5,
+        "hit_at_1_count": 3,
+        "hit_at_1": 0.6,
+        "evidence_hit_at_3_count": 4,
+        "evidence_hit_at_3": 0.8
+      }
+    },
+    "B": {
+      "test": {
+        "question_count": 5,
+        "hit_at_1_count": 3,
+        "hit_at_1": 0.6,
+        "evidence_hit_at_3_count": 3,
+        "evidence_hit_at_3": 0.6
+      }
+    },
+    "C": {
+      "test": {
+        "question_count": 5,
+        "hit_at_1_count": 3,
+        "hit_at_1": 0.6,
+        "evidence_hit_at_3_count": 3,
+        "evidence_hit_at_3": 0.6
+      }
+    }
+  },
+  "strategy_comparisons": {
+    "A_vs_B_test": {
+      "hit_at_1_delta": 0.0,
+      "evidence_hit_at_3_delta": -0.2
+    },
+    "B_vs_C_test": {
+      "hit_at_1_delta": 0.0,
+      "evidence_hit_at_3_delta": 0.0
+    }
+  },
+  "extraction_warning_count": 1
+}
